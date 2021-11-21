@@ -1,0 +1,25 @@
+.. Monalisa documentation master file, created by
+   sphinx-quickstart on Tue Mar 16 10:05:08 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to the documentation of the MonaLiSa/Listeningsskills project
+=====================================================================
+
+.. image:: images/monalisa-hero.jpg
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   introduction
+   embed
+   changes
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

@@ -1,0 +1,6 @@
+furo
+pygments
+Sphinx
+sphinx-intl
+sphinx-jsonschema
+sphinxcontrib-httpdomain
