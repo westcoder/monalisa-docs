@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../changes.rst:2
 msgid "Changes"
-msgstr ""
+msgstr "Änderungen"
 
 #: ../../changes.rst:5
 msgid "MonaLiSa 1.0.0"
@@ -27,4 +27,4 @@ msgstr ""
 
 #: ../../changes.rst:7
 msgid "Not yet released. * Initial release"
-msgstr ""
+msgstr "Noch nicht veröffentlicht. * Initiales Release"

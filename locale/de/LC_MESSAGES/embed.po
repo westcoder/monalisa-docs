@@ -19,4 +19,4 @@ msgstr ""
 
 #: ../../embed.rst:2
 msgid "Embed"
-msgstr ""
+msgstr "Einbetten"
