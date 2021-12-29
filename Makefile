@@ -14,6 +14,12 @@ help:
 
 .PHONY: help Makefile
 
+update-po: $(wildcard locales/*/LC_MESSAGES/docs.po)
+
+locales/docs.pot: gettext
+	@cp _build/gettext/docs.pot $@
+
+
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
