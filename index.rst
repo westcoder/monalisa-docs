@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the documentation of the MonaLiSa/Listeningsskills project
+Welcome to the documentation of the MonaLiSa/Listeningskills project
 =====================================================================
 
 .. image:: images/monalisa-hero.jpg
@@ -15,7 +15,9 @@ Welcome to the documentation of the MonaLiSa/Listeningsskills project
    introduction
    embed
    changes
-
+   partners
+   imprint
+   privacy
 
 Indices and tables
 ==================
