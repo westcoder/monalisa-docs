@@ -5,19 +5,18 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: MonaLiSa\n"
+"Project-Id-Version:  MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-26 15:19+0100\n"
+"POT-Creation-Date: 2022-01-26 15:54+0100\n"
 "PO-Revision-Date: 2022-01-26 14:30+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
-"Language-Team: German <https://trans.westcode.de/projects/monalisa/"
-"documentation/de/>\n"
 "Language: de\n"
+"Language-Team: German "
+"<https://trans.westcode.de/projects/monalisa/documentation/de/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -67,7 +66,8 @@ msgstr "Vertreten durch"
 #: ../../imprint.rst:12
 msgid "IFOTES Europe e.V. represented by Dr. Stefan Schumacher (Board Member)"
 msgstr ""
-"IFOTES Europe e.V. vertreten durch Dr. Stefan Schumacher (Vorstandsmitglied)"
+"IFOTES Europe e.V. vertreten durch Dr. Stefan Schumacher "
+"(Vorstandsmitglied)"
 
 #: ../../imprint.rst:15
 msgid "Contact"
@@ -164,12 +164,13 @@ msgid ""
 msgstr ""
 "In allen europäischen Mitgliedstaaten gibt es telefonische oder "
 "internetbasierte Krisendienste für Menschen in Not, mit Suizidabsichten, "
-"verschiedenen psychischen Problemen und vielen lebensbegrenzenden Problemen. "
-"Die Aufgabe der Krisendienste besteht darin, diese Menschen zu begleiten, "
-"ihnen Kontakt oder Beziehung zu vermitteln, sie emotional zu entlasten, "
-"Orientierung zu geben und gegebenenfalls suizidale Krisen aufzufangen. Die "
-"meisten Krisendienste arbeiten mit Ehrenamtlichen, die monatelang sorgfältig "
-"auf diese verantwortungsvolle Tätigkeit vorbereitet werden."
+"verschiedenen psychischen Problemen und vielen lebensbegrenzenden "
+"Problemen. Die Aufgabe der Krisendienste besteht darin, diese Menschen zu"
+" begleiten, ihnen Kontakt oder Beziehung zu vermitteln, sie emotional zu "
+"entlasten, Orientierung zu geben und gegebenenfalls suizidale Krisen "
+"aufzufangen. Die meisten Krisendienste arbeiten mit Ehrenamtlichen, die "
+"monatelang sorgfältig auf diese verantwortungsvolle Tätigkeit vorbereitet"
+" werden."
 
 #: ../../introduction.rst:5
 msgid ""
@@ -182,14 +183,14 @@ msgid ""
 " ongoing training is needed. The core competence for crisis support is "
 "listening."
 msgstr ""
-"Nach Angaben der International Association of Telephone Emergency Services "
-"(IFOTES) gibt es in Europa etwa 350 Krisenzentren mit über 20 000 "
-"Freiwilligen, die Tag und Nacht bei über 4 Millionen Telefonanrufen und über "
-"100 000 Internetkontakten Notfallhilfe leisten. Jedes Jahr müssen 2-3 "
-"Tausend Freiwillige geschult werden, um den Notrufdienst rund um die Uhr "
-"aufrechtzuerhalten. Die Rekrutierung von Freiwilligen ist komplex und "
-"kostspielig, und es ist eine kontinuierliche Schulung erforderlich. Die "
-"Kernkompetenz der Krisenhilfe ist das Zuhören."
+"Nach Angaben der International Association of Telephone Emergency "
+"Services (IFOTES) gibt es in Europa etwa 350 Krisenzentren mit über 20 "
+"000 Freiwilligen, die Tag und Nacht bei über 4 Millionen Telefonanrufen "
+"und über 100 000 Internetkontakten Notfallhilfe leisten. Jedes Jahr "
+"müssen 2-3 Tausend Freiwillige geschult werden, um den Notrufdienst rund "
+"um die Uhr aufrechtzuerhalten. Die Rekrutierung von Freiwilligen ist "
+"komplex und kostspielig, und es ist eine kontinuierliche Schulung "
+"erforderlich. Die Kernkompetenz der Krisenhilfe ist das Zuhören."
 
 #: ../../introduction.rst:7
 msgid ""
@@ -201,11 +202,11 @@ msgid ""
 "technique and art of competent listening."
 msgstr ""
 "Vor diesem Hintergrund haben sich 9 Partner aus 6 EU-Mitgliedstaaten zu "
-"einem interdisziplinären Konsortium zusammengeschlossen, um das vorhandene "
-"Wissen über Zuhörfähigkeiten individueller zu erweitern, die Architektur des "
-"Zuhörens zu erforschen, die Kompetenzen der Menschen und ihre Fähigkeit, mit "
-"dem Herzen zuzuhören, zu messen und neue Erkenntnisse über die Technik und "
-"Kunst des kompetenten Zuhörens zu gewinnen."
+"einem interdisziplinären Konsortium zusammengeschlossen, um das "
+"vorhandene Wissen über Zuhörfähigkeiten individueller zu erweitern, die "
+"Architektur des Zuhörens zu erforschen, die Kompetenzen der Menschen und "
+"ihre Fähigkeit, mit dem Herzen zuzuhören, zu messen und neue Erkenntnisse"
+" über die Technik und Kunst des kompetenten Zuhörens zu gewinnen."
 
 #: ../../introduction.rst:9
 msgid ""
@@ -215,51 +216,132 @@ msgid ""
 "the field of social skills, skills assessment and vocational guidance "
 "(IT) and a developer of digital platform solutions (DE)."
 msgstr ""
-"Die strategische Partnerschaft besteht aus sechs Telefonnotrufdiensten (TES) "
-"aus DE, IT, HU, FR, NL und ES, einem auf emotionale und psychische "
+"Die strategische Partnerschaft besteht aus sechs Telefonnotrufdiensten "
+"(TES) aus DE, IT, HU, FR, NL und ES, einem auf emotionale und psychische "
 "Gesundheit spezialisierten Forschungszentrum (DE), einem Schulungs- und "
-"Beratungsunternehmen im Bereich soziale Kompetenzen, Kompetenzbewertung und "
-"Berufsberatung (IT) und einem Entwickler digitaler Plattformlösungen (DE)."
+"Beratungsunternehmen im Bereich soziale Kompetenzen, Kompetenzbewertung "
+"und Berufsberatung (IT) und einem Entwickler digitaler Plattformlösungen "
+"(DE)."
 
 #: ../../partners.rst:2
 msgid "Partners"
 msgstr "Partner"
 
-#: ../../partners.rst:5
-msgid "IFOTES Europe, Germany"
-msgstr "IFOTES Europa, Deutschland"
+#: ../../partners.rst:6
+msgid "IFOTES Europe"
+msgstr ""
+
+#: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
+#: ../../partners.rst:12 ../../privacy.rst:16
+msgid "Germany"
+msgstr "Deutschland"
+
+#: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
+#: ../../partners.rst:12
+#, fuzzy
+msgid "Lead Partner"
+msgstr "Partner"
 
 #: ../../partners.rst:6
-msgid "Universitätsklinikum Heidelberg, Germany"
-msgstr "Universitätsklinikum Heidelberg, Deutschland"
-
-#: ../../partners.rst:7
-msgid "Studio Rucli, Italiy"
-msgstr "Studio Rucli, Italien"
+msgid "`ifotes.org <https://ifotes.org/>`_"
+msgstr ""
 
 #: ../../partners.rst:8
-msgid "Westcode GmbH, Germany"
-msgstr "Westcode GmbH, Deutschland"
+#, fuzzy
+msgid "Universitätsklinikum Heidelberg"
+msgstr "Universitätsklinikum Heidelberg, Deutschland"
 
-#: ../../partners.rst:9
-msgid "LESZ, Hungary"
-msgstr "LESZ, Ungarn"
+#: ../../partners.rst:8
+msgid ""
+"`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-"
+"heidelberg.de/>`_"
+msgstr ""
 
 #: ../../partners.rst:10
-msgid "Telefono Amico, Italy"
-msgstr "Telefono Amico, Italien"
+#, fuzzy
+msgid "Studio Rucli"
+msgstr "Studio Rucli, Italien"
 
-#: ../../partners.rst:11
-msgid "SOS Amitié, France"
-msgstr "SOS Amitié, Frankreich"
+#: ../../partners.rst:10
+msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
+msgstr ""
 
 #: ../../partners.rst:12
-msgid "ASITES, Spain"
-msgstr "ASITES, Spanien"
+msgid "Westcode GmbH"
+msgstr ""
 
-#: ../../partners.rst:13
-msgid "De Luisterlijn, The Netherlands"
+#: ../../partners.rst:12
+msgid "`westcode.de <https://www.westcode.de/>`_"
+msgstr ""
+
+#: ../../partners.rst:14
+msgid "LESZ"
+msgstr ""
+
+#: ../../partners.rst:14
+#, fuzzy
+msgid "Hungary"
+msgstr "LESZ, Ungarn"
+
+#: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
+#: ../../partners.rst:20 ../../partners.rst:22
+#, fuzzy
+msgid "Partner"
+msgstr "Partner"
+
+#: ../../partners.rst:14
+msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
+msgstr ""
+
+#: ../../partners.rst:16
+#, fuzzy
+msgid "Telefono Amico"
+msgstr "Telefono Amico, Italien"
+
+#: ../../partners.rst:16
+msgid "Italy"
+msgstr ""
+
+#: ../../partners.rst:16
+msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "SOS Amitié"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "France"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "ASITES"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "Spain"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
+msgstr ""
+
+#: ../../partners.rst:22
+msgid "De Luisterlijn"
+msgstr ""
+
+#: ../../partners.rst:22
+#, fuzzy
+msgid "The Netherlands"
 msgstr "De Luisterlijn, Die Niederlande"
+
+#: ../../partners.rst:22
+msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
+msgstr ""
 
 #: ../../privacy.rst:2
 msgid "Privacy and data protection"
@@ -278,10 +360,10 @@ msgid ""
 "all the relevant information on this page."
 msgstr ""
 "Das Thema Datenschutz ist in der EU-Datenschutzgrundverordnung (DSGVO) "
-"umfassend geregelt. Damit Sie wissen, welche Daten wir von Ihnen erfassen, "
-"wie wir sie verarbeiten, was wir zum Schutz Ihrer Daten tun und an wen Sie "
-"sich bei Fragen wenden können, haben wir auf dieser Seite alle relevanten "
-"Informationen zusammengestellt."
+"umfassend geregelt. Damit Sie wissen, welche Daten wir von Ihnen "
+"erfassen, wie wir sie verarbeiten, was wir zum Schutz Ihrer Daten tun und"
+" an wen Sie sich bei Fragen wenden können, haben wir auf dieser Seite "
+"alle relevanten Informationen zusammengestellt."
 
 #: ../../privacy.rst:9
 msgid "Person responsible and scope"
@@ -290,10 +372,6 @@ msgstr "Verantwortliche Person und Umfang"
 #: ../../privacy.rst:10
 msgid "The person responsible according to the GDPR is:"
 msgstr "Der Verantwortliche im Sinne der Datenschutz-Grundverordnung ist:"
-
-#: ../../privacy.rst:16
-msgid "Germany"
-msgstr "Deutschland"
 
 #: ../../privacy.rst:18
 msgid "Telephone: +49 2331 17773"
@@ -304,8 +382,9 @@ msgid ""
 "This privacy policy applies to our tool ``listening-skills.eu`` as well "
 "as to our documentation page ``docs.listening-skills.eu``."
 msgstr ""
-"Diese Datenschutzerklärung gilt sowohl für unser Tool ``listening-skills.eu``"
-" als auch für unsere Dokumentationsseite ``docs.listening-skills.eu``."
+"Diese Datenschutzerklärung gilt sowohl für unser Tool ``listening-"
+"skills.eu`` als auch für unsere Dokumentationsseite ``docs.listening-"
+"skills.eu``."
 
 #: ../../privacy.rst:24
 msgid ""
@@ -316,8 +395,8 @@ msgid ""
 " Docs."
 msgstr ""
 "Wir betreiben den Dienst ``docs.listening-skills.eu`` außerhalb unserer "
-"eigenen Infrastruktur bei ReadTheDocs, um die Dokumentation unseres Tools "
-"erstellen und hosten zu können. Bitte beachten Sie die "
+"eigenen Infrastruktur bei ReadTheDocs, um die Dokumentation unseres Tools"
+" erstellen und hosten zu können. Bitte beachten Sie die "
 "``Datenschutzbestimmungen`` von Read The Docs."
 
 #: ../../privacy.rst:28
@@ -338,16 +417,16 @@ msgid ""
 " legally required retention requirements have to be maintained."
 msgstr ""
 "Personenbezogene Daten sind alle Informationen, die sich auf eine "
-"identifizierte oder identifizierbare natürliche Person beziehen. Darunter "
-"fallen z.B. Informationen wie Ihr Name, Alter, Adresse, Telefonnummer, "
+"identifizierte oder identifizierbare natürliche Person beziehen. Darunter"
+" fallen z.B. Informationen wie Ihr Name, Alter, Adresse, Telefonnummer, "
 "Geburtsdatum, E-Mail-Adresse, IP-Adresse oder Nutzerverhalten. "
-"Informationen, die wir nicht (oder nur mit unverhältnismäßigem Aufwand) mit "
-"Ihrer Person in Verbindung bringen können, z. B. durch Anonymisierung der "
-"Informationen, sind keine personenbezogenen Daten. Die Verarbeitung "
-"personenbezogener Daten (z.B. das Erheben, Abfragen, Nutzen, Speichern oder "
-"Übermitteln) bedarf stets einer gesetzlichen Grundlage oder Ihrer "
-"Einwilligung. Verarbeitete personenbezogene Daten werden gelöscht, sobald "
-"der Zweck der Verarbeitung erreicht ist und keine gesetzlichen "
+"Informationen, die wir nicht (oder nur mit unverhältnismäßigem Aufwand) "
+"mit Ihrer Person in Verbindung bringen können, z. B. durch Anonymisierung"
+" der Informationen, sind keine personenbezogenen Daten. Die Verarbeitung "
+"personenbezogener Daten (z.B. das Erheben, Abfragen, Nutzen, Speichern "
+"oder Übermitteln) bedarf stets einer gesetzlichen Grundlage oder Ihrer "
+"Einwilligung. Verarbeitete personenbezogene Daten werden gelöscht, sobald"
+" der Zweck der Verarbeitung erreicht ist und keine gesetzlichen "
 "Aufbewahrungspflichten mehr bestehen."
 
 #: ../../privacy.rst:31
@@ -360,8 +439,8 @@ msgstr ""
 "Wenn wir Ihre personenbezogenen Daten zum Zwecke der Bereitstellung "
 "bestimmter Angebote verarbeiten, werden wir Sie anschließend über die "
 "konkreten Vorgänge, den Umfang und Zweck der Datenverarbeitung, die "
-"Rechtsgrundlage für die Verarbeitung und die jeweilige Aufbewahrungsfrist "
-"informieren."
+"Rechtsgrundlage für die Verarbeitung und die jeweilige Aufbewahrungsfrist"
+" informieren."
 
 #: ../../privacy.rst:34
 msgid "Use of our website"
@@ -374,11 +453,11 @@ msgid ""
 "the browser used; However, we anonymise your IP address using IP masking,"
 " so that we do not collect any personal data."
 msgstr ""
-"Bei der Nutzung unserer Webseiten können wir Webserver-Protokolle erstellen, "
-"die das Datum und die Uhrzeit, den abgerufenen URL-Pfad, den Referrer (falls "
-"zutreffend) und den verwendeten Browser enthalten; wir anonymisieren jedoch "
-"Ihre IP-Adresse durch IP-Masking, so dass wir keine personenbezogenen Daten "
-"erfassen."
+"Bei der Nutzung unserer Webseiten können wir Webserver-Protokolle "
+"erstellen, die das Datum und die Uhrzeit, den abgerufenen URL-Pfad, den "
+"Referrer (falls zutreffend) und den verwendeten Browser enthalten; wir "
+"anonymisieren jedoch Ihre IP-Adresse durch IP-Masking, so dass wir keine "
+"personenbezogenen Daten erfassen."
 
 #: ../../privacy.rst:38
 msgid "Use of cookies"
@@ -391,10 +470,10 @@ msgid ""
 "from the one we recognized from your first visit, we can present you the "
 "tool in the same language on the next visit."
 msgstr ""
-"Wir setzen nur ein Cookie für die Sprache des Tools: z.B. ``lang=de`` für "
-"die Dauer eines Jahres. Wenn Sie also die Sprache ändern, die wir bei Ihrem "
-"ersten Besuch erkannt haben, können wir Ihnen das Tool beim nächsten Besuch "
-"in der gleichen Sprache präsentieren."
+"Wir setzen nur ein Cookie für die Sprache des Tools: z.B. ``lang=de`` für"
+" die Dauer eines Jahres. Wenn Sie also die Sprache ändern, die wir bei "
+"Ihrem ersten Besuch erkannt haben, können wir Ihnen das Tool beim "
+"nächsten Besuch in der gleichen Sprache präsentieren."
 
 #: ../../privacy.rst:41
 msgid ""
@@ -404,11 +483,11 @@ msgid ""
 "persistently, but is automatically deleted when the browser window is "
 "closed."
 msgstr ""
-"Wenn Sie sich registrieren oder anmelden, setzen wir ein Cookie, das eine "
-"Sitzungs-ID enthält. Dies ist technisch zwingend erforderlich, um Ihren "
-"Login-Status zu erhalten, und bedarf daher keiner gesonderten Zustimmung. "
-"Das Cookie wird nicht dauerhaft gespeichert, sondern automatisch gelöscht, "
-"wenn das Browserfenster geschlossen wird."
+"Wenn Sie sich registrieren oder anmelden, setzen wir ein Cookie, das eine"
+" Sitzungs-ID enthält. Dies ist technisch zwingend erforderlich, um Ihren "
+"Login-Status zu erhalten, und bedarf daher keiner gesonderten Zustimmung."
+" Das Cookie wird nicht dauerhaft gespeichert, sondern automatisch "
+"gelöscht, wenn das Browserfenster geschlossen wird."
 
 #: ../../privacy.rst:44
 msgid "Tracking and analysis tools"
@@ -442,15 +521,15 @@ msgid ""
 "obvious, because that’s how the Internet works, but our lawyers thought "
 "we should write it down.)"
 msgstr ""
-"Gelegentlich finden Sie auf unserer Website Links zu anderen Websites. Wenn "
-"Sie diese Links aktivieren, werden Sie auf die Website eines anderen "
-"Betreibers weitergeleitet, was Sie an der geänderten URL im Browser erkennen "
-"können. Wir haben keine Kontrolle über deren Inhalt und tragen daher keine "
-"Verantwortung dafür, wie diese anderen Websites mit Ihren persönlichen Daten "
-"umgehen. Wir haben nicht überprüft, ob die Betreiber dieser Websites die "
-"GDPR einhalten. Bitte informieren Sie sich darüber. (Hoffentlich ist das "
-"offensichtlich, denn so funktioniert das Internet, aber unsere Anwälte "
-"dachten, wir sollten es aufschreiben.)"
+"Gelegentlich finden Sie auf unserer Website Links zu anderen Websites. "
+"Wenn Sie diese Links aktivieren, werden Sie auf die Website eines anderen"
+" Betreibers weitergeleitet, was Sie an der geänderten URL im Browser "
+"erkennen können. Wir haben keine Kontrolle über deren Inhalt und tragen "
+"daher keine Verantwortung dafür, wie diese anderen Websites mit Ihren "
+"persönlichen Daten umgehen. Wir haben nicht überprüft, ob die Betreiber "
+"dieser Websites die GDPR einhalten. Bitte informieren Sie sich darüber. "
+"(Hoffentlich ist das offensichtlich, denn so funktioniert das Internet, "
+"aber unsere Anwälte dachten, wir sollten es aufschreiben.)"
 
 #: ../../privacy.rst:57
 msgid "Data subject rights"
@@ -461,9 +540,9 @@ msgid ""
 "As a person affected by the processing of personal data you have the "
 "following rights under GDPR, and we are obliged to point this out to you:"
 msgstr ""
-"Als von der Verarbeitung personenbezogener Daten betroffene Person haben Sie "
-"nach der DSGVO die folgenden Rechte, und wir sind verpflichtet, Sie darauf "
-"hinzuweisen:"
+"Als von der Verarbeitung personenbezogener Daten betroffene Person haben "
+"Sie nach der DSGVO die folgenden Rechte, und wir sind verpflichtet, Sie "
+"darauf hinzuweisen:"
 
 #: ../../privacy.rst:60
 msgid ""
@@ -480,16 +559,17 @@ msgid ""
 "meaningful information about its details."
 msgstr ""
 "Gemäss Art. 15 DSGVO können Sie Auskunft über Ihre von uns verarbeiteten "
-"personenbezogenen Daten verlangen. Insbesondere können Sie Auskunft über die "
-"Zwecke der Verarbeitung, die Kategorien personenbezogener Daten, die "
+"personenbezogenen Daten verlangen. Insbesondere können Sie Auskunft über "
+"die Zwecke der Verarbeitung, die Kategorien personenbezogener Daten, die "
 "Kategorien von Empfängern, an die Ihre Daten weitergegeben wurden oder "
 "werden, die vorgesehene Speicherdauer, das Bestehen eines Rechts auf "
-"Berichtigung, Löschung, Einschränkung der Verarbeitung oder Widerspruch, das "
-"Bestehen eines Beschwerderechts, die Herkunft Ihrer Daten, sofern sie nicht "
-"bei uns erhoben wurden, über ihre Übermittlung an Drittländer oder an "
-"internationale Organisationen sowie über das Bestehen einer automatisierten "
-"Entscheidungsfindung einschließlich Profiling und gegebenenfalls "
-"aussagekräftige Informationen über deren Einzelheiten verlangen."
+"Berichtigung, Löschung, Einschränkung der Verarbeitung oder Widerspruch, "
+"das Bestehen eines Beschwerderechts, die Herkunft Ihrer Daten, sofern sie"
+" nicht bei uns erhoben wurden, über ihre Übermittlung an Drittländer oder"
+" an internationale Organisationen sowie über das Bestehen einer "
+"automatisierten Entscheidungsfindung einschließlich Profiling und "
+"gegebenenfalls aussagekräftige Informationen über deren Einzelheiten "
+"verlangen."
 
 #: ../../privacy.rst:61
 msgid ""
@@ -509,11 +589,11 @@ msgid ""
 "assertion, exercise or defence of legal claims."
 msgstr ""
 "Gemäss Art. 17 DSGVO können Sie die Löschung Ihrer bei uns gespeicherten "
-"personenbezogenen Daten verlangen, es sei denn, die Verarbeitung ist für die "
-"Ausübung des Rechts auf freie Meinungsäußerung und Information, für die "
-"Erfüllung einer rechtlichen Verpflichtung, aus Gründen des öffentlichen "
-"Interesses oder zur Geltendmachung, Ausübung oder Verteidigung von "
-"Rechtsansprüchen erforderlich."
+"personenbezogenen Daten verlangen, es sei denn, die Verarbeitung ist für "
+"die Ausübung des Rechts auf freie Meinungsäußerung und Information, für "
+"die Erfüllung einer rechtlichen Verpflichtung, aus Gründen des "
+"öffentlichen Interesses oder zur Geltendmachung, Ausübung oder "
+"Verteidigung von Rechtsansprüchen erforderlich."
 
 #: ../../privacy.rst:63
 msgid ""
@@ -525,12 +605,12 @@ msgid ""
 "objected to the processing. (Art. 21 GDPR)"
 msgstr ""
 "Gemäß Art. 18 DSGVO können Sie die Einschränkung der Verarbeitung Ihrer "
-"personenbezogenen Daten verlangen, wenn die Richtigkeit der Daten von Ihnen "
-"bestritten wird, die Verarbeitung unrechtmäßig ist, wir die Daten nicht mehr "
-"benötigen und Sie deren Löschung ablehnen, weil Sie diese zur "
-"Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen. "
-"Sie können auch das Recht nach Art. 18 DSGVO ausüben, wenn Sie gegen die "
-"Verarbeitung Widerspruch eingelegt haben. (Art. 21 GDPR)"
+"personenbezogenen Daten verlangen, wenn die Richtigkeit der Daten von "
+"Ihnen bestritten wird, die Verarbeitung unrechtmäßig ist, wir die Daten "
+"nicht mehr benötigen und Sie deren Löschung ablehnen, weil Sie diese zur "
+"Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen "
+"benötigen. Sie können auch das Recht nach Art. 18 DSGVO ausüben, wenn Sie"
+" gegen die Verarbeitung Widerspruch eingelegt haben. (Art. 21 GDPR)"
 
 #: ../../privacy.rst:64
 msgid ""
@@ -538,10 +618,10 @@ msgid ""
 "that you have provided to us in a structured, common and machine-readable"
 " format or you can request it be transferred to a third party."
 msgstr ""
-"Gemäß Art. 20 DSGVO können Sie beantragen, Ihre personenbezogenen Daten, die "
-"Sie uns zur Verfügung gestellt haben, in einem strukturierten, gängigen und "
-"maschinenlesbaren Format zu erhalten, oder Sie können deren Übermittlung an "
-"einen Dritten verlangen."
+"Gemäß Art. 20 DSGVO können Sie beantragen, Ihre personenbezogenen Daten, "
+"die Sie uns zur Verfügung gestellt haben, in einem strukturierten, "
+"gängigen und maschinenlesbaren Format zu erhalten, oder Sie können deren "
+"Übermittlung an einen Dritten verlangen."
 
 #: ../../privacy.rst:65
 msgid ""
@@ -549,9 +629,9 @@ msgid ""
 " any time. As a result, we may no longer process personal data based on "
 "this consent in the future."
 msgstr ""
-"Gemäß Art. 7 (3) GDPR können Sie Ihre uns erteilte Einwilligung jederzeit "
-"widerrufen. Dies hat zur Folge, dass wir personenbezogene Daten, die auf "
-"dieser Einwilligung beruhen, in Zukunft nicht mehr verarbeiten dürfen."
+"Gemäß Art. 7 (3) GDPR können Sie Ihre uns erteilte Einwilligung jederzeit"
+" widerrufen. Dies hat zur Folge, dass wir personenbezogene Daten, die auf"
+" dieser Einwilligung beruhen, in Zukunft nicht mehr verarbeiten dürfen."
 
 #: ../../privacy.rst:66
 msgid ""
@@ -562,8 +642,8 @@ msgid ""
 msgstr ""
 "Gemäß Art. 77 DSGVO haben Sie das Recht, eine Beschwerde bei einer "
 "Aufsichtsbehörde einzureichen. In der Regel können Sie sich an die "
-"Aufsichtsbehörde Ihres gewöhnlichen Aufenthaltsortes, Ihres Arbeitsplatzes "
-"oder unseres Firmensitzes wenden."
+"Aufsichtsbehörde Ihres gewöhnlichen Aufenthaltsortes, Ihres "
+"Arbeitsplatzes oder unseres Firmensitzes wenden."
 
 #: ../../privacy.rst:69
 msgid "Right to object"
@@ -579,12 +659,13 @@ msgid ""
 " which is followed by us without you having to state a particular reason."
 msgstr ""
 "Bei der Verarbeitung Ihrer personenbezogenen Daten auf der Grundlage "
-"berechtigter Interessen gemäß Art. 6 (1) f GDPR haben Sie das Recht, gemäß "
-"Art. 21 DSGVO das Recht, aus Gründen, die sich aus Ihrer besonderen "
-"Situation ergeben, Widerspruch gegen die Verarbeitung Ihrer "
-"personenbezogenen Daten einzulegen. Alternativ steht Ihnen, wenn sich der "
-"Widerspruch gegen Direktmarketing richtet, ein allgemeines Widerspruchsrecht "
-"zu, dem wir nachkommen, ohne dass Sie einen besonderen Grund angeben müssen."
+"berechtigter Interessen gemäß Art. 6 (1) f GDPR haben Sie das Recht, "
+"gemäß Art. 21 DSGVO das Recht, aus Gründen, die sich aus Ihrer besonderen"
+" Situation ergeben, Widerspruch gegen die Verarbeitung Ihrer "
+"personenbezogenen Daten einzulegen. Alternativ steht Ihnen, wenn sich der"
+" Widerspruch gegen Direktmarketing richtet, ein allgemeines "
+"Widerspruchsrecht zu, dem wir nachkommen, ohne dass Sie einen besonderen "
+"Grund angeben müssen."
 
 #: ../../privacy.rst:73
 msgid "Data security and security measures"
@@ -606,20 +687,21 @@ msgid ""
 "this. It is your responsibility to protect the data provided by you "
 "against misuse, e. g. by utilizing encryption technology."
 msgstr ""
-"Wir verpflichten uns, Ihre Privatsphäre zu schützen und Ihre persönlichen "
-"Daten vertraulich zu behandeln. Um Manipulation, Verlust oder Missbrauch "
-"Ihrer bei uns gespeicherten Daten zu vermeiden, treffen wir umfangreiche "
-"technische und organisatorische Sicherheitsvorkehrungen, die regelmäßig "
-"überprüft und dem technologischen Fortschritt angepasst werden. Dazu gehört "
-"unter anderem der Einsatz von anerkannten Verschlüsselungsverfahren. Wir "
-"weisen jedoch darauf hin, dass es aufgrund der Beschaffenheit des Internets "
-"möglich ist, dass die Regeln des Datenschutzes und die oben genannten "
-"Sicherheitsmaßnahmen von anderen Personen oder Institutionen außerhalb "
-"unseres Verantwortungsbereiches nicht beachtet werden. Insbesondere können "
-"unverschlüsselte Daten - z.B. bei der Übermittlung per E-Mail - von Dritten "
-"eingesehen werden. Hierauf haben wir keinen technischen Einfluss. Es liegt "
-"in Ihrer Verantwortung, die von Ihnen bereitgestellten Daten vor Missbrauch "
-"zu schützen, z. B. durch den Einsatz von Verschlüsselungstechniken."
+"Wir verpflichten uns, Ihre Privatsphäre zu schützen und Ihre persönlichen"
+" Daten vertraulich zu behandeln. Um Manipulation, Verlust oder Missbrauch"
+" Ihrer bei uns gespeicherten Daten zu vermeiden, treffen wir umfangreiche"
+" technische und organisatorische Sicherheitsvorkehrungen, die regelmäßig "
+"überprüft und dem technologischen Fortschritt angepasst werden. Dazu "
+"gehört unter anderem der Einsatz von anerkannten "
+"Verschlüsselungsverfahren. Wir weisen jedoch darauf hin, dass es aufgrund"
+" der Beschaffenheit des Internets möglich ist, dass die Regeln des "
+"Datenschutzes und die oben genannten Sicherheitsmaßnahmen von anderen "
+"Personen oder Institutionen außerhalb unseres Verantwortungsbereiches "
+"nicht beachtet werden. Insbesondere können unverschlüsselte Daten - z.B. "
+"bei der Übermittlung per E-Mail - von Dritten eingesehen werden. Hierauf "
+"haben wir keinen technischen Einfluss. Es liegt in Ihrer Verantwortung, "
+"die von Ihnen bereitgestellten Daten vor Missbrauch zu schützen, z. B. "
+"durch den Einsatz von Verschlüsselungstechniken."
 
 #~ msgid "This is the introduction text to MonaLiSa."
 #~ msgstr "Dies ist der Einführungstext zu MonaLiSa."
@@ -636,3 +718,16 @@ msgstr ""
 #~ msgstr ""
 #~ "IFOTES Europe e.V. vertreten durch Dr."
 #~ " Stefan Schumacher (Vorstandsmitglied)"
+
+#~ msgid "IFOTES Europe, Germany"
+#~ msgstr "IFOTES Europa, Deutschland"
+
+#~ msgid "Westcode GmbH, Germany"
+#~ msgstr "Westcode GmbH, Deutschland"
+
+#~ msgid "SOS Amitié, France"
+#~ msgstr "SOS Amitié, Frankreich"
+
+#~ msgid "ASITES, Spain"
+#~ msgstr "ASITES, Spanien"
+

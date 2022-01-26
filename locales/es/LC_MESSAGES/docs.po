@@ -5,19 +5,18 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: MonaLiSa\n"
+"Project-Id-Version:  MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-26 15:19+0100\n"
+"POT-Creation-Date: 2022-01-26 15:54+0100\n"
 "PO-Revision-Date: 2022-01-26 14:24+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
-"Language-Team: Spanish <https://trans.westcode.de/projects/monalisa/"
-"documentation/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://trans.westcode.de/projects/monalisa/documentation/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -204,41 +203,121 @@ msgstr ""
 msgid "Partners"
 msgstr "Socios"
 
-#: ../../partners.rst:5
-msgid "IFOTES Europe, Germany"
-msgstr "IFOTES Europa, Alemania"
+#: ../../partners.rst:6
+msgid "IFOTES Europe"
+msgstr ""
+
+#: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
+#: ../../partners.rst:12 ../../privacy.rst:16
+msgid "Germany"
+msgstr ""
+
+#: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
+#: ../../partners.rst:12
+#, fuzzy
+msgid "Lead Partner"
+msgstr "Socios"
 
 #: ../../partners.rst:6
-msgid "Universitätsklinikum Heidelberg, Germany"
-msgstr "Universitätsklinikum Heidelberg, Alemania"
-
-#: ../../partners.rst:7
-msgid "Studio Rucli, Italiy"
-msgstr "Estudio Rucli, Italia"
+msgid "`ifotes.org <https://ifotes.org/>`_"
+msgstr ""
 
 #: ../../partners.rst:8
-msgid "Westcode GmbH, Germany"
-msgstr "Westcode GmbH, Alemania"
+#, fuzzy
+msgid "Universitätsklinikum Heidelberg"
+msgstr "Universitätsklinikum Heidelberg, Alemania"
 
-#: ../../partners.rst:9
-msgid "LESZ, Hungary"
-msgstr "LESZ, Hungría"
+#: ../../partners.rst:8
+msgid ""
+"`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-"
+"heidelberg.de/>`_"
+msgstr ""
 
 #: ../../partners.rst:10
-msgid "Telefono Amico, Italy"
-msgstr "Teléfono Amico, Italia"
+#, fuzzy
+msgid "Studio Rucli"
+msgstr "Estudio Rucli, Italia"
 
-#: ../../partners.rst:11
-msgid "SOS Amitié, France"
-msgstr "SOS Amitié, Francia"
+#: ../../partners.rst:10
+msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
+msgstr ""
 
 #: ../../partners.rst:12
-msgid "ASITES, Spain"
-msgstr "ASITES, España"
+msgid "Westcode GmbH"
+msgstr ""
 
-#: ../../partners.rst:13
-msgid "De Luisterlijn, The Netherlands"
+#: ../../partners.rst:12
+msgid "`westcode.de <https://www.westcode.de/>`_"
+msgstr ""
+
+#: ../../partners.rst:14
+msgid "LESZ"
+msgstr ""
+
+#: ../../partners.rst:14
+#, fuzzy
+msgid "Hungary"
+msgstr "LESZ, Hungría"
+
+#: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
+#: ../../partners.rst:20 ../../partners.rst:22
+#, fuzzy
+msgid "Partner"
+msgstr "Socios"
+
+#: ../../partners.rst:14
+msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
+msgstr ""
+
+#: ../../partners.rst:16
+#, fuzzy
+msgid "Telefono Amico"
+msgstr "Teléfono Amico, Italia"
+
+#: ../../partners.rst:16
+msgid "Italy"
+msgstr ""
+
+#: ../../partners.rst:16
+msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "SOS Amitié"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "France"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "ASITES"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "Spain"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
+msgstr ""
+
+#: ../../partners.rst:22
+msgid "De Luisterlijn"
+msgstr ""
+
+#: ../../partners.rst:22
+#, fuzzy
+msgid "The Netherlands"
 msgstr "De Luisterlijn, Países Bajos"
+
+#: ../../partners.rst:22
+msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
+msgstr ""
 
 #: ../../privacy.rst:2
 msgid "Privacy and data protection"
@@ -263,10 +342,6 @@ msgstr ""
 
 #: ../../privacy.rst:10
 msgid "The person responsible according to the GDPR is:"
-msgstr ""
-
-#: ../../privacy.rst:16
-msgid "Germany"
 msgstr ""
 
 #: ../../privacy.rst:18
@@ -503,3 +578,16 @@ msgstr ""
 #~ msgstr ""
 #~ "IFOTES Europe e.V. vertreten by Dr. "
 #~ "Stefan Schumacher (Vorstandsmitglied)"
+
+#~ msgid "IFOTES Europe, Germany"
+#~ msgstr "IFOTES Europa, Alemania"
+
+#~ msgid "Westcode GmbH, Germany"
+#~ msgstr "Westcode GmbH, Alemania"
+
+#~ msgid "SOS Amitié, France"
+#~ msgstr "SOS Amitié, Francia"
+
+#~ msgid "ASITES, Spain"
+#~ msgstr "ASITES, España"
+

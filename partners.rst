@@ -2,12 +2,23 @@ Partners
 ========
 
 
-- IFOTES Europe, Germany
-- Universitätsklinikum Heidelberg, Germany
-- Studio Rucli, Italiy
-- Westcode GmbH, Germany
-- LESZ, Hungary
-- Telefono Amico, Italy
-- SOS Amitié, France
-- ASITES, Spain
-- De Luisterlijn, The Netherlands 
++-------------------------------+---------------+------------+----------------------------------------------------------------------------+
+|IFOTES Europe                  |Germany        |Lead Partner|`ifotes.org <https://ifotes.org/>`_                                         |
++-------------------------------+---------------+------------+----------------------------------------------------------------------------+
+|Universitätsklinikum Heidelberg|Germany        |Lead Partner|`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-heidelberg.de/>`_ |
++-------------------------------+---------------+------------+----------------------------------------------------------------------------+
+|Studio Rucli                   |Germany        |Lead Partner|`www.studiorucli.it <http://www.studiorucli.it/>`_                          |
++-------------------------------+---------------+------------+----------------------------------------------------------------------------+
+|Westcode GmbH                  |Germany        |Lead Partner|`westcode.de <https://www.westcode.de/>`_                                   |
++-------------------------------+---------------+------------+----------------------------------------------------------------------------+
+|LESZ                           |Hungary        |Partner     |`sos116-123.hu <https://sos116-123.hu/>`_                                   |
++-------------------------------+---------------+------------+----------------------------------------------------------------------------+
+|Telefono Amico                 |Italy          |Partner     |`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_                    |
++-------------------------------+---------------+------------+----------------------------------------------------------------------------+
+|SOS Amitié                     |France         |Partner     |`www.sos-amitie.com <https://www.sos-amitie.com/>`_                         |
++-------------------------------+---------------+------------+----------------------------------------------------------------------------+
+|ASITES                         |Spain          |Partner     |`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_   |
++-------------------------------+---------------+------------+----------------------------------------------------------------------------+
+|De Luisterlijn                 |The Netherlands|Partner     |`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_                     |
++-------------------------------+---------------+------------+----------------------------------------------------------------------------+
+

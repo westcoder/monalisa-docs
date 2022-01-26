@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MonaLiSa \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-26 15:19+0100\n"
+"POT-Creation-Date: 2022-01-26 15:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -192,40 +192,113 @@ msgstr ""
 msgid "Partners"
 msgstr ""
 
-#: ../../partners.rst:5
-msgid "IFOTES Europe, Germany"
+#: ../../partners.rst:6
+msgid "IFOTES Europe"
+msgstr ""
+
+#: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
+#: ../../partners.rst:12 ../../privacy.rst:16
+msgid "Germany"
+msgstr ""
+
+#: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
+#: ../../partners.rst:12
+msgid "Lead Partner"
 msgstr ""
 
 #: ../../partners.rst:6
-msgid "Universitätsklinikum Heidelberg, Germany"
-msgstr ""
-
-#: ../../partners.rst:7
-msgid "Studio Rucli, Italiy"
+msgid "`ifotes.org <https://ifotes.org/>`_"
 msgstr ""
 
 #: ../../partners.rst:8
-msgid "Westcode GmbH, Germany"
+msgid "Universitätsklinikum Heidelberg"
 msgstr ""
 
-#: ../../partners.rst:9
-msgid "LESZ, Hungary"
+#: ../../partners.rst:8
+msgid ""
+"`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-"
+"heidelberg.de/>`_"
 msgstr ""
 
 #: ../../partners.rst:10
-msgid "Telefono Amico, Italy"
+msgid "Studio Rucli"
 msgstr ""
 
-#: ../../partners.rst:11
-msgid "SOS Amitié, France"
+#: ../../partners.rst:10
+msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
 msgstr ""
 
 #: ../../partners.rst:12
-msgid "ASITES, Spain"
+msgid "Westcode GmbH"
 msgstr ""
 
-#: ../../partners.rst:13
-msgid "De Luisterlijn, The Netherlands"
+#: ../../partners.rst:12
+msgid "`westcode.de <https://www.westcode.de/>`_"
+msgstr ""
+
+#: ../../partners.rst:14
+msgid "LESZ"
+msgstr ""
+
+#: ../../partners.rst:14
+msgid "Hungary"
+msgstr ""
+
+#: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
+#: ../../partners.rst:20 ../../partners.rst:22
+msgid "Partner"
+msgstr ""
+
+#: ../../partners.rst:14
+msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
+msgstr ""
+
+#: ../../partners.rst:16
+msgid "Telefono Amico"
+msgstr ""
+
+#: ../../partners.rst:16
+msgid "Italy"
+msgstr ""
+
+#: ../../partners.rst:16
+msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "SOS Amitié"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "France"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "ASITES"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "Spain"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
+msgstr ""
+
+#: ../../partners.rst:22
+msgid "De Luisterlijn"
+msgstr ""
+
+#: ../../partners.rst:22
+msgid "The Netherlands"
+msgstr ""
+
+#: ../../partners.rst:22
+msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
 msgstr ""
 
 #: ../../privacy.rst:2
@@ -251,10 +324,6 @@ msgstr ""
 
 #: ../../privacy.rst:10
 msgid "The person responsible according to the GDPR is:"
-msgstr ""
-
-#: ../../privacy.rst:16
-msgid "Germany"
 msgstr ""
 
 #: ../../privacy.rst:18
@@ -496,5 +565,32 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Registering court: Vereinsregister des AG Hagen"
+#~ msgstr ""
+
+#~ msgid "IFOTES Europe, Germany"
+#~ msgstr ""
+
+#~ msgid "Universitätsklinikum Heidelberg, Germany"
+#~ msgstr ""
+
+#~ msgid "Studio Rucli, Italiy"
+#~ msgstr ""
+
+#~ msgid "Westcode GmbH, Germany"
+#~ msgstr ""
+
+#~ msgid "LESZ, Hungary"
+#~ msgstr ""
+
+#~ msgid "Telefono Amico, Italy"
+#~ msgstr ""
+
+#~ msgid "SOS Amitié, France"
+#~ msgstr ""
+
+#~ msgid "ASITES, Spain"
+#~ msgstr ""
+
+#~ msgid "De Luisterlijn, The Netherlands"
 #~ msgstr ""
 
