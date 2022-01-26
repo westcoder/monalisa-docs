@@ -81,3 +81,5 @@ html_static_path = ["_static"]
 language = "en"
 gettext_compact = "docs"
 
+html_logo = "images/ls-logo.png"
+figure_language_filename = '{path}{language}/{basename}{ext}'

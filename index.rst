@@ -6,7 +6,7 @@
 Welcome to the documentation of the MonaLiSa/Listeningskills project
 =====================================================================
 
-.. image:: images/monalisa-hero.jpg
+.. image:: images/sitting.svg
 
 .. toctree::
    :maxdepth: 2
@@ -18,6 +18,8 @@ Welcome to the documentation of the MonaLiSa/Listeningskills project
    partners
    imprint
    privacy
+
+
 
 Indices and tables
 ==================
