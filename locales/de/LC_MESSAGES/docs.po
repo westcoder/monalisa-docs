@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  MonaLiSa\n"
+"Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-26 15:54+0100\n"
-"PO-Revision-Date: 2022-01-26 14:30+0000\n"
+"PO-Revision-Date: 2022-01-26 14:56+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
+"Language-Team: German <https://trans.westcode.de/projects/monalisa/"
+"documentation/de/>\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://trans.westcode.de/projects/monalisa/documentation/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -229,7 +230,7 @@ msgstr "Partner"
 
 #: ../../partners.rst:6
 msgid "IFOTES Europe"
-msgstr ""
+msgstr "IFOTES Europa"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12 ../../privacy.rst:16
@@ -238,9 +239,8 @@ msgstr "Deutschland"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12
-#, fuzzy
 msgid "Lead Partner"
-msgstr "Partner"
+msgstr "Lead Partner"
 
 #: ../../partners.rst:6
 msgid "`ifotes.org <https://ifotes.org/>`_"
@@ -258,9 +258,8 @@ msgid ""
 msgstr ""
 
 #: ../../partners.rst:10
-#, fuzzy
 msgid "Studio Rucli"
-msgstr "Studio Rucli, Italien"
+msgstr "Studio Rucli"
 
 #: ../../partners.rst:10
 msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
@@ -730,4 +729,3 @@ msgstr ""
 
 #~ msgid "ASITES, Spain"
 #~ msgstr "ASITES, Spanien"
-
