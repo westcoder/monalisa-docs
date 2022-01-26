@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MonaLiSa \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-26 14:55+0100\n"
+"POT-Creation-Date: 2022-01-26 15:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,9 +62,7 @@ msgid "Represented by"
 msgstr ""
 
 #: ../../imprint.rst:12
-msgid ""
-"IFOTES Europe e.V. vertreten durch Dr. Stefan Schumacher "
-"(Vorstandsmitglied)"
+msgid "IFOTES Europe e.V. represented by Dr. Stefan Schumacher (Board Member)"
 msgstr ""
 
 #: ../../imprint.rst:15
@@ -84,11 +82,11 @@ msgid "Register entry"
 msgstr ""
 
 #: ../../imprint.rst:23
-msgid "Entry in the Vereinsregister."
+msgid "Entry in the German `Vereinsregister`."
 msgstr ""
 
 #: ../../imprint.rst:24
-msgid "Registering court: Vereinsregister des AG Hagen"
+msgid "Registering court: `Vereinsregister des AG Hagen`"
 msgstr ""
 
 #: ../../imprint.rst:25
@@ -487,5 +485,16 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Privacy policy"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "IFOTES Europe e.V. vertreten durch Dr."
+#~ " Stefan Schumacher (Vorstandsmitglied)"
+#~ msgstr ""
+
+#~ msgid "Entry in the Vereinsregister."
+#~ msgstr ""
+
+#~ msgid "Registering court: Vereinsregister des AG Hagen"
 #~ msgstr ""
 

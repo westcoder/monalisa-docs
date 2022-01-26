@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-26 14:55+0100\n"
+"POT-Creation-Date: 2022-01-26 15:19+0100\n"
 "PO-Revision-Date: 2022-01-26 09:51+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: fr\n"
@@ -67,12 +67,8 @@ msgid "Represented by"
 msgstr "Représenté par"
 
 #: ../../imprint.rst:12
-msgid ""
-"IFOTES Europe e.V. vertreten durch Dr. Stefan Schumacher "
-"(Vorstandsmitglied)"
+msgid "IFOTES Europe e.V. represented by Dr. Stefan Schumacher (Board Member)"
 msgstr ""
-"IFOTES Europe e.V. vertreten durch Dr. Stefan Schumacher "
-"(Vorstandsmitglied)"
 
 #: ../../imprint.rst:15
 msgid "Contact"
@@ -91,11 +87,13 @@ msgid "Register entry"
 msgstr "Inscription au registre"
 
 #: ../../imprint.rst:23
-msgid "Entry in the Vereinsregister."
+#, fuzzy
+msgid "Entry in the German `Vereinsregister`."
 msgstr "Inscription dans le Vereinsregister."
 
 #: ../../imprint.rst:24
-msgid "Registering court: Vereinsregister des AG Hagen"
+#, fuzzy
+msgid "Registering court: `Vereinsregister des AG Hagen`"
 msgstr "Tribunal d'enregistrement : Vereinsregister des AG Hagen"
 
 #: ../../imprint.rst:25
@@ -497,4 +495,11 @@ msgstr ""
 
 #~ msgid "Privacy policy"
 #~ msgstr "Politique de confidentialité"
+
+#~ msgid ""
+#~ "IFOTES Europe e.V. vertreten durch Dr."
+#~ " Stefan Schumacher (Vorstandsmitglied)"
+#~ msgstr ""
+#~ "IFOTES Europe e.V. vertreten durch Dr."
+#~ " Stefan Schumacher (Vorstandsmitglied)"
 

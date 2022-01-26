@@ -9,7 +9,7 @@ Information provided according to Sec. 5 German Telemedia Act (TMG)
 
 Represented by
 --------------
-IFOTES Europe e.V. vertreten durch Dr. Stefan Schumacher (Vorstandsmitglied)
+IFOTES Europe e.V. represented by Dr. Stefan Schumacher (Board Member)
 
 Contact
 -------
@@ -20,8 +20,8 @@ Email: s.schumacher@ifotes.org
 
 Register entry
 --------------
-| Entry in the Vereinsregister.
-| Registering court: Vereinsregister des AG Hagen
+| Entry in the German `Vereinsregister`.
+| Registering court: `Vereinsregister des AG Hagen`
 | Registration number: VR 2737
 
 Responsible for contents acc. to Sec. 55, para. 2 German Federal Broadcasting Agreement (RstV)
