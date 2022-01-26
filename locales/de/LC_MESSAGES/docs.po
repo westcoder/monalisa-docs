@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  MonaLiSa\n"
+"Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-26 15:19+0100\n"
-"PO-Revision-Date: 2022-01-26 14:18+0000\n"
-"Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
+"PO-Revision-Date: 2022-01-26 14:21+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://trans.westcode.de/projects/monalisa/"
+"documentation/de/>\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://trans.westcode.de/projects/monalisa/documentation/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -261,7 +262,7 @@ msgstr ""
 
 #: ../../privacy.rst:16
 msgid "Germany"
-msgstr ""
+msgstr "Deutschland"
 
 #: ../../privacy.rst:18
 #, fuzzy
@@ -273,6 +274,8 @@ msgid ""
 "This privacy policy applies to our tool ``listening-skills.eu`` as well "
 "as to our documentation page ``docs.listening-skills.eu``."
 msgstr ""
+"Diese Datenschutzerklärung gilt sowohl für unser Tool ``listening-skills.eu``"
+" als auch für unsere Dokumentationsseite ``docs.listening-skills.eu``."
 
 #: ../../privacy.rst:24
 msgid ""
@@ -282,10 +285,14 @@ msgid ""
 "<https://docs.readthedocs.io/en/latest/privacy-policy.html>`_ of Read The"
 " Docs."
 msgstr ""
+"Wir betreiben den Dienst ``docs.listening-skills.eu`` außerhalb unserer "
+"eigenen Infrastruktur bei ReadTheDocs, um die Dokumentation unseres Tools "
+"erstellen und hosten zu können. Bitte beachten Sie die "
+"``Datenschutzbestimmungen`` von Read The Docs."
 
 #: ../../privacy.rst:28
 msgid "Principles of data processing"
-msgstr ""
+msgstr "Grundsätze der Datenverarbeitung"
 
 #: ../../privacy.rst:29
 msgid ""
@@ -300,6 +307,18 @@ msgid ""
 "deleted as soon as the purpose of the processing has been achieved and no"
 " legally required retention requirements have to be maintained."
 msgstr ""
+"Personenbezogene Daten sind alle Informationen, die sich auf eine "
+"identifizierte oder identifizierbare natürliche Person beziehen. Darunter "
+"fallen z.B. Informationen wie Ihr Name, Alter, Adresse, Telefonnummer, "
+"Geburtsdatum, E-Mail-Adresse, IP-Adresse oder Nutzerverhalten. "
+"Informationen, die wir nicht (oder nur mit unverhältnismäßigem Aufwand) mit "
+"Ihrer Person in Verbindung bringen können, z. B. durch Anonymisierung der "
+"Informationen, sind keine personenbezogenen Daten. Die Verarbeitung "
+"personenbezogener Daten (z.B. das Erheben, Abfragen, Nutzen, Speichern oder "
+"Übermitteln) bedarf stets einer gesetzlichen Grundlage oder Ihrer "
+"Einwilligung. Verarbeitete personenbezogene Daten werden gelöscht, sobald "
+"der Zweck der Verarbeitung erreicht ist und keine gesetzlichen "
+"Aufbewahrungspflichten mehr bestehen."
 
 #: ../../privacy.rst:31
 msgid ""
@@ -308,10 +327,15 @@ msgid ""
 " scope and purpose of the data processing, the legal basis for the "
 "processing and the respective retention period."
 msgstr ""
+"Wenn wir Ihre personenbezogenen Daten zum Zwecke der Bereitstellung "
+"bestimmter Angebote verarbeiten, werden wir Sie anschließend über die "
+"konkreten Vorgänge, den Umfang und Zweck der Datenverarbeitung, die "
+"Rechtsgrundlage für die Verarbeitung und die jeweilige Aufbewahrungsfrist "
+"informieren."
 
 #: ../../privacy.rst:34
 msgid "Use of our website"
-msgstr ""
+msgstr "Nutzung unserer Website"
 
 #: ../../privacy.rst:35
 msgid ""
@@ -320,6 +344,11 @@ msgid ""
 "the browser used; However, we anonymise your IP address using IP masking,"
 " so that we do not collect any personal data."
 msgstr ""
+"Bei der Nutzung unserer Webseiten können wir Webserver-Protokolle erstellen, "
+"die das Datum und die Uhrzeit, den abgerufenen URL-Pfad, den Referrer (falls "
+"zutreffend) und den verwendeten Browser enthalten; wir anonymisieren jedoch "
+"Ihre IP-Adresse durch IP-Masking, so dass wir keine personenbezogenen Daten "
+"erfassen."
 
 #: ../../privacy.rst:38
 msgid "Use of cookies"
@@ -341,6 +370,11 @@ msgid ""
 "persistently, but is automatically deleted when the browser window is "
 "closed."
 msgstr ""
+"Wenn Sie sich registrieren oder anmelden, setzen wir ein Cookie, das eine "
+"Sitzungs-ID enthält. Dies ist technisch zwingend erforderlich, um Ihren "
+"Login-Status zu erhalten, und bedarf daher keiner gesonderten Zustimmung. "
+"Das Cookie wird nicht dauerhaft gespeichert, sondern automatisch gelöscht, "
+"wenn das Browserfenster geschlossen wird."
 
 #: ../../privacy.rst:44
 msgid "Tracking and analysis tools"
@@ -348,11 +382,11 @@ msgstr ""
 
 #: ../../privacy.rst:45
 msgid "We do not use any external tracking and analysis tools."
-msgstr ""
+msgstr "Wir verwenden keine externen Tracking- und Analysetools."
 
 #: ../../privacy.rst:49
 msgid "Social network plugins"
-msgstr ""
+msgstr "Plugins für soziale Netzwerke"
 
 #: ../../privacy.rst:50
 msgid "We do not use any plugins of social networks."
@@ -497,4 +531,3 @@ msgstr ""
 #~ msgstr ""
 #~ "IFOTES Europe e.V. vertreten durch Dr."
 #~ " Stefan Schumacher (Vorstandsmitglied)"
-
