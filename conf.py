@@ -36,7 +36,7 @@ def setup(app):
 # -- Project information -----------------------------------------------------
 
 project = "MonaLiSa"
-copyright = "2021, Westcode and the MonaLiSa Project Group"
+copyright = "2022, Westcode and the MonaLiSa Project Group"
 author = "MonaLiSa Project Group"
 
 # The full version, including alpha/beta/rc tags
