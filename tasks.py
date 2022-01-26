@@ -28,7 +28,7 @@ def docbuild(c):
 @task
 def doclang(c):
     c.run("make gettext")
-    c.run("sphinx-intl update -p _build/gettext -l de -l fr -l it -l es -l hu")
+    c.run("sphinx-intl update -p _build/gettext -l de -l fr -l it -l es -l hu -l nl")
 
 
 @task(docbuild)

@@ -1,0 +1,193 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Westcode and the MonaLiSa Project Group
+# This file is distributed under the same license as the MonaLiSa package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MonaLiSa \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-26 10:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../changes.rst:2
+msgid "Changes"
+msgstr ""
+
+#: ../../changes.rst:5
+msgid "MonaLiSa 1.0.0"
+msgstr ""
+
+#: ../../changes.rst:7
+msgid "Not yet released. * Initial release"
+msgstr ""
+
+#: ../../embed.rst:2
+msgid "Embed"
+msgstr ""
+
+#: ../../imprint.rst:2
+msgid "Imprint"
+msgstr ""
+
+#: ../../imprint.rst:5
+msgid "Information provided according to Sec. 5 German Telemedia Act (TMG)"
+msgstr ""
+
+#: ../../imprint.rst:6
+msgid "IFOTES Europe e.V.,"
+msgstr ""
+
+#: ../../imprint.rst:7 ../../imprint.rst:31
+msgid "Dödterstraße 10"
+msgstr ""
+
+#: ../../imprint.rst:8 ../../imprint.rst:32
+msgid "58095 Hagen"
+msgstr ""
+
+#: ../../imprint.rst:11
+msgid "Represented by"
+msgstr ""
+
+#: ../../imprint.rst:12
+msgid ""
+"IFOTES Europe e.V. vertreten durch Dr. Stefan Schumacher "
+"(Vorstandsmitglied)"
+msgstr ""
+
+#: ../../imprint.rst:15
+msgid "Contact"
+msgstr ""
+
+#: ../../imprint.rst:16
+msgid "Telephone: tel:+49233117773"
+msgstr ""
+
+#: ../../imprint.rst:18
+msgid "Email: s.schumacher@ifotes.org"
+msgstr ""
+
+#: ../../imprint.rst:22
+msgid "Register entry"
+msgstr ""
+
+#: ../../imprint.rst:23
+msgid "Entry in the Vereinsregister."
+msgstr ""
+
+#: ../../imprint.rst:24
+msgid "Registering court: Vereinsregister des AG Hagen"
+msgstr ""
+
+#: ../../imprint.rst:25
+msgid "Registration number: VR 2737"
+msgstr ""
+
+#: ../../imprint.rst:28
+msgid ""
+"Responsible for contents acc. to Sec. 55, para. 2 German Federal "
+"Broadcasting Agreement (RstV)"
+msgstr ""
+
+#: ../../imprint.rst:29
+msgid "Dr. Stefan Schumacher"
+msgstr ""
+
+#: ../../imprint.rst:30
+msgid "IFOTES Europe e.V."
+msgstr ""
+
+#: ../../imprint.rst:35
+msgid "Dispute resolution"
+msgstr ""
+
+#: ../../imprint.rst:36
+msgid ""
+"We do not take part in online dispute resolutions at consumer arbitration"
+" boards."
+msgstr ""
+
+#: ../../index.rst:11
+msgid "Contents:"
+msgstr ""
+
+#: ../../index.rst:7
+msgid "Welcome to the documentation of the MonaLiSa/Listeningskills project"
+msgstr ""
+
+#: ../../index.rst:23
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:25
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:26
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:27
+msgid ":ref:`search`"
+msgstr ""
+
+#: ../../introduction.rst:2
+msgid "Introduction"
+msgstr ""
+
+#: ../../partners.rst:2
+msgid "Partners"
+msgstr ""
+
+#: ../../partners.rst:5
+msgid "IFOTES Europe, Germany"
+msgstr ""
+
+#: ../../partners.rst:6
+msgid "Universitätsklinikum Heidelberg, Germany"
+msgstr ""
+
+#: ../../partners.rst:7
+msgid "Studio Rucli, Italiy"
+msgstr ""
+
+#: ../../partners.rst:8
+msgid "Westcode GmbH, Germany"
+msgstr ""
+
+#: ../../partners.rst:9
+msgid "LESZ, Hungary"
+msgstr ""
+
+#: ../../partners.rst:10
+msgid "Telefono Amico, Italy"
+msgstr ""
+
+#: ../../partners.rst:11
+msgid "SOS Amitié, France"
+msgstr ""
+
+#: ../../partners.rst:12
+msgid "ASITES, Spain"
+msgstr ""
+
+#: ../../partners.rst:13
+msgid "De Luisterlijn, The Netherlands"
+msgstr ""
+
+#: ../../privacy.rst:2
+msgid "Privacy"
+msgstr ""
+
+#: ../../privacy.rst:4
+msgid "Privacy policy"
+msgstr ""
+

@@ -79,5 +79,5 @@ html_static_path = ["_static"]
 
 # Translations
 language = "en"
-gettext_compact = False
+gettext_compact = "docs"
 
