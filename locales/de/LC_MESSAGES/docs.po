@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-26 15:19+0100\n"
-"PO-Revision-Date: 2022-01-26 14:24+0000\n"
+"PO-Revision-Date: 2022-01-26 14:30+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
 "Language-Team: German <https://trans.westcode.de/projects/monalisa/"
 "documentation/de/>\n"
@@ -296,9 +296,8 @@ msgid "Germany"
 msgstr "Deutschland"
 
 #: ../../privacy.rst:18
-#, fuzzy
 msgid "Telephone: +49 2331 17773"
-msgstr "Telefon: Tel.: +49233117773"
+msgstr "Tel.: +49233117773"
 
 #: ../../privacy.rst:22
 msgid ""
@@ -451,7 +450,7 @@ msgstr ""
 "umgehen. Wir haben nicht überprüft, ob die Betreiber dieser Websites die "
 "GDPR einhalten. Bitte informieren Sie sich darüber. (Hoffentlich ist das "
 "offensichtlich, denn so funktioniert das Internet, aber unsere Anwälte "
-"dachten, wir sollten es aufschreiben)."
+"dachten, wir sollten es aufschreiben.)"
 
 #: ../../privacy.rst:57
 msgid "Data subject rights"
