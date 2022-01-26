@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  MonaLiSa\n"
+"Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-26 15:54+0100\n"
-"PO-Revision-Date: 2022-01-26 14:24+0000\n"
+"PO-Revision-Date: 2022-01-26 20:58+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
+"Language-Team: Spanish <https://trans.westcode.de/projects/monalisa/"
+"documentation/es/>\n"
 "Language: es\n"
-"Language-Team: Spanish "
-"<https://trans.westcode.de/projects/monalisa/documentation/es/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -34,7 +35,7 @@ msgstr "Todavía no se ha liberado. * Lanzamiento inicial"
 
 #: ../../changes.rst:9
 msgid "Initial release"
-msgstr ""
+msgstr "Primera publicación"
 
 #: ../../embed.rst:2
 msgid "Embed"
@@ -69,6 +70,8 @@ msgstr "Representado por"
 #: ../../imprint.rst:12
 msgid "IFOTES Europe e.V. represented by Dr. Stefan Schumacher (Board Member)"
 msgstr ""
+"IFOTES Europe e.V. representada por el Dr. Stefan Schumacher (miembro del "
+"Consejo de Administración)"
 
 #: ../../imprint.rst:15
 msgid "Contact"
@@ -167,6 +170,14 @@ msgid ""
 "volunteers who are carefully prepared for this responsible activity for "
 "months."
 msgstr ""
+"En todos los Estados miembros europeos existen líneas telefónicas o de "
+"Internet de ayuda en crisis para personas necesitadas, con intenciones "
+"suicidas, diversos problemas de salud mental y muchos problemas que limitan "
+"la vida. La tarea de los servicios de crisis es acompañar a esas personas, "
+"proporcionarles contacto o relación, aliviarlas emocionalmente, orientarlas "
+"y, si es necesario, absorber las crisis suicidas. La mayoría de los "
+"servicios de crisis trabajan con voluntarios que se preparan cuidadosamente "
+"durante meses para esta actividad de responsabilidad."
 
 #: ../../introduction.rst:5
 msgid ""
@@ -179,6 +190,14 @@ msgid ""
 " ongoing training is needed. The core competence for crisis support is "
 "listening."
 msgstr ""
+"Según la Asociación Internacional de Servicios Telefónicos de Emergencia "
+"(IFOTES), hay unos 350 centros de crisis en Europa con más de 20.000 "
+"voluntarios que prestan asistencia de emergencia día y noche en más de 4 "
+"millones de llamadas telefónicas y más de 100.000 contactos por internet. "
+"Cada año hay que formar a entre 2.000 y 3.000 voluntarios para mantener la "
+"línea de ayuda en caso de crisis las 24 horas del día. La contratación de "
+"voluntarios es compleja y costosa, y se necesita una formación continua. La "
+"competencia fundamental para el apoyo en crisis es la escucha."
 
 #: ../../introduction.rst:7
 msgid ""
@@ -189,6 +208,12 @@ msgid ""
 " their ability to heart-listen, and to give new attitudes about the "
 "technique and art of competent listening."
 msgstr ""
+"En este contexto, 9 socios de 6 Estados miembros de la UE se han unido en un "
+"consorcio interdisciplinar con el objetivo de ampliar los conocimientos "
+"existentes sobre la capacidad de escucha de forma más individual, estudiar "
+"la arquitectura de la escucha, medir las competencias de los seres humanos y "
+"su capacidad de escuchar con el corazón, y dar nuevas actitudes sobre la "
+"técnica y el arte de la escucha competente."
 
 #: ../../introduction.rst:9
 msgid ""
@@ -198,6 +223,12 @@ msgid ""
 "the field of social skills, skills assessment and vocational guidance "
 "(IT) and a developer of digital platform solutions (DE)."
 msgstr ""
+"La Asociación Estratégica está formada por 6 Servicios Telefónicos de "
+"Emergencia (TES) de DE, IT, HU, FR, NL, ES, un centro de investigación "
+"especializado en salud emocional y mental (DE), un proveedor de formación y "
+"consultoría en el ámbito de las habilidades sociales, la evaluación de "
+"habilidades y la orientación profesional (IT) y un desarrollador de "
+"soluciones de plataformas digitales (DE)."
 
 #: ../../partners.rst:2
 msgid "Partners"
@@ -210,7 +241,7 @@ msgstr ""
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12 ../../privacy.rst:16
 msgid "Germany"
-msgstr ""
+msgstr "Alemania"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12
@@ -232,6 +263,7 @@ msgid ""
 "`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-"
 "heidelberg.de/>`_"
 msgstr ""
+"`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-heidelberg.de/>`_"
 
 #: ../../partners.rst:10
 #, fuzzy
@@ -276,7 +308,7 @@ msgstr "Teléfono Amico, Italia"
 
 #: ../../partners.rst:16
 msgid "Italy"
-msgstr ""
+msgstr "Italia"
 
 #: ../../partners.rst:16
 msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
@@ -288,27 +320,28 @@ msgstr ""
 
 #: ../../partners.rst:18
 msgid "France"
-msgstr ""
+msgstr "Francia"
 
 #: ../../partners.rst:18
 msgid "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
-msgstr ""
+msgstr "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
 
 #: ../../partners.rst:20
 msgid "ASITES"
-msgstr ""
+msgstr "ASITES"
 
 #: ../../partners.rst:20
 msgid "Spain"
-msgstr ""
+msgstr "España"
 
 #: ../../partners.rst:20
 msgid "`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
 msgstr ""
+"`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
 
 #: ../../partners.rst:22
 msgid "De Luisterlijn"
-msgstr ""
+msgstr "De Luisterlijn"
 
 #: ../../partners.rst:22
 #, fuzzy
@@ -317,15 +350,15 @@ msgstr "De Luisterlijn, Países Bajos"
 
 #: ../../partners.rst:22
 msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
-msgstr ""
+msgstr "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
 
 #: ../../privacy.rst:2
 msgid "Privacy and data protection"
-msgstr ""
+msgstr "Privacidad y protección de datos"
 
 #: ../../privacy.rst:5
 msgid "Data protection"
-msgstr ""
+msgstr "Protección de datos"
 
 #: ../../privacy.rst:6
 msgid ""
@@ -335,14 +368,19 @@ msgid ""
 "data, and whom to contact if you have any questions, we’ve put together "
 "all the relevant information on this page."
 msgstr ""
+"El tema de la protección de datos está ampliamente regulado por el "
+"Reglamento General de Protección de Datos (RGPD) de la UE. Para ayudarle a "
+"entender qué datos recopilamos de usted, cómo los procesamos, qué hacemos "
+"para proteger sus datos y a quién dirigirse si tiene alguna pregunta, hemos "
+"reunido toda la información pertinente en esta página."
 
 #: ../../privacy.rst:9
 msgid "Person responsible and scope"
-msgstr ""
+msgstr "Persona responsable y alcance"
 
 #: ../../privacy.rst:10
 msgid "The person responsible according to the GDPR is:"
-msgstr ""
+msgstr "La persona responsable según el GDPR es:"
 
 #: ../../privacy.rst:18
 #, fuzzy
@@ -354,6 +392,9 @@ msgid ""
 "This privacy policy applies to our tool ``listening-skills.eu`` as well "
 "as to our documentation page ``docs.listening-skills.eu``."
 msgstr ""
+"Esta política de privacidad se aplica a nuestra herramienta ``listening-"
+"skills.eu`` así como a nuestra página de documentación ``docs.listening-"
+"skills.eu``."
 
 #: ../../privacy.rst:24
 msgid ""
@@ -363,10 +404,15 @@ msgid ""
 "<https://docs.readthedocs.io/en/latest/privacy-policy.html>`_ of Read The"
 " Docs."
 msgstr ""
+"Operamos el servicio ``docs.listening-skills.eu`` fuera de nuestra propia "
+"infraestructura en ReadTheDocs para poder construir y alojar la "
+"documentación de nuestra herramienta. Tenga en cuenta la `política de "
+"privacidad <https://docs.readthedocs.io/en/latest/privacy-policy.html>`_ de "
+"Read The Docs."
 
 #: ../../privacy.rst:28
 msgid "Principles of data processing"
-msgstr ""
+msgstr "Principios del tratamiento de datos"
 
 #: ../../privacy.rst:29
 msgid ""
@@ -381,6 +427,18 @@ msgid ""
 "deleted as soon as the purpose of the processing has been achieved and no"
 " legally required retention requirements have to be maintained."
 msgstr ""
+"Los datos personales son cualquier información relacionada con una persona "
+"física identificada o identificable. Esto incluye, por ejemplo, información "
+"como su nombre, edad, dirección, número de teléfono, fecha de nacimiento, "
+"dirección de correo electrónico, dirección IP o comportamiento del usuario. "
+"La información que no podemos relacionar con su persona (o sólo con un "
+"esfuerzo desproporcionado), por ejemplo, anonimizando la información, no es "
+"información personal. El tratamiento de datos personales (por ejemplo, la "
+"recogida, la consulta, el uso, el almacenamiento o la transmisión) requiere "
+"siempre una base legal o su consentimiento. Los datos personales procesados "
+"se eliminarán tan pronto como se haya alcanzado la finalidad del tratamiento "
+"y no sea necesario mantener ningún requisito de conservación legalmente "
+"exigido."
 
 #: ../../privacy.rst:31
 msgid ""
@@ -389,10 +447,14 @@ msgid ""
 " scope and purpose of the data processing, the legal basis for the "
 "processing and the respective retention period."
 msgstr ""
+"Si tratamos sus datos personales con el fin de proporcionarle determinadas "
+"ofertas, le informaremos posteriormente de las transacciones específicas, el "
+"alcance y la finalidad del tratamiento de los datos, la base legal para el "
+"tratamiento y el respectivo período de conservación."
 
 #: ../../privacy.rst:34
 msgid "Use of our website"
-msgstr ""
+msgstr "Uso de nuestro sitio web"
 
 #: ../../privacy.rst:35
 msgid ""
@@ -401,10 +463,15 @@ msgid ""
 "the browser used; However, we anonymise your IP address using IP masking,"
 " so that we do not collect any personal data."
 msgstr ""
+"Al utilizar nuestros sitios web, podemos crear registros del servidor web "
+"que contengan la fecha y la hora, la ruta de la URL recuperada, la "
+"referencia (si procede) y el navegador utilizado; sin embargo, anonimizamos "
+"su dirección IP utilizando el enmascaramiento de IP, de modo que no "
+"recogemos ningún dato personal."
 
 #: ../../privacy.rst:38
 msgid "Use of cookies"
-msgstr ""
+msgstr "Uso de cookies"
 
 #: ../../privacy.rst:39
 msgid ""
@@ -413,6 +480,10 @@ msgid ""
 "from the one we recognized from your first visit, we can present you the "
 "tool in the same language on the next visit."
 msgstr ""
+"Sólo establecemos una cookie en relación con el idioma de la herramienta: "
+"por ejemplo, ``lang=es`` por un período de un año. Por lo tanto, si cambia "
+"el idioma del que reconocimos en su primera visita, podemos presentarle la "
+"herramienta en el mismo idioma en la siguiente visita."
 
 #: ../../privacy.rst:41
 msgid ""
@@ -422,26 +493,31 @@ msgid ""
 "persistently, but is automatically deleted when the browser window is "
 "closed."
 msgstr ""
+"Cuando te registras o inicias sesión, establecemos una cookie que lleva un "
+"identificador de sesión. Esto es técnicamente obligatorio para mantener su "
+"estado de inicio de sesión, y por lo tanto no requiere ningún consentimiento "
+"por separado. La cookie no se almacena de forma persistente, sino que se "
+"elimina automáticamente cuando se cierra la ventana del navegador."
 
 #: ../../privacy.rst:44
 msgid "Tracking and analysis tools"
-msgstr ""
+msgstr "Herramientas de seguimiento y análisis"
 
 #: ../../privacy.rst:45
 msgid "We do not use any external tracking and analysis tools."
-msgstr ""
+msgstr "No utilizamos ninguna herramienta externa de seguimiento y análisis."
 
 #: ../../privacy.rst:49
 msgid "Social network plugins"
-msgstr ""
+msgstr "Plugins de redes sociales"
 
 #: ../../privacy.rst:50
 msgid "We do not use any plugins of social networks."
-msgstr ""
+msgstr "No utilizamos ningún plugin de redes sociales."
 
 #: ../../privacy.rst:53
 msgid "Links"
-msgstr ""
+msgstr "Enlaces"
 
 #: ../../privacy.rst:54
 msgid ""
@@ -455,16 +531,27 @@ msgid ""
 "obvious, because that’s how the Internet works, but our lawyers thought "
 "we should write it down.)"
 msgstr ""
+"Es posible que en nuestro sitio web encuentre ocasionalmente enlaces a otros "
+"sitios web. Al activar estos enlaces será redirigido a la página web de otro "
+"operador, que podrá reconocer por el cambio de URL en el navegador. No "
+"tenemos ningún control sobre su contenido y, por tanto, no tenemos ninguna "
+"responsabilidad sobre el modo en que esos otros sitios web tratan su "
+"información personal. No hemos comprobado si los operadores de esos sitios "
+"web cumplen con el GDPR. Le rogamos que se informe al respecto. (Esperemos "
+"que esto sea obvio, porque así es como funciona Internet, pero nuestros "
+"abogados pensaron que debíamos escribirlo)."
 
 #: ../../privacy.rst:57
 msgid "Data subject rights"
-msgstr ""
+msgstr "Derechos del interesado"
 
 #: ../../privacy.rst:58
 msgid ""
 "As a person affected by the processing of personal data you have the "
 "following rights under GDPR, and we are obliged to point this out to you:"
 msgstr ""
+"Como persona afectada por el tratamiento de datos personales, tiene los "
+"siguientes derechos en virtud del GDPR, y estamos obligados a indicárselo:"
 
 #: ../../privacy.rst:60
 msgid ""
@@ -480,12 +567,27 @@ msgid ""
 "automated decision-making including profiling and, if applicable, "
 "meaningful information about its details."
 msgstr ""
+"De conformidad con el Art. 15 del RGPD, puede solicitar información sobre "
+"sus datos personales tratados por nosotros. En particular, puede solicitar "
+"información sobre los fines del tratamiento, las categorías de datos "
+"personales, las categorías de destinatarios a los que se han comunicado o se "
+"comunicarán sus datos, el período de almacenamiento previsto, la existencia "
+"de un derecho de rectificación, supresión, limitación del tratamiento u "
+"oposición, la existencia de un derecho a presentar una reclamación, el "
+"origen de sus datos, si no han sido recogidos por nosotros, sobre su "
+"transferencia a terceros países o a organizaciones internacionales, así como "
+"sobre la existencia de la toma de decisiones automatizada, incluida la "
+"elaboración de perfiles y, si procede, información significativa sobre sus "
+"detalles."
 
 #: ../../privacy.rst:61
 msgid ""
 "Pursuant to Art. 16 GDPR you may request the correction of incorrect "
 "personal data or the completion of your personal data stored by us."
 msgstr ""
+"De acuerdo con el Art. 16 del GDPR, usted puede solicitar la corrección de "
+"datos personales incorrectos o que se completen sus datos personales "
+"almacenados por nosotros."
 
 #: ../../privacy.rst:62
 msgid ""
@@ -495,6 +597,12 @@ msgid ""
 " of a legal obligation, for reasons of public interest or for the "
 "assertion, exercise or defence of legal claims."
 msgstr ""
+"De conformidad con el Art. 17 del RGPD, puede solicitar la supresión de sus "
+"datos personales almacenados por nosotros, a menos que dicho tratamiento sea "
+"necesario para el ejercicio del derecho a la libertad de expresión e "
+"información, para el cumplimiento de una obligación legal, por razones de "
+"interés público o para la afirmación, el ejercicio o la defensa de "
+"reclamaciones legales."
 
 #: ../../privacy.rst:63
 msgid ""
@@ -505,6 +613,12 @@ msgid ""
 "claims. You may also exercise the right under Art. 18 GDPR if you have "
 "objected to the processing. (Art. 21 GDPR)"
 msgstr ""
+"De conformidad con el art. 18 del RGPD, usted puede exigir la limitación del "
+"tratamiento de sus datos personales si impugna la exactitud de los mismos, "
+"si el tratamiento es ilegal, si ya no necesitamos los datos y si rechaza su "
+"supresión porque los necesita para hacer valer, ejercer o defender "
+"reclamaciones legales. También puede ejercer el derecho previsto en el art. "
+"18 del RGPD si se ha opuesto al tratamiento. (Art. 21 del RGPD)"
 
 #: ../../privacy.rst:64
 msgid ""
@@ -512,6 +626,9 @@ msgid ""
 "that you have provided to us in a structured, common and machine-readable"
 " format or you can request it be transferred to a third party."
 msgstr ""
+"De conformidad con el Art. 20 del RGPD, puede solicitar recibir los datos "
+"personales que nos ha proporcionado en un formato estructurado, común y "
+"legible por máquina o puede solicitar que se transfieran a un tercero."
 
 #: ../../privacy.rst:65
 msgid ""
@@ -519,6 +636,9 @@ msgid ""
 " any time. As a result, we may no longer process personal data based on "
 "this consent in the future."
 msgstr ""
+"De acuerdo con el Art. 7 (3) del GDPR, usted puede retirar el consentimiento "
+"que nos ha dado en cualquier momento. En consecuencia, en el futuro no "
+"podremos tratar los datos personales basados en este consentimiento."
 
 #: ../../privacy.rst:66
 msgid ""
@@ -527,10 +647,14 @@ msgid ""
 "authority for your usual place of residence, your workplace or our "
 "company headquarters."
 msgstr ""
+"De conformidad con el art. 77 del RGPD, usted tiene derecho a presentar una "
+"reclamación ante una autoridad de control. Por regla general, puede "
+"dirigirse a la autoridad de control de su lugar de residencia habitual, su "
+"lugar de trabajo o la sede de nuestra empresa."
 
 #: ../../privacy.rst:69
 msgid "Right to object"
-msgstr ""
+msgstr "Derecho de oposición"
 
 #: ../../privacy.rst:70
 msgid ""
@@ -541,10 +665,17 @@ msgid ""
 "directed against direct marketing, you have a general right of objection,"
 " which is followed by us without you having to state a particular reason."
 msgstr ""
+"Cuando el tratamiento de sus datos personales se basa en intereses legítimos "
+"de acuerdo con el Art. 6 (1) f GDPR, usted tiene derecho, de acuerdo con el "
+"Art. 21 del RGPD, a oponerse al tratamiento de sus datos personales por "
+"motivos derivados de su situación particular. Alternativamente, si la "
+"objeción se dirige contra el marketing directo, usted tiene un derecho "
+"general de objeción, que es seguido por nosotros sin tener que indicar una "
+"razón particular."
 
 #: ../../privacy.rst:73
 msgid "Data security and security measures"
-msgstr ""
+msgstr "Seguridad de los datos y medidas de seguridad"
 
 #: ../../privacy.rst:74
 msgid ""
@@ -562,6 +693,20 @@ msgid ""
 "this. It is your responsibility to protect the data provided by you "
 "against misuse, e. g. by utilizing encryption technology."
 msgstr ""
+"Nos comprometemos a proteger su privacidad y a mantener la confidencialidad "
+"de sus datos personales. Para evitar la manipulación, la pérdida o el uso "
+"indebido de sus datos almacenados por nosotros, tomamos amplias precauciones "
+"de seguridad técnica y organizativa, que se comprueban regularmente y se "
+"adaptan al progreso tecnológico. Esto incluye, entre otras cosas, el uso de "
+"procedimientos de encriptación reconocidos. Sin embargo, nos gustaría "
+"señalar que, debido a la naturaleza de Internet, es posible que las normas "
+"de protección de datos y las medidas de seguridad mencionadas no sean "
+"seguidas por otras personas o instituciones fuera de nuestro ámbito de "
+"responsabilidad. En particular, los datos no codificados pueden ser leídos "
+"por terceros, por ejemplo, si se envían por correo electrónico. No tenemos "
+"ninguna influencia técnica sobre esto. Es su responsabilidad proteger los "
+"datos facilitados por usted contra el uso indebido, por ejemplo, utilizando "
+"tecnología de encriptación."
 
 #~ msgid "This is the introduction text to MonaLiSa."
 #~ msgstr "Este es el texto de introducción a MonaLiSa."
@@ -590,4 +735,3 @@ msgstr ""
 
 #~ msgid "ASITES, Spain"
 #~ msgstr "ASITES, España"
-
