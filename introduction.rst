@@ -8,3 +8,5 @@ Against this background, 9 partners from 6 EU Member States have joined in an in
 
 The Strategic Partnership consist of 6 Telephone Emergency Services (TES) from DE, IT, HU, FR, NL, ES, one research center specialised in emotional and mental health (DE), a training provider and consultancy in the field of social skills, skills assessment and vocational guidance (IT) and a developer of digital platform solutions (DE).
 
+
+.. image:: images/erasmus.svg
