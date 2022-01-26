@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-26 15:54+0100\n"
 "PO-Revision-Date: 2022-01-26 14:56+0000\n"
-"Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://trans.westcode.de/projects/monalisa/"
 "documentation/de/>\n"
 "Language: de\n"
@@ -244,7 +244,7 @@ msgstr "Lead Partner"
 
 #: ../../partners.rst:6
 msgid "`ifotes.org <https://ifotes.org/>`_"
-msgstr ""
+msgstr "`ifotes.org <https://ifotes.org/>`_"
 
 #: ../../partners.rst:8
 #, fuzzy
@@ -256,6 +256,7 @@ msgid ""
 "`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-"
 "heidelberg.de/>`_"
 msgstr ""
+"`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-heidelberg.de/>`_"
 
 #: ../../partners.rst:10
 msgid "Studio Rucli"
@@ -263,19 +264,19 @@ msgstr "Studio Rucli"
 
 #: ../../partners.rst:10
 msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
-msgstr ""
+msgstr "`www.studiorucli.it <http://www.studiorucli.it/>`_"
 
 #: ../../partners.rst:12
 msgid "Westcode GmbH"
-msgstr ""
+msgstr "Westcode GmbH"
 
 #: ../../partners.rst:12
 msgid "`westcode.de <https://www.westcode.de/>`_"
-msgstr ""
+msgstr "`westcode.de <https://www.westcode.de/>`_"
 
 #: ../../partners.rst:14
 msgid "LESZ"
-msgstr ""
+msgstr "LESZ"
 
 #: ../../partners.rst:14
 #, fuzzy
@@ -290,7 +291,7 @@ msgstr "Partner"
 
 #: ../../partners.rst:14
 msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
-msgstr ""
+msgstr "`sos116-123.hu <https://sos116-123.hu/>`_"
 
 #: ../../partners.rst:16
 #, fuzzy
@@ -299,39 +300,40 @@ msgstr "Telefono Amico, Italien"
 
 #: ../../partners.rst:16
 msgid "Italy"
-msgstr ""
+msgstr "Italien"
 
 #: ../../partners.rst:16
 msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
-msgstr ""
+msgstr "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
 
 #: ../../partners.rst:18
 msgid "SOS Amitié"
-msgstr ""
+msgstr "SOS Amitié"
 
 #: ../../partners.rst:18
 msgid "France"
-msgstr ""
+msgstr "Frankreich"
 
 #: ../../partners.rst:18
 msgid "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
-msgstr ""
+msgstr "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
 
 #: ../../partners.rst:20
 msgid "ASITES"
-msgstr ""
+msgstr "ASITEN"
 
 #: ../../partners.rst:20
 msgid "Spain"
-msgstr ""
+msgstr "Spanien"
 
 #: ../../partners.rst:20
 msgid "`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
 msgstr ""
+"`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
 
 #: ../../partners.rst:22
 msgid "De Luisterlijn"
-msgstr ""
+msgstr "Die Luisterlijn"
 
 #: ../../partners.rst:22
 #, fuzzy
@@ -340,7 +342,7 @@ msgstr "De Luisterlijn, Die Niederlande"
 
 #: ../../partners.rst:22
 msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
-msgstr ""
+msgstr "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
 
 #: ../../privacy.rst:2
 msgid "Privacy and data protection"
