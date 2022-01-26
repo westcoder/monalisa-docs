@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  MonaLiSa\n"
+"Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-26 14:55+0100\n"
-"PO-Revision-Date: 2022-01-26 09:51+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-01-26 14:18+0000\n"
+"Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
+"Language-Team: German <https://trans.westcode.de/projects/monalisa/"
+"documentation/de/>\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://trans.westcode.de/projects/monalisa/documentation/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -28,9 +29,8 @@ msgid "MonaLiSa 1.0.0"
 msgstr "MonaLiSa 1.0.0"
 
 #: ../../changes.rst:7
-#, fuzzy
 msgid "Not yet released."
-msgstr "Noch nicht freigegeben. * Erstveröffentlichung"
+msgstr "Noch nicht freigegeben."
 
 #: ../../changes.rst:9
 msgid "Initial release"
@@ -493,4 +493,3 @@ msgstr ""
 
 #~ msgid "Privacy policy"
 #~ msgstr "Datenschutzhinweise"
-
