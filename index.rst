@@ -9,7 +9,7 @@ Welcome to the documentation of the MonaLiSa/Listeningskills project
 .. image:: images/sitting.svg
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    introduction
