@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-26 15:54+0100\n"
-"PO-Revision-Date: 2022-01-26 14:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-01-26 15:12+0000\n"
+"Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
 "Language-Team: German <https://trans.westcode.de/projects/monalisa/"
 "documentation/de/>\n"
 "Language: de\n"
@@ -247,9 +247,8 @@ msgid "`ifotes.org <https://ifotes.org/>`_"
 msgstr "`ifotes.org <https://ifotes.org/>`_"
 
 #: ../../partners.rst:8
-#, fuzzy
 msgid "Universitätsklinikum Heidelberg"
-msgstr "Universitätsklinikum Heidelberg, Deutschland"
+msgstr "Universitätsklinikum Heidelberg"
 
 #: ../../partners.rst:8
 msgid ""
@@ -279,13 +278,11 @@ msgid "LESZ"
 msgstr "LESZ"
 
 #: ../../partners.rst:14
-#, fuzzy
 msgid "Hungary"
-msgstr "LESZ, Ungarn"
+msgstr "Ungarn"
 
 #: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
 #: ../../partners.rst:20 ../../partners.rst:22
-#, fuzzy
 msgid "Partner"
 msgstr "Partner"
 
@@ -294,9 +291,8 @@ msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
 msgstr "`sos116-123.hu <https://sos116-123.hu/>`_"
 
 #: ../../partners.rst:16
-#, fuzzy
 msgid "Telefono Amico"
-msgstr "Telefono Amico, Italien"
+msgstr "Telefono Amico"
 
 #: ../../partners.rst:16
 msgid "Italy"
@@ -336,9 +332,8 @@ msgid "De Luisterlijn"
 msgstr "Die Luisterlijn"
 
 #: ../../partners.rst:22
-#, fuzzy
 msgid "The Netherlands"
-msgstr "De Luisterlijn, Die Niederlande"
+msgstr "Die Niederlande"
 
 #: ../../partners.rst:22
 msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
