@@ -3,6 +3,8 @@ pygments
 Sphinx
 sphinx-intl
 sphinx-jsonschema
+sphinx-copybutton
+sphinxext-opengraph
 sphinxcontrib-httpdomain
 invoke
 livereload

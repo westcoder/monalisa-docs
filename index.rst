@@ -14,10 +14,11 @@ Welcome to the documentation of the MonaLiSa/Listeningskills project
 
    introduction
    embed
-   changes
+   contribution
    partners
    imprint
    privacy
+   changes
 
 
 

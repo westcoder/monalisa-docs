@@ -54,6 +54,8 @@ extensions = [
     "sphinx.ext.graphviz",
     "sphinx.ext.intersphinx",
     "sphinx-jsonschema",
+    'sphinx_copybutton',
+    "sphinxext.opengraph",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -83,3 +85,6 @@ gettext_compact = "docs"
 
 html_logo = "images/ls-logo.png"
 figure_language_filename = '{path}{language}/{basename}{ext}'
+
+ogp_site_url = "https://docs.listening-skills.eu"
+ogp_image = "https://docs.listening-skills.eu/en/latest/_static/ls-logo.png"
