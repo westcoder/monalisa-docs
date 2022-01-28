@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-26 15:54+0100\n"
-"PO-Revision-Date: 2022-01-26 15:12+0000\n"
+"PO-Revision-Date: 2022-01-28 11:08+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
 "Language-Team: German <https://trans.westcode.de/projects/monalisa/"
 "documentation/de/>\n"
@@ -38,7 +38,7 @@ msgstr "Erste Veröffentlichung"
 
 #: ../../embed.rst:2
 msgid "Embed"
-msgstr "einbetten"
+msgstr "Einbetten"
 
 #: ../../imprint.rst:2
 msgid "Imprint"
