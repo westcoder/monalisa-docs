@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-23 08:30+0100\n"
 "PO-Revision-Date: 2022-02-23 07:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
 "Language-Team: German <https://trans.westcode.de/projects/monalisa/"
 "documentation/de/>\n"
 "Language: de\n"
@@ -37,9 +37,8 @@ msgid "Initial release"
 msgstr "Erste Veröffentlichung"
 
 #: ../../contribution.rst:2
-#, fuzzy
 msgid "Contribution"
-msgstr "Einführung"
+msgstr "Beitragen"
 
 #: ../../contribution.rst:4
 msgid ""
