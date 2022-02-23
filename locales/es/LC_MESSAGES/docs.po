@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  MonaLiSa\n"
+"Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-23 08:30+0100\n"
-"PO-Revision-Date: 2022-01-26 20:58+0000\n"
-"Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
+"PO-Revision-Date: 2022-02-23 07:38+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <https://trans.westcode.de/projects/monalisa/"
+"documentation/es/>\n"
 "Language: es\n"
-"Language-Team: Spanish "
-"<https://trans.westcode.de/projects/monalisa/documentation/es/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -46,20 +47,24 @@ msgid ""
 "The MonaLiSa/Listeningskills is open for contribution of content in other"
 " languages."
 msgstr ""
+"MonaLiSa/Listeningskills está abierta a la contribución de contenidos en "
+"otras lenguas."
 
 #: ../../contribution.rst:7
 msgid "More information coming"
-msgstr ""
+msgstr "Más información"
 
 #: ../../contribution.rst:10
 msgid "In the future we will provide more information on the process."
-msgstr ""
+msgstr "En el futuro proporcionaremos más información sobre el proceso."
 
 #: ../../contribution.rst:12
 msgid ""
 "For more information please contact IFOTES. Have a look at the contact "
 "information on the :doc:`Imprint <../imprint>` page."
 msgstr ""
+"Para más información, póngase en contacto con IFOTES. Consulte la "
+"información de contacto en la página :doc:`Imprint <../imprint>`."
 
 #: ../../embed.rst:2
 msgid "Embed"
@@ -67,7 +72,7 @@ msgstr "Incrustar"
 
 #: ../../embed.rst:5
 msgid "Linking"
-msgstr ""
+msgstr "Enlace"
 
 #: ../../embed.rst:6
 msgid ""
@@ -75,14 +80,17 @@ msgid ""
 "://listening-skills.eu>`_ Page. So place a link to the page on your site "
 "or documents."
 msgstr ""
+"Puede utilizar la herramienta MonaLiSa directamente desde la página "
+"`listening-skills.eu <https://listening-skills.eu>`_. Así que coloca un "
+"enlace a la página en tu sitio o documentos."
 
 #: ../../embed.rst:9
 msgid "iFrame"
-msgstr ""
+msgstr "iFrame"
 
 #: ../../embed.rst:11
 msgid "Embed the application as a simple iFrame:"
-msgstr ""
+msgstr "Incrustar la aplicación como un simple iFrame:"
 
 #: ../../embed.rst:18
 #, fuzzy
@@ -94,20 +102,25 @@ msgid ""
 "We support the `oEmbed <https://oembed.com/>`_ standard, so you can just "
 "copy the application link into your blog or content management system:"
 msgstr ""
+"Apoyamos el estándar `oEmbed <https://oembed.com/>`_, por lo que sólo tiene "
+"que copiar el enlace de la aplicación en su blog o sistema de gestión de "
+"contenidos:"
 
 #: ../../embed.rst:26
 msgid ""
 "Your system should automatically recognize the link and embed the tool "
 "onto your page."
 msgstr ""
+"Su sistema debería reconocer automáticamente el enlace e integrar la "
+"herramienta en su página."
 
 #: ../../embed.rst:30
 msgid "Custom Element"
-msgstr ""
+msgstr "Elemento personalizado"
 
 #: ../../embed.rst:32
 msgid "TBA"
-msgstr ""
+msgstr "TBA"
 
 #: ../../imprint.rst:2
 msgid "Imprint"
@@ -238,6 +251,15 @@ msgid ""
 "services work with volunteers who are carefully prepared over a period of"
 " months for this responsible activity."
 msgstr ""
+"En muchos Estados miembros europeos existen servicios de crisis por teléfono "
+"o por Internet para personas en situación de desamparo, con intención "
+"suicida, con diversos problemas de salud mental y muchos problemas que "
+"limitan la vida. La tarea de los servicios de crisis es acompañar a estas "
+"personas, proporcionarles un contacto o una relación, aliviarlas "
+"emocionalmente, orientarlas y, si es necesario, absorber las crisis "
+"suicidas. La mayoría de los servicios de crisis trabajan con voluntarios que "
+"se preparan cuidadosamente durante meses para esta actividad de "
+"responsabilidad."
 
 #: ../../introduction.rst:5
 msgid ""
@@ -250,6 +272,14 @@ msgid ""
 "ongoing training is required. The core competency for crisis response is "
 "listening."
 msgstr ""
+"Según la Asociación Internacional de Servicios Telefónicos de Emergencia "
+"(IFOTES), hay unos 350 centros de crisis en Europa con más de 20.000 "
+"voluntarios que prestan asistencia de emergencia día y noche con más de 4 "
+"millones de llamadas telefónicas y más de 100.000 contactos por internet. "
+"Cada año hay que formar a 2.000 voluntarios para mantener el servicio de "
+"emergencia las 24 horas del día. La contratación de voluntarios es compleja "
+"y costosa, y se requiere una formación continua. La competencia fundamental "
+"para la respuesta a las crisis es la escucha."
 
 #: ../../introduction.rst:7
 msgid ""
@@ -260,6 +290,12 @@ msgid ""
 "with their hearts, and to provide new attitudes towards the technique and"
 " art of competent listening."
 msgstr ""
+"En este contexto, 8 socios de 5 Estados miembros de la UE se han unido en un "
+"consorcio interdisciplinar para ampliar los conocimientos existentes sobre "
+"la capacidad de escucha de forma más individual, estudiar la arquitectura de "
+"la escucha, medir las competencias de las personas y su capacidad de "
+"escuchar con el corazón, y aportar nuevas actitudes hacia la técnica y el "
+"arte de la escucha competente."
 
 #: ../../introduction.rst:9
 msgid ""
@@ -271,6 +307,14 @@ msgid ""
 "social skills, competence assessment and career guidance (IT), and a "
 "developer of digital platform solutions (DE)."
 msgstr ""
+"La asociación estratégica del programa Erasmus+ \"MonaLisa\" (Medición de "
+"las actitudes de escucha avanzada de hoy en día) fue financiada con fondos "
+"de la UE y estaba formada por seis Servicios de Emergencia Telefónica (TES) "
+"de DE, IT, HU, FR y ES, un centro de investigación especializado en salud "
+"emocional y mental (DE), un proveedor de formación y consultor en el ámbito "
+"de las habilidades sociales, la evaluación de competencias y la orientación "
+"profesional (IT), y un desarrollador de soluciones de plataformas digitales "
+"(DE)."
 
 #: ../../introduction.rst:11
 msgid ""
@@ -279,6 +323,10 @@ msgid ""
 "different listening fields, and an exercise program that uses case "
 "studies to train sensitivity in listening in the eight listening fields."
 msgstr ""
+"El resultado del proyecto es un cuestionario para la autoevaluación de la "
+"capacidad de escucha, la presentación del resultado en ocho campos de "
+"escucha diferentes y un programa de ejercicios que utiliza estudios de casos "
+"para entrenar la sensibilidad en los ocho campos de escucha."
 
 #: ../../introduction.rst:13
 msgid ""
@@ -288,6 +336,11 @@ msgid ""
 " different languages and to stimulate an intensive learning-based "
 "examination of one's own listening skills."
 msgstr ""
+"La herramienta en línea está disponible de forma gratuita y puede integrarse "
+"fácilmente en los sitios web existentes. El objetivo del consorcio es "
+"destacar la importancia de la capacidad de escucha para la interacción "
+"social en toda Europa en diferentes idiomas y estimular un examen intensivo "
+"basado en el aprendizaje de la propia capacidad de escucha."
 
 #: ../../partners.rst:2
 msgid "Partners"
@@ -783,6 +836,9 @@ msgid ""
 "can use this web-application to individually assess the training success "
 "of your trainees and improve it through training."
 msgstr ""
+"Si es usted formador y capacita a personas en el ámbito de la escucha, puede "
+"utilizar esta aplicación web para evaluar individualmente el éxito de la "
+"formación de sus alumnos y mejorarla mediante la capacitación."
 
 #: ../../trainers.rst:7
 msgid ""
@@ -790,6 +846,9 @@ msgid ""
 "at the beginning and end of a training session to monitor changes in "
 "self-assessment."
 msgstr ""
+"Puede pedir a los participantes que rellenen el formulario de "
+"autoevaluación, por ejemplo, al principio y al final de una sesión de "
+"formación para controlar los cambios en la autoevaluación."
 
 #: ../../trainers.rst:8
 msgid ""
@@ -797,6 +856,9 @@ msgid ""
 "which trainees feel confident or insecure, enabling you, to track and "
 "target your training according to individual needs of trainees."
 msgstr ""
+"La autoevaluación proporciona información sobre las áreas de escucha en las "
+"que los alumnos se sienten seguros o inseguros, lo que le permite seguir y "
+"orientar su formación según las necesidades individuales de los alumnos."
 
 #: ../../trainers.rst:9
 msgid ""
@@ -805,10 +867,15 @@ msgid ""
 " the response options and their effect in the group. Furthermore, "
 "additional, and more complex case studies can be unlocked."
 msgstr ""
+"Se puede pedir a los participantes en una formación sobre habilidades de "
+"escucha que practiquen casos prácticos específicos sobre áreas de escucha "
+"seleccionadas, que discutan y reflexionen sobre las opciones de respuesta y "
+"su efecto en el grupo. Además, se pueden desbloquear casos prácticos "
+"adicionales y más complejos."
 
 #: ../../trainers.rst:12
 msgid "How do I use the web application in training?"
-msgstr ""
+msgstr "¿Cómo se utiliza la aplicación web en la formación?"
 
 #: ../../trainers.rst:14
 msgid ""
@@ -820,6 +887,13 @@ msgid ""
 "participant and use it for the adaptation of an individual training or "
 "make suggestions for targeted practice."
 msgstr ""
+"Pide a los participantes de tu grupo de formación que guarden su perfil "
+"después de completar el test de autoevaluación y que se lo envíen por correo "
+"electrónico o que hagan una foto del código QR. Pide a tus participantes que "
+"te envíen el código, e inserta el código al principio de la aplicación en el "
+"campo de código. A continuación, podrás ver el resultado del cuestionario de "
+"cada participante del grupo y utilizarlo para la adaptación de una formación "
+"individual o hacer sugerencias para una práctica específica."
 
 #: ../../trainers.rst:16
 msgid ""
@@ -830,6 +904,12 @@ msgid ""
 "moment on, additional case studies will be displayed in the training "
 "section. (Example for the code: ``fz3mp`` and the extension: ``afz3mp``)"
 msgstr ""
+"También tiene la posibilidad de desbloquear casos prácticos adicionales para "
+"sus participantes de un curso, que son más desafiantes que los tres ejemplos "
+"básicos. Para ello, pida a sus alumnos que coloquen una \"a\" minúscula "
+"delante de su código de perfil (\"a\" significa \"avanzado\"). A partir de "
+"ese momento, se mostrarán casos prácticos adicionales en la sección de "
+"formación. (Ejemplo para el código: ``fz3mp`` y la extensión: ``afz3mp``)"
 
 #~ msgid "This is the introduction text to MonaLiSa."
 #~ msgstr "Este es el texto de introducción a MonaLiSa."
@@ -977,4 +1057,3 @@ msgstr ""
 #~ "orientación profesional (IT) y un "
 #~ "desarrollador de soluciones de plataformas "
 #~ "digitales (DE)."
-
