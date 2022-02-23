@@ -1,7 +1,7 @@
 Contribution
 ============
 
-The MonaLiSa/Listeningskills is open for contribution of content in other languages.
+The MonaLiSa/Listeningskills project is open for contribution of content in other languages.
 
 
 .. admonition:: More information coming
