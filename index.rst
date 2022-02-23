@@ -14,6 +14,7 @@ Welcome to the documentation of the MonaLiSa/Listeningskills project
 
    introduction
    embed
+   trainers
    contribution
    partners
    imprint

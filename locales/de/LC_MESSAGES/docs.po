@@ -5,19 +5,18 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: MonaLiSa\n"
+"Project-Id-Version:  MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-26 15:54+0100\n"
+"POT-Creation-Date: 2022-02-23 08:30+0100\n"
 "PO-Revision-Date: 2022-01-28 11:08+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
-"Language-Team: German <https://trans.westcode.de/projects/monalisa/"
-"documentation/de/>\n"
 "Language: de\n"
+"Language-Team: German "
+"<https://trans.westcode.de/projects/monalisa/documentation/de/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -36,9 +35,78 @@ msgstr "Noch nicht freigegeben."
 msgid "Initial release"
 msgstr "Erste Veröffentlichung"
 
+#: ../../contribution.rst:2
+#, fuzzy
+msgid "Contribution"
+msgstr "Einführung"
+
+#: ../../contribution.rst:4
+msgid ""
+"The MonaLiSa/Listeningskills is open for contribution of content in other"
+" languages."
+msgstr ""
+
+#: ../../contribution.rst:7
+msgid "More information coming"
+msgstr ""
+
+#: ../../contribution.rst:10
+msgid "In the future we will provide more information on the process."
+msgstr ""
+
+#: ../../contribution.rst:12
+msgid ""
+"For more information please contact IFOTES. Have a look at the contact "
+"information on the :doc:`Imprint <../imprint>` page."
+msgstr ""
+
 #: ../../embed.rst:2
 msgid "Embed"
 msgstr "Einbetten"
+
+#: ../../embed.rst:5
+msgid "Linking"
+msgstr ""
+
+#: ../../embed.rst:6
+msgid ""
+"You can use the MonaLiSa Tool right from the `listening-skills.eu <https"
+"://listening-skills.eu>`_ Page. So place a link to the page on your site "
+"or documents."
+msgstr ""
+
+#: ../../embed.rst:9
+msgid "iFrame"
+msgstr ""
+
+#: ../../embed.rst:11
+msgid "Embed the application as a simple iFrame:"
+msgstr ""
+
+#: ../../embed.rst:18
+#, fuzzy
+msgid "oEmbed"
+msgstr "Einbetten"
+
+#: ../../embed.rst:20
+msgid ""
+"We support the `oEmbed <https://oembed.com/>`_ standard, so you can just "
+"copy the application link into your blog or content management system:"
+msgstr ""
+
+#: ../../embed.rst:26
+msgid ""
+"Your system should automatically recognize the link and embed the tool "
+"onto your page."
+msgstr ""
+
+#: ../../embed.rst:30
+msgid "Custom Element"
+msgstr ""
+
+#: ../../embed.rst:32
+msgid "TBA"
+msgstr ""
 
 #: ../../imprint.rst:2
 msgid "Imprint"
@@ -132,19 +200,19 @@ msgstr "Inhalt:"
 msgid "Welcome to the documentation of the MonaLiSa/Listeningskills project"
 msgstr "Willkommen bei der Dokumentation des MonaLiSa/Listeningskills-Projekts"
 
-#: ../../index.rst:25
+#: ../../index.rst:27
 msgid "Indices and tables"
 msgstr "Indizes und Tabellen"
 
-#: ../../index.rst:27
+#: ../../index.rst:29
 msgid ":ref:`genindex`"
 msgstr ":ref:`Genindex`"
 
-#: ../../index.rst:28
+#: ../../index.rst:30
 msgid ":ref:`modindex`"
 msgstr ":ref:`modindex`"
 
-#: ../../index.rst:29
+#: ../../index.rst:31
 msgid ":ref:`search`"
 msgstr ":ref:`Suche`"
 
@@ -154,75 +222,65 @@ msgstr "Einführung"
 
 #: ../../introduction.rst:3
 msgid ""
-"In all European Member States there are telephone or Internet-based "
-"crisis helplines for people in need, with suicidal intentions, diverse "
-"mental health problems and many life-limiting problems. The task of "
-"crisis services is to accompany those people, to provide contact or "
-"relationship, to relieve them emotionally, to give orientation and, if "
-"necessary, to absorb suicidal crises. Most crisis services work with "
-"volunteers who are carefully prepared for this responsible activity for "
-"months."
+"In many European member states, there are telephone or Internet-based "
+"crisis services for people in distress, with suicidal intent, various "
+"mental health problems and many life-limiting problems. The task of the "
+"crisis services is to accompany these people, to provide them with "
+"contact or a relationship, to relieve them emotionally, to provide "
+"orientation and, if necessary, to absorb suicidal crises. Most crisis "
+"services work with volunteers who are carefully prepared over a period of"
+" months for this responsible activity."
 msgstr ""
-"In allen europäischen Mitgliedstaaten gibt es telefonische oder "
-"internetbasierte Krisendienste für Menschen in Not, mit Suizidabsichten, "
-"verschiedenen psychischen Problemen und vielen lebensbegrenzenden "
-"Problemen. Die Aufgabe der Krisendienste besteht darin, diese Menschen zu"
-" begleiten, ihnen Kontakt oder Beziehung zu vermitteln, sie emotional zu "
-"entlasten, Orientierung zu geben und gegebenenfalls suizidale Krisen "
-"aufzufangen. Die meisten Krisendienste arbeiten mit Ehrenamtlichen, die "
-"monatelang sorgfältig auf diese verantwortungsvolle Tätigkeit vorbereitet"
-" werden."
 
 #: ../../introduction.rst:5
 msgid ""
 "According to the International Association of Telephone Emergency "
 "Services (IFOTES), there are about 350 crisis centers in Europe with over"
-" 20,000 volunteers providing emergency assistance day and night in over 4"
-" million telephone calls and over 100.000 internet contacts. 2-3 thousand"
-" volunteers have to be trained every year to keep the crisis helpline "
-"around the clock. The recruitment of volunteers is complex and costly and"
-" ongoing training is needed. The core competence for crisis support is "
+" 20,000 volunteers providing emergency assistance day and night with over"
+" 4 million phone calls and over 100,000 internet contacts. Every year 2-3"
+" thousand volunteers need to be trained to maintain the emergency service"
+" around the clock. Recruiting volunteers is complex and costly, and "
+"ongoing training is required. The core competency for crisis response is "
 "listening."
 msgstr ""
-"Nach Angaben der International Association of Telephone Emergency "
-"Services (IFOTES) gibt es in Europa etwa 350 Krisenzentren mit über 20 "
-"000 Freiwilligen, die Tag und Nacht bei über 4 Millionen Telefonanrufen "
-"und über 100 000 Internetkontakten Notfallhilfe leisten. Jedes Jahr "
-"müssen 2-3 Tausend Freiwillige geschult werden, um den Notrufdienst rund "
-"um die Uhr aufrechtzuerhalten. Die Rekrutierung von Freiwilligen ist "
-"komplex und kostspielig, und es ist eine kontinuierliche Schulung "
-"erforderlich. Die Kernkompetenz der Krisenhilfe ist das Zuhören."
 
 #: ../../introduction.rst:7
 msgid ""
-"Against this background, 9 partners from 6 EU Member States have joined "
-"in an interdisciplinary consortium with the aim to expand the existing "
-"knowledge about listening skills more individually, to study the "
-"architecture of listening, to measure the competences of human beings and"
-" their ability to heart-listen, and to give new attitudes about the "
-"technique and art of competent listening."
+"Against this background, 8 partners from 5 EU Member States have joined "
+"together in an interdisciplinary consortium to expand existing knowledge "
+"on listening skills more individually, to study the architecture of "
+"listening, to measure people's competencies and their ability to listen "
+"with their hearts, and to provide new attitudes towards the technique and"
+" art of competent listening."
 msgstr ""
-"Vor diesem Hintergrund haben sich 9 Partner aus 6 EU-Mitgliedstaaten zu "
-"einem interdisziplinären Konsortium zusammengeschlossen, um das "
-"vorhandene Wissen über Zuhörfähigkeiten individueller zu erweitern, die "
-"Architektur des Zuhörens zu erforschen, die Kompetenzen der Menschen und "
-"ihre Fähigkeit, mit dem Herzen zuzuhören, zu messen und neue Erkenntnisse"
-" über die Technik und Kunst des kompetenten Zuhörens zu gewinnen."
 
 #: ../../introduction.rst:9
 msgid ""
-"The Strategic Partnership consist of 6 Telephone Emergency Services (TES)"
-" from DE, IT, HU, FR, NL, ES, one research center specialised in "
-"emotional and mental health (DE), a training provider and consultancy in "
-"the field of social skills, skills assessment and vocational guidance "
-"(IT) and a developer of digital platform solutions (DE)."
+"The strategic partnership of the Erasmus+ program \"MonaLisa\" "
+"(Measurement of nowadays advanced Listening-Skills attitudes) was funded "
+"by EU funds and consisted of six Telephone Emergency Services (TES) from "
+"DE, IT, HU, FR, and ES, a research center specialized in emotional and "
+"mental health (DE), a training provider and consultant in the field of "
+"social skills, competence assessment and career guidance (IT), and a "
+"developer of digital platform solutions (DE)."
 msgstr ""
-"Die strategische Partnerschaft besteht aus sechs Telefonnotrufdiensten "
-"(TES) aus DE, IT, HU, FR, NL und ES, einem auf emotionale und psychische "
-"Gesundheit spezialisierten Forschungszentrum (DE), einem Schulungs- und "
-"Beratungsunternehmen im Bereich soziale Kompetenzen, Kompetenzbewertung "
-"und Berufsberatung (IT) und einem Entwickler digitaler Plattformlösungen "
-"(DE)."
+
+#: ../../introduction.rst:11
+msgid ""
+"The outcome of the project is a questionnaire for self-assessment of "
+"one's listening skills, the presentation of the result across eight "
+"different listening fields, and an exercise program that uses case "
+"studies to train sensitivity in listening in the eight listening fields."
+msgstr ""
+
+#: ../../introduction.rst:13
+msgid ""
+"The online tool is available free of charge and can be easily integrated "
+"into existing websites. The aim of the consortium is to highlight the "
+"relevance of listening skills for social interaction throughout Europe in"
+" different languages and to stimulate an intensive learning-based "
+"examination of one's own listening skills."
+msgstr ""
 
 #: ../../partners.rst:2
 msgid "Partners"
@@ -255,7 +313,8 @@ msgid ""
 "`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-"
 "heidelberg.de/>`_"
 msgstr ""
-"`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-heidelberg.de/>`_"
+"`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-"
+"heidelberg.de/>`_"
 
 #: ../../partners.rst:10
 msgid "Studio Rucli"
@@ -324,8 +383,7 @@ msgstr "Spanien"
 
 #: ../../partners.rst:20
 msgid "`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
-msgstr ""
-"`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
+msgstr "`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
 
 #: ../../partners.rst:22
 msgid "De Luisterlijn"
@@ -699,6 +757,65 @@ msgstr ""
 "die von Ihnen bereitgestellten Daten vor Missbrauch zu schützen, z. B. "
 "durch den Einsatz von Verschlüsselungstechniken."
 
+#: ../../trainers.rst:2
+#, fuzzy
+msgid "Trainers"
+msgstr "Partner"
+
+#: ../../trainers.rst:5
+msgid ""
+"If you are a trainer and qualify people in the field of listening, you "
+"can use this web-application to individually assess the training success "
+"of your trainees and improve it through training."
+msgstr ""
+
+#: ../../trainers.rst:7
+msgid ""
+"You can ask participants complete the self-assessment form, for example, "
+"at the beginning and end of a training session to monitor changes in "
+"self-assessment."
+msgstr ""
+
+#: ../../trainers.rst:8
+msgid ""
+"The self-assessment provides information about the listening areas in "
+"which trainees feel confident or insecure, enabling you, to track and "
+"target your training according to individual needs of trainees."
+msgstr ""
+
+#: ../../trainers.rst:9
+msgid ""
+"You can ask participants in a listening-skill training to practice "
+"specific case studies on selected listening areas, discuss and reflect on"
+" the response options and their effect in the group. Furthermore, "
+"additional, and more complex case studies can be unlocked."
+msgstr ""
+
+#: ../../trainers.rst:12
+msgid "How do I use the web application in training?"
+msgstr ""
+
+#: ../../trainers.rst:14
+msgid ""
+"Ask the participants in your training group to save their profile after "
+"completing the self-assessment test and have it emailed to them or take a"
+" photo of the QR code. Ask your participants to send you the code, and "
+"insert the code at the beginning of the application in the code-field. "
+"Then you can view the result of the questionnaire of each group "
+"participant and use it for the adaptation of an individual training or "
+"make suggestions for targeted practice."
+msgstr ""
+
+#: ../../trainers.rst:16
+msgid ""
+"You also have the possibility to unlock additional case studies for your "
+"participants of a course, which are more challenging than the three basic"
+" examples. To do this, ask your trainees to place a lowercase ``a`` in "
+"front of their profile code (``a`` stands for \"advanced\"). From that "
+"moment on, additional case studies will be displayed in the training "
+"section. (Example for the code: ``fz3mp`` and the extension: ``afz3mp``)"
+msgstr ""
+
 #~ msgid "This is the introduction text to MonaLiSa."
 #~ msgstr "Dies ist der Einführungstext zu MonaLiSa."
 
@@ -726,3 +843,115 @@ msgstr ""
 
 #~ msgid "ASITES, Spain"
 #~ msgstr "ASITES, Spanien"
+
+#~ msgid ""
+#~ "In all European Member States there "
+#~ "are telephone or Internet-based crisis"
+#~ " helplines for people in need, with"
+#~ " suicidal intentions, diverse mental health"
+#~ " problems and many life-limiting "
+#~ "problems. The task of crisis services"
+#~ " is to accompany those people, to "
+#~ "provide contact or relationship, to "
+#~ "relieve them emotionally, to give "
+#~ "orientation and, if necessary, to absorb"
+#~ " suicidal crises. Most crisis services "
+#~ "work with volunteers who are carefully"
+#~ " prepared for this responsible activity "
+#~ "for months."
+#~ msgstr ""
+#~ "In allen europäischen Mitgliedstaaten gibt "
+#~ "es telefonische oder internetbasierte "
+#~ "Krisendienste für Menschen in Not, mit"
+#~ " Suizidabsichten, verschiedenen psychischen "
+#~ "Problemen und vielen lebensbegrenzenden "
+#~ "Problemen. Die Aufgabe der Krisendienste "
+#~ "besteht darin, diese Menschen zu "
+#~ "begleiten, ihnen Kontakt oder Beziehung "
+#~ "zu vermitteln, sie emotional zu "
+#~ "entlasten, Orientierung zu geben und "
+#~ "gegebenenfalls suizidale Krisen aufzufangen. "
+#~ "Die meisten Krisendienste arbeiten mit "
+#~ "Ehrenamtlichen, die monatelang sorgfältig auf"
+#~ " diese verantwortungsvolle Tätigkeit vorbereitet"
+#~ " werden."
+
+#~ msgid ""
+#~ "According to the International Association "
+#~ "of Telephone Emergency Services (IFOTES), "
+#~ "there are about 350 crisis centers "
+#~ "in Europe with over 20,000 volunteers"
+#~ " providing emergency assistance day and "
+#~ "night in over 4 million telephone "
+#~ "calls and over 100.000 internet "
+#~ "contacts. 2-3 thousand volunteers have "
+#~ "to be trained every year to keep"
+#~ " the crisis helpline around the "
+#~ "clock. The recruitment of volunteers is"
+#~ " complex and costly and ongoing "
+#~ "training is needed. The core competence"
+#~ " for crisis support is listening."
+#~ msgstr ""
+#~ "Nach Angaben der International Association "
+#~ "of Telephone Emergency Services (IFOTES) "
+#~ "gibt es in Europa etwa 350 "
+#~ "Krisenzentren mit über 20 000 "
+#~ "Freiwilligen, die Tag und Nacht bei "
+#~ "über 4 Millionen Telefonanrufen und über"
+#~ " 100 000 Internetkontakten Notfallhilfe "
+#~ "leisten. Jedes Jahr müssen 2-3 Tausend"
+#~ " Freiwillige geschult werden, um den "
+#~ "Notrufdienst rund um die Uhr "
+#~ "aufrechtzuerhalten. Die Rekrutierung von "
+#~ "Freiwilligen ist komplex und kostspielig, "
+#~ "und es ist eine kontinuierliche Schulung"
+#~ " erforderlich. Die Kernkompetenz der "
+#~ "Krisenhilfe ist das Zuhören."
+
+#~ msgid ""
+#~ "Against this background, 9 partners from"
+#~ " 6 EU Member States have joined "
+#~ "in an interdisciplinary consortium with "
+#~ "the aim to expand the existing "
+#~ "knowledge about listening skills more "
+#~ "individually, to study the architecture "
+#~ "of listening, to measure the competences"
+#~ " of human beings and their ability"
+#~ " to heart-listen, and to give "
+#~ "new attitudes about the technique and"
+#~ " art of competent listening."
+#~ msgstr ""
+#~ "Vor diesem Hintergrund haben sich 9 "
+#~ "Partner aus 6 EU-Mitgliedstaaten zu "
+#~ "einem interdisziplinären Konsortium "
+#~ "zusammengeschlossen, um das vorhandene Wissen"
+#~ " über Zuhörfähigkeiten individueller zu "
+#~ "erweitern, die Architektur des Zuhörens "
+#~ "zu erforschen, die Kompetenzen der "
+#~ "Menschen und ihre Fähigkeit, mit dem "
+#~ "Herzen zuzuhören, zu messen und neue "
+#~ "Erkenntnisse über die Technik und Kunst"
+#~ " des kompetenten Zuhörens zu gewinnen."
+
+#~ msgid ""
+#~ "The Strategic Partnership consist of 6"
+#~ " Telephone Emergency Services (TES) from"
+#~ " DE, IT, HU, FR, NL, ES, one"
+#~ " research center specialised in emotional"
+#~ " and mental health (DE), a training"
+#~ " provider and consultancy in the "
+#~ "field of social skills, skills "
+#~ "assessment and vocational guidance (IT) "
+#~ "and a developer of digital platform "
+#~ "solutions (DE)."
+#~ msgstr ""
+#~ "Die strategische Partnerschaft besteht aus "
+#~ "sechs Telefonnotrufdiensten (TES) aus DE, "
+#~ "IT, HU, FR, NL und ES, einem "
+#~ "auf emotionale und psychische Gesundheit "
+#~ "spezialisierten Forschungszentrum (DE), einem "
+#~ "Schulungs- und Beratungsunternehmen im Bereich"
+#~ " soziale Kompetenzen, Kompetenzbewertung und "
+#~ "Berufsberatung (IT) und einem Entwickler "
+#~ "digitaler Plattformlösungen (DE)."
+
