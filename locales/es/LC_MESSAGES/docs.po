@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 08:38+0100\n"
+"POT-Creation-Date: 2022-03-03 11:51+0100\n"
 "PO-Revision-Date: 2022-02-23 07:38+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: es\n"
@@ -213,6 +213,10 @@ msgstr ""
 "arbitraje de consumo."
 
 #: ../../index.rst:11
+msgid "To the App"
+msgstr ""
+
+#: ../../index.rst:11
 msgid "Contents:"
 msgstr "Contenido:"
 
@@ -220,19 +224,19 @@ msgstr "Contenido:"
 msgid "Welcome to the documentation of the MonaLiSa/Listeningskills project"
 msgstr "Bienvenido a la documentación del proyecto MonaLiSa/Listeningskills"
 
-#: ../../index.rst:27
+#: ../../index.rst:28
 msgid "Indices and tables"
 msgstr "Índices y tablas"
 
-#: ../../index.rst:29
+#: ../../index.rst:30
 msgid ":ref:`genindex`"
 msgstr ":ref:`genindex`"
 
-#: ../../index.rst:30
+#: ../../index.rst:31
 msgid ":ref:`modindex`"
 msgstr ":ref:`modindex`"
 
-#: ../../index.rst:31
+#: ../../index.rst:32
 msgid ":ref:`search`"
 msgstr ":ref:`búsqueda`"
 
