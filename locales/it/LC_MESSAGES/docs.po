@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  MonaLiSa\n"
+"Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-03 11:51+0100\n"
-"PO-Revision-Date: 2022-02-23 07:38+0000\n"
+"PO-Revision-Date: 2022-03-03 10:56+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <https://trans.westcode.de/projects/monalisa/"
+"documentation/it/>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://trans.westcode.de/projects/monalisa/documentation/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -212,7 +213,7 @@ msgstr ""
 
 #: ../../index.rst:11
 msgid "To the App"
-msgstr ""
+msgstr "All'App"
 
 #: ../../index.rst:11
 msgid "Contents:"
@@ -1072,4 +1073,3 @@ msgstr ""
 #~ " professionale (IT) e uno sviluppatore "
 #~ "di soluzioni di piattaforme digitali "
 #~ "(DE)."
-
