@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-03 11:51+0100\n"
-"PO-Revision-Date: 2022-03-03 10:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-03-18 14:45+0000\n"
+"Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
 "Language-Team: French <https://trans.westcode.de/projects/monalisa/"
 "documentation/fr/>\n"
 "Language: fr\n"
@@ -29,21 +29,18 @@ msgid "MonaLiSa 1.0.0"
 msgstr "MonaLiSa 1.0.0"
 
 #: ../../changes.rst:7
-#, fuzzy
 msgid "Not yet released."
-msgstr "Pas encore publié. * Version initiale"
+msgstr "Pas encore publié."
 
 #: ../../changes.rst:9
 msgid "Initial release"
 msgstr "Communiqué initial"
 
 #: ../../contribution.rst:2
-#, fuzzy
 msgid "Contribution"
-msgstr "Introduction"
+msgstr "Contribution"
 
 #: ../../contribution.rst:4
-#, fuzzy
 msgid ""
 "The MonaLiSa/Listeningskills project is open for contribution of content "
 "in other languages."
@@ -94,9 +91,8 @@ msgid "Embed the application as a simple iFrame:"
 msgstr "Embarquez l'application comme une simple iFrame :"
 
 #: ../../embed.rst:18
-#, fuzzy
 msgid "oEmbed"
-msgstr "Intégrer"
+msgstr "oEmbed"
 
 #: ../../embed.rst:20
 msgid ""
@@ -125,7 +121,7 @@ msgstr "TBA"
 
 #: ../../imprint.rst:2
 msgid "Imprint"
-msgstr "Impression"
+msgstr "Impressum"
 
 #: ../../imprint.rst:5
 msgid "Information provided according to Sec. 5 German Telemedia Act (TMG)"
@@ -172,14 +168,12 @@ msgid "Register entry"
 msgstr "Inscription au registre"
 
 #: ../../imprint.rst:23
-#, fuzzy
 msgid "Entry in the German `Vereinsregister`."
-msgstr "Inscription dans le Vereinsregister."
+msgstr "Inscription dans le `Vereinsregister`."
 
 #: ../../imprint.rst:24
-#, fuzzy
 msgid "Registering court: `Vereinsregister des AG Hagen`"
-msgstr "Tribunal d'enregistrement : Vereinsregister des AG Hagen"
+msgstr "Tribunal d'enregistrement : `Vereinsregister for AG Hagen`"
 
 #: ../../imprint.rst:25
 msgid "Registration number: VR 2737"
@@ -357,7 +351,7 @@ msgstr "Partenaires"
 
 #: ../../partners.rst:6
 msgid "IFOTES Europe"
-msgstr ""
+msgstr "IFOTES Europe"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12 ../../privacy.rst:16
@@ -367,15 +361,15 @@ msgstr "Allemagne"
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12
 msgid "Lead Partner"
-msgstr ""
+msgstr "Partenaire principal"
 
 #: ../../partners.rst:6
 msgid "`ifotes.org <https://ifotes.org/>`_"
-msgstr ""
+msgstr "`ifotes.org <https://ifotes.org/>`_"
 
 #: ../../partners.rst:8
 msgid "Universitätsklinikum Heidelberg"
-msgstr ""
+msgstr "Institut de psychologie clinique de l’Université de Heidelberg"
 
 #: ../../partners.rst:8
 msgid ""
@@ -406,14 +400,13 @@ msgid "LESZ"
 msgstr ""
 
 #: ../../partners.rst:14
-#, fuzzy
 msgid "Hungary"
-msgstr "LESZ, Hongrie"
+msgstr "Hongrie"
 
 #: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
 #: ../../partners.rst:20 ../../partners.rst:22
 msgid "Partner"
-msgstr ""
+msgstr "Partenaire"
 
 #: ../../partners.rst:14
 msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
@@ -460,9 +453,8 @@ msgid "De Luisterlijn"
 msgstr "De Luisterlijn"
 
 #: ../../partners.rst:22
-#, fuzzy
 msgid "The Netherlands"
-msgstr "De Luisterlijn, Pays-Bas"
+msgstr "Pays-Bas"
 
 #: ../../partners.rst:22
 msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
@@ -497,12 +489,11 @@ msgstr "Personne responsable et champ d'application"
 
 #: ../../privacy.rst:10
 msgid "The person responsible according to the GDPR is:"
-msgstr "La personne responsable selon le GDPR est :"
+msgstr "La personne responsable selon le RGPD est :"
 
 #: ../../privacy.rst:18
-#, fuzzy
 msgid "Telephone: +49 2331 17773"
-msgstr "Téléphone : tél:+49233117773"
+msgstr "Téléphone : +49 2331 17773"
 
 #: ../../privacy.rst:22
 msgid ""
@@ -653,16 +644,15 @@ msgid ""
 "obvious, because that’s how the Internet works, but our lawyers thought "
 "we should write it down.)"
 msgstr ""
-"Vous pouvez occasionnellement trouver sur notre site des liens vers "
-"d'autres sites web. En activant ces liens, vous serez redirigé vers le "
-"site web d'un autre opérateur, que vous pouvez reconnaître à l'URL "
-"modifié dans le navigateur. Nous n'avons aucun contrôle sur leur contenu "
-"et ne sommes donc pas responsables de la manière dont ces autres sites "
-"traitent vos informations personnelles. Nous n'avons pas vérifié si les "
-"opérateurs de ces sites web respectent le GDPR. Veuillez vous informer à "
-"ce sujet. (Nous espérons que c'est évident, car c'est ainsi que "
-"fonctionne Internet, mais nos avocats ont pensé que nous devions "
-"l'écrire)."
+"Vous pouvez occasionnellement trouver sur notre site des liens vers d'autres "
+"sites web. En activant ces liens, vous serez redirigé vers le site web d'un "
+"autre opérateur, que vous pouvez reconnaître à l'URL modifié dans le "
+"navigateur. Nous n'avons aucun contrôle sur leur contenu et ne sommes donc "
+"pas responsables de la manière dont ces autres sites traitent vos "
+"informations personnelles. Nous n'avons pas vérifié si les opérateurs de ces "
+"sites web respectent le RGPD. Veuillez vous informer à ce sujet. (Nous "
+"espérons que c'est évident, car c'est ainsi que fonctionne Internet, mais "
+"nos avocats ont pensé que nous devions l'écrire)."
 
 #: ../../privacy.rst:57
 msgid "Data subject rights"
@@ -674,7 +664,7 @@ msgid ""
 "following rights under GDPR, and we are obliged to point this out to you:"
 msgstr ""
 "En tant que personne concernée par le traitement de données à caractère "
-"personnel, vous disposez des droits suivants en vertu du GDPR, et nous "
+"personnel, vous disposez des droits suivants en vertu du RGPD, et nous "
 "sommes tenus de vous le signaler :"
 
 #: ../../privacy.rst:60
@@ -691,27 +681,27 @@ msgid ""
 "automated decision-making including profiling and, if applicable, "
 "meaningful information about its details."
 msgstr ""
-"Conformément à l'art. 15 GDPR, vous pouvez demander des informations sur "
-"vos données personnelles traitées par nos soins. En particulier, vous "
-"pouvez demander des informations sur les finalités du traitement, les "
-"catégories de données à caractère personnel, les catégories de "
-"destinataires auxquels vos données ont été ou seront communiquées, la "
-"durée de conservation prévue, l'existence d'un droit de rectification, "
-"d'effacement, de limitation du traitement ou d'opposition, l'existence "
-"d'un droit de déposer une plainte, l'origine de vos données, si elles "
-"n'ont pas été collectées auprès de nous, sur leur transfert à des pays "
-"tiers ou à des organisations internationales ainsi que sur l'existence "
-"d'une prise de décision automatisée, y compris le profilage et, le cas "
-"échéant, des informations significatives sur ses détails."
+"Conformément à l'art. 15 RGPD, vous pouvez demander des informations sur vos "
+"données personnelles traitées par nos soins. En particulier, vous pouvez "
+"demander des informations sur les finalités du traitement, les catégories de "
+"données à caractère personnel, les catégories de destinataires auxquels vos "
+"données ont été ou seront communiquées, la durée de conservation prévue, "
+"l'existence d'un droit de rectification, d'effacement, de limitation du "
+"traitement ou d'opposition, l'existence d'un droit de déposer une plainte, "
+"l'origine de vos données, si elles n'ont pas été collectées auprès de nous, "
+"sur leur transfert à des pays tiers ou à des organisations internationales "
+"ainsi que sur l'existence d'une prise de décision automatisée, y compris le "
+"profilage et, le cas échéant, des informations significatives sur ses "
+"détails."
 
 #: ../../privacy.rst:61
 msgid ""
 "Pursuant to Art. 16 GDPR you may request the correction of incorrect "
 "personal data or the completion of your personal data stored by us."
 msgstr ""
-"Conformément à l'art. 16 GDPR, vous pouvez demander la correction de "
-"données personnelles incorrectes ou le complément de vos données "
-"personnelles stockées par nous."
+"Conformément à l'art. 16 RGPD, vous pouvez demander la correction de données "
+"personnelles incorrectes ou le complément de vos données personnelles "
+"stockées par nous."
 
 #: ../../privacy.rst:62
 msgid ""
@@ -721,9 +711,9 @@ msgid ""
 " of a legal obligation, for reasons of public interest or for the "
 "assertion, exercise or defence of legal claims."
 msgstr ""
-"Conformément à l'art. 17 GDPR, vous pouvez demander la suppression de vos"
-" données personnelles stockées par nous, à moins que ce traitement ne "
-"soit nécessaire pour l'exercice du droit à la liberté d'expression et "
+"Conformément à l'art. 17 RGPD, vous pouvez demander la suppression de vos "
+"données personnelles stockées par nous, à moins que ce traitement ne soit "
+"nécessaire pour l'exercice du droit à la liberté d'expression et "
 "d'information, pour le respect d'une obligation légale, pour des raisons "
 "d'intérêt public ou pour l'affirmation, l'exercice ou la défense de "
 "revendications légales."
@@ -737,13 +727,13 @@ msgid ""
 "claims. You may also exercise the right under Art. 18 GDPR if you have "
 "objected to the processing. (Art. 21 GDPR)"
 msgstr ""
-"Conformément à l'art. 18 GDPR, vous pouvez demander la restriction du "
+"Conformément à l'art. 18 RGPD, vous pouvez demander la restriction du "
 "traitement de vos données personnelles si l'exactitude des données est "
 "contestée par vous, si le traitement est illégal, si nous n'avons plus "
 "besoin des données et si vous refusez leur suppression parce que vous en "
-"avez besoin pour faire valoir, exercer ou défendre des droits légaux. "
-"Vous pouvez également exercer le droit prévu à l'art. 18 GDPR si vous "
-"vous êtes opposé au traitement. (Art. 21 GDPR)"
+"avez besoin pour faire valoir, exercer ou défendre des droits légaux. Vous "
+"pouvez également exercer le droit prévu à l'art. 18 RGPD si vous vous êtes "
+"opposé au traitement. (Art. 21 RGPD)"
 
 #: ../../privacy.rst:64
 msgid ""
@@ -751,10 +741,10 @@ msgid ""
 "that you have provided to us in a structured, common and machine-readable"
 " format or you can request it be transferred to a third party."
 msgstr ""
-"Conformément à l'art. 20 GDPR, vous pouvez demander à recevoir les "
-"données personnelles que vous nous avez fournies dans un format "
-"structuré, commun et lisible par machine ou vous pouvez demander qu'elles"
-" soient transférées à un tiers."
+"Conformément à l'art. 20 RGPD, vous pouvez demander à recevoir les données "
+"personnelles que vous nous avez fournies dans un format structuré, commun et "
+"lisible par machine ou vous pouvez demander qu'elles soient transférées à un "
+"tiers."
 
 #: ../../privacy.rst:65
 msgid ""
@@ -762,10 +752,9 @@ msgid ""
 " any time. As a result, we may no longer process personal data based on "
 "this consent in the future."
 msgstr ""
-"Conformément à l'art. 7 (3) GDPR, vous pouvez retirer le consentement que"
-" vous nous avez donné à tout moment. Par conséquent, nous ne pourrons "
-"plus traiter les données personnelles basées sur ce consentement à "
-"l'avenir."
+"Conformément à l'art. 7 (3) RGPD, vous pouvez retirer le consentement que "
+"vous nous avez donné à tout moment. Par conséquent, nous ne pourrons plus "
+"traiter les données personnelles basées sur ce consentement à l'avenir."
 
 #: ../../privacy.rst:66
 msgid ""
@@ -774,10 +763,10 @@ msgid ""
 "authority for your usual place of residence, your workplace or our "
 "company headquarters."
 msgstr ""
-"Conformément à l'art. 77 GDPR, vous avez le droit de déposer une plainte "
+"Conformément à l'art. 77 RGPD, vous avez le droit de déposer une plainte "
 "auprès d'une autorité de surveillance. En règle générale, vous pouvez "
-"contacter l'autorité de surveillance de votre lieu de résidence habituel,"
-" de votre lieu de travail ou du siège de notre société."
+"contacter l'autorité de surveillance de votre lieu de résidence habituel, de "
+"votre lieu de travail ou du siège de notre société."
 
 #: ../../privacy.rst:69
 msgid "Right to object"
@@ -793,12 +782,12 @@ msgid ""
 " which is followed by us without you having to state a particular reason."
 msgstr ""
 "Lorsque vous traitez vos données personnelles sur la base d'intérêts "
-"légitimes conformément à l'art. 6 (1) f GDPR, vous avez le droit, "
-"conformément à l'art. 21 GDPR, de vous opposer au traitement de vos "
-"données personnelles pour des raisons qui découlent de votre situation "
-"particulière. Alternativement, si l'opposition est dirigée contre le "
-"marketing direct, vous disposez d'un droit d'opposition général, qui est "
-"suivi par nous sans que vous ayez à indiquer un motif particulier."
+"légitimes conformément à l'art. 6 (1) f RGPD, vous avez le droit, "
+"conformément à l'art. 21 RGPD, de vous opposer au traitement de vos données "
+"personnelles pour des raisons qui découlent de votre situation particulière. "
+"Alternativement, si l'opposition est dirigée contre le marketing direct, "
+"vous disposez d'un droit d'opposition général, qui est suivi par nous sans "
+"que vous ayez à indiquer un motif particulier."
 
 #: ../../privacy.rst:73
 msgid "Data security and security measures"
@@ -839,9 +828,8 @@ msgstr ""
 "cryptage."
 
 #: ../../trainers.rst:2
-#, fuzzy
 msgid "Trainers"
-msgstr "Partenaires"
+msgstr "Formateurs"
 
 #: ../../trainers.rst:5
 msgid ""
@@ -849,10 +837,10 @@ msgid ""
 "can use this web-application to individually assess the training success "
 "of your trainees and improve it through training."
 msgstr ""
-"Si vous êtes formateur et que vous qualifiez des personnes dans le "
-"domaine de l'écoute, vous pouvez utiliser cette web-application pour "
-"évaluer individuellement la réussite de vos stagiaires et l'améliorer par"
-" la formation."
+"Si vous êtes formateur et que vous qualifiez des personnes dans le domaine "
+"de l'écoute, vous pouvez utiliser cette application web pour évaluer "
+"individuellement la réussite de vos stagiaires et l'améliorer par la "
+"formation."
 
 #: ../../trainers.rst:7
 msgid ""
