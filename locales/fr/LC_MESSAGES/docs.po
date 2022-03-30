@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-03 11:51+0100\n"
-"PO-Revision-Date: 2022-03-18 14:45+0000\n"
+"PO-Revision-Date: 2022-03-30 07:39+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
 "Language-Team: French <https://trans.westcode.de/projects/monalisa/"
 "documentation/fr/>\n"
@@ -126,8 +126,8 @@ msgstr "Impressum"
 #: ../../imprint.rst:5
 msgid "Information provided according to Sec. 5 German Telemedia Act (TMG)"
 msgstr ""
-"Informations fournies conformément à l'article 5 de la loi allemande sur "
-"les télémédias (TMG)."
+"Informations fournies conformément à l'article 5 de la loi allemande sur les "
+"télémédias (TMG)"
 
 #: ../../imprint.rst:6
 msgid "IFOTES Europe e.V.,"
@@ -184,8 +184,8 @@ msgid ""
 "Responsible for contents acc. to Sec. 55, para. 2 German Federal "
 "Broadcasting Agreement (RstV)"
 msgstr ""
-"Responsable du contenu conformément à l'article 55, paragraphe 2 de "
-"l'accord fédéral allemand sur la radiodiffusion (RstV)."
+"Responsable du contenu conformément à l'article 55, paragraphe 2 de l'accord "
+"fédéral allemand sur la radiodiffusion (RstV)"
 
 #: ../../imprint.rst:29 ../../privacy.rst:12
 msgid "Dr. Stefan Schumacher"
@@ -381,23 +381,23 @@ msgstr ""
 
 #: ../../partners.rst:10
 msgid "Studio Rucli"
-msgstr ""
+msgstr "Studio Rucli"
 
 #: ../../partners.rst:10
 msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
-msgstr ""
+msgstr "`www.studiorucli.it <http://www.studiorucli.it/>`_"
 
 #: ../../partners.rst:12
 msgid "Westcode GmbH"
-msgstr ""
+msgstr "Westcode GmbH"
 
 #: ../../partners.rst:12
 msgid "`westcode.de <https://www.westcode.de/>`_"
-msgstr ""
+msgstr "`westcode.de <https://www.westcode.de/>`_"
 
 #: ../../partners.rst:14
 msgid "LESZ"
-msgstr ""
+msgstr "LESZ"
 
 #: ../../partners.rst:14
 msgid "Hungary"
@@ -410,11 +410,11 @@ msgstr "Partenaire"
 
 #: ../../partners.rst:14
 msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
-msgstr ""
+msgstr "`sos116-123.hu <https://sos116-123.hu/>`_"
 
 #: ../../partners.rst:16
 msgid "Telefono Amico"
-msgstr ""
+msgstr "Telefono Amico"
 
 #: ../../partners.rst:16
 msgid "Italy"
@@ -422,11 +422,11 @@ msgstr "Italie"
 
 #: ../../partners.rst:16
 msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
-msgstr ""
+msgstr "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
 
 #: ../../partners.rst:18
 msgid "SOS Amitié"
-msgstr ""
+msgstr "SOS Amitié"
 
 #: ../../partners.rst:18
 msgid "France"
@@ -652,7 +652,7 @@ msgstr ""
 "informations personnelles. Nous n'avons pas vérifié si les opérateurs de ces "
 "sites web respectent le RGPD. Veuillez vous informer à ce sujet. (Nous "
 "espérons que c'est évident, car c'est ainsi que fonctionne Internet, mais "
-"nos avocats ont pensé que nous devions l'écrire)."
+"nos avocats ont pensé que nous devions l'écrire)"
 
 #: ../../privacy.rst:57
 msgid "Data subject rights"
