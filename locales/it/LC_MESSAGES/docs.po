@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-03 11:51+0100\n"
-"PO-Revision-Date: 2022-03-03 10:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-03-30 07:20+0000\n"
+"Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
 "Language-Team: Italian <https://trans.westcode.de/projects/monalisa/"
 "documentation/it/>\n"
 "Language: it\n"
@@ -37,22 +37,19 @@ msgid "Initial release"
 msgstr "Rilascio iniziale"
 
 #: ../../contribution.rst:2
-#, fuzzy
 msgid "Contribution"
-msgstr "Introduzione"
+msgstr "Contributo"
 
 #: ../../contribution.rst:4
-#, fuzzy
 msgid ""
 "The MonaLiSa/Listeningskills project is open for contribution of content "
 "in other languages."
 msgstr ""
-"MonaLiSa/Listeningskills è aperto al contributo di contenuti in altre "
-"lingue."
+"MonaLiSa/Listeningskills è aperto al contributo di contenuti in altre lingue."
 
 #: ../../contribution.rst:7
 msgid "More information coming"
-msgstr "Maggiori informazioni in arrivo"
+msgstr "Seguiranno maggiori informazioni"
 
 #: ../../contribution.rst:10
 msgid "In the future we will provide more information on the process."
@@ -63,17 +60,16 @@ msgid ""
 "For more information please contact IFOTES. Have a look at the contact "
 "information on the :doc:`Imprint <../imprint>` page."
 msgstr ""
-"Per ulteriori informazioni si prega di contattare IFOTES. Date "
-"un'occhiata alle informazioni di contatto sulla pagina :doc:`Imprint "
-"<../imprint>`."
+"Per ulteriori informazioni si prega di contattare IFOTES. Maggiori "
+"informazioni sui contatti alla pagina :doc:`Imprint <../imprint>`."
 
 #: ../../embed.rst:2
 msgid "Embed"
-msgstr "Incorporare"
+msgstr "Collocare"
 
 #: ../../embed.rst:5
 msgid "Linking"
-msgstr "Collegamento con"
+msgstr "Link"
 
 #: ../../embed.rst:6
 msgid ""
@@ -81,22 +77,21 @@ msgid ""
 "://listening-skills.eu>`_ Page. So place a link to the page on your site "
 "or documents."
 msgstr ""
-"Potete usare lo strumento MonaLiSa direttamente dalla pagina `listening-"
-"skills.eu <https://listening-skills.eu>`_. Quindi metti un link alla "
-"pagina sul tuo sito o sui tuoi documenti."
+"Lo strumento MonaLiSa può essere usato direttamente dalla pagina `listening-"
+"skills.eu <https://listening-skills.eu>`_. Inserite un link alla pagina sul "
+"vostro sito o sui vostri documenti."
 
 #: ../../embed.rst:9
 msgid "iFrame"
-msgstr ""
+msgstr "iFrame"
 
 #: ../../embed.rst:11
 msgid "Embed the application as a simple iFrame:"
-msgstr "Incorporare l'applicazione come un semplice iFrame:"
+msgstr "Inserire l'applicazione come un semplice iFrame:"
 
 #: ../../embed.rst:18
-#, fuzzy
 msgid "oEmbed"
-msgstr "Incorporare"
+msgstr "oEmbed"
 
 #: ../../embed.rst:20
 msgid ""
@@ -112,8 +107,8 @@ msgid ""
 "Your system should automatically recognize the link and embed the tool "
 "onto your page."
 msgstr ""
-"Il tuo sistema dovrebbe riconoscere automaticamente il link e incorporare"
-" lo strumento nella tua pagina."
+"Il sistema dovrebbe riconoscere automaticamente il link e incorporare lo "
+"strumento nella tua pagina."
 
 #: ../../embed.rst:30
 msgid "Custom Element"
@@ -125,7 +120,7 @@ msgstr "TBA"
 
 #: ../../imprint.rst:2
 msgid "Imprint"
-msgstr "Impronta"
+msgstr "Colofone"
 
 #: ../../imprint.rst:5
 msgid "Information provided according to Sec. 5 German Telemedia Act (TMG)"
@@ -135,11 +130,11 @@ msgstr ""
 
 #: ../../imprint.rst:6
 msgid "IFOTES Europe e.V.,"
-msgstr ""
+msgstr "IFOTES Europe e.V.,"
 
 #: ../../imprint.rst:7 ../../imprint.rst:31 ../../privacy.rst:14
 msgid "Dödterstraße 10"
-msgstr ""
+msgstr "Dödterstraße 10"
 
 #: ../../imprint.rst:8 ../../imprint.rst:32 ../../privacy.rst:15
 msgid "58095 Hagen"
@@ -157,7 +152,7 @@ msgstr ""
 
 #: ../../imprint.rst:15
 msgid "Contact"
-msgstr "Contatta"
+msgstr "Contatti"
 
 #: ../../imprint.rst:16
 msgid "Telephone: tel:+49233117773"
@@ -177,7 +172,7 @@ msgstr "Iscrizione nel `Vereinsregister` tedesco."
 
 #: ../../imprint.rst:24
 msgid "Registering court: `Vereinsregister des AG Hagen`"
-msgstr "Tribunale di registrazione: `Vereinsregister des AG Hagen`."
+msgstr "Tribunale di registrazione: `Vereinsregister des AG Hagen`"
 
 #: ../../imprint.rst:25
 msgid "Registration number: VR 2737"
@@ -193,11 +188,11 @@ msgstr ""
 
 #: ../../imprint.rst:29 ../../privacy.rst:12
 msgid "Dr. Stefan Schumacher"
-msgstr ""
+msgstr "Dr. Stefan Schumacher"
 
 #: ../../imprint.rst:30 ../../privacy.rst:13
 msgid "IFOTES Europe e.V."
-msgstr ""
+msgstr "IFOTES Europe e.V."
 
 #: ../../imprint.rst:35
 msgid "Dispute resolution"
@@ -208,12 +203,12 @@ msgid ""
 "We do not take part in online dispute resolutions at consumer arbitration"
 " boards."
 msgstr ""
-"Non prendiamo parte a risoluzioni di controversie online presso le "
-"commissioni di arbitrato dei consumatori."
+"Non prendiamo parte a risoluzioni di controversie online presso i collegi "
+"arbitrali dei consumatori."
 
 #: ../../index.rst:11
 msgid "To the App"
-msgstr "All'App"
+msgstr "Vai all'applicazione"
 
 #: ../../index.rst:11
 msgid "Contents:"
@@ -221,7 +216,9 @@ msgstr "Contenuti:"
 
 #: ../../index.rst:7
 msgid "Welcome to the documentation of the MonaLiSa/Listeningskills project"
-msgstr "Benvenuti alla documentazione del progetto MonaLiSa/Listeningskills"
+msgstr ""
+"Benvenuti nella pagina di documentazione del progetto MonaLiSa/"
+"Listeningskills"
 
 #: ../../index.rst:28
 msgid "Indices and tables"
@@ -254,15 +251,15 @@ msgid ""
 "services work with volunteers who are carefully prepared over a period of"
 " months for this responsible activity."
 msgstr ""
-"In molti stati membri europei, ci sono servizi di crisi telefonici o "
-"basati su Internet per persone in difficoltà, con intenzioni suicide, "
-"vari problemi di salute mentale e molti problemi che limitano la vita. Il"
-" compito dei servizi di crisi è quello di accompagnare queste persone, di"
-" fornire loro un contatto o una relazione, di sollevarle emotivamente, di"
-" fornire orientamento e, se necessario, di assorbire le crisi suicide. La"
-" maggior parte dei servizi di crisi lavora con volontari che sono "
-"accuratamente preparati durante un periodo di mesi per questa attività di"
-" responsabilità."
+"In molti stati membri europei sono presenti servizi di supporto telefonico o "
+"via internet rivolti a persone in difficoltà, con intenzioni suicidarie, "
+"problemi di salute mentale e numerosi problemi che limitano la vita "
+"quotidiana. Il compito dei servizi di aiuto è quello di accompagnare queste "
+"persone, di fornire loro un contatto o una relazione, di sostenerle "
+"emotivamente, di fornire indicazioni, se necessario, e di limitare il "
+"rischio di suicidio. La maggior parte dei servizi di crisi lavora con "
+"volontari che vengono accuratamente formati durante un periodo di diversi "
+"mesi per questa attività che comporta responsabilità."
 
 #: ../../introduction.rst:5
 msgid ""
@@ -275,14 +272,14 @@ msgid ""
 "ongoing training is required. The core competency for crisis response is "
 "listening."
 msgstr ""
-"Secondo l'Associazione Internazionale dei Servizi di Emergenza Telefonica"
-" (IFOTES), ci sono circa 350 centri di crisi in Europa con oltre 20.000 "
-"volontari che forniscono assistenza di emergenza giorno e notte con oltre"
-" 4 milioni di chiamate telefoniche e oltre 100.000 contatti internet. "
-"Ogni anno 2-3 mila volontari devono essere formati per mantenere il "
-"servizio di emergenza 24 ore su 24. Il reclutamento dei volontari è "
-"complesso e costoso, ed è necessaria una formazione continua. La "
-"competenza fondamentale per la risposta alle crisi è l'ascolto."
+"Dai dati dell'Associazione Internazionale dei Servizi Telefonici di "
+"Emergenza (IFOTES), ci sono circa 350 centri di crisi in Europa con oltre "
+"20.000 volontari che giorno e notte forniscono assistenza nelle emergenze, "
+"con oltre 4 milioni di chiamate telefoniche e oltre 100.000 contatti via "
+"internet. Ogni anno 2-3 mila volontari devono essere formati per mantenere "
+"il servizio di emergenza 24 ore su 24. Il reclutamento dei volontari è "
+"complesso e costoso, ed è necessaria una formazione continua. La competenza "
+"fondamentale per la risposta alle crisi è l'ascolto."
 
 #: ../../introduction.rst:7
 msgid ""
@@ -327,10 +324,10 @@ msgid ""
 "studies to train sensitivity in listening in the eight listening fields."
 msgstr ""
 "Il risultato del progetto è un questionario per l'autovalutazione delle "
-"proprie capacità di ascolto, la presentazione del risultato in otto "
-"diversi campi di ascolto e un programma di esercizi che utilizza casi di "
-"studio per allenare la sensibilità all'ascolto negli otto campi di "
-"ascolto."
+"capacità di ascolto, la presentazione del risultato in otto diverse "
+"dimensioni dell'ascolto e un programma di esercizi che utilizza casi di "
+"studio per allenare la sensibilità all'ascolto all'interno delle otto "
+"dimensioni."
 
 #: ../../introduction.rst:13
 msgid ""
@@ -341,10 +338,10 @@ msgid ""
 "examination of one's own listening skills."
 msgstr ""
 "Lo strumento online è disponibile gratuitamente e può essere facilmente "
-"integrato nei siti web esistenti. L'obiettivo del consorzio è quello di "
-"evidenziare la rilevanza delle abilità di ascolto per l'interazione "
-"sociale in tutta Europa in diverse lingue e di stimolare un esame "
-"intensivo basato sull'apprendimento delle proprie abilità di ascolto."
+"integrato nei siti web esistenti. L'obiettivo del partenariato è quello di "
+"evidenziare, in tutta Europa in diverse lingue, l'importanza delle abilità "
+"di ascolto per l'interazione sociale e di stimolare un esame approfondito "
+"sull'apprendimento delle abilità di ascolto."
 
 #: ../../partners.rst:2
 msgid "Partners"
@@ -352,7 +349,7 @@ msgstr "Partner"
 
 #: ../../partners.rst:6
 msgid "IFOTES Europe"
-msgstr ""
+msgstr "IFOTES Europe"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12 ../../privacy.rst:16
@@ -362,15 +359,15 @@ msgstr "Germania"
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12
 msgid "Lead Partner"
-msgstr ""
+msgstr "Partner principale"
 
 #: ../../partners.rst:6
 msgid "`ifotes.org <https://ifotes.org/>`_"
-msgstr ""
+msgstr "`ifotes.org <https://ifotes.org/>`_"
 
 #: ../../partners.rst:8
 msgid "Universitätsklinikum Heidelberg"
-msgstr ""
+msgstr "Ospedale universitario Heidelberg"
 
 #: ../../partners.rst:8
 msgid ""
@@ -382,23 +379,23 @@ msgstr ""
 
 #: ../../partners.rst:10
 msgid "Studio Rucli"
-msgstr ""
+msgstr "Studio Rucli"
 
 #: ../../partners.rst:10
 msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
-msgstr ""
+msgstr "`www.studiorucli.it <http://www.studiorucli.it/>`_"
 
 #: ../../partners.rst:12
 msgid "Westcode GmbH"
-msgstr ""
+msgstr "Westcode GmbH"
 
 #: ../../partners.rst:12
 msgid "`westcode.de <https://www.westcode.de/>`_"
-msgstr ""
+msgstr "`westcode.de <https://www.westcode.de/>`_"
 
 #: ../../partners.rst:14
 msgid "LESZ"
-msgstr ""
+msgstr "LESZ"
 
 #: ../../partners.rst:14
 msgid "Hungary"
@@ -407,15 +404,15 @@ msgstr "Ungheria"
 #: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
 #: ../../partners.rst:20 ../../partners.rst:22
 msgid "Partner"
-msgstr ""
+msgstr "Partner"
 
 #: ../../partners.rst:14
 msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
-msgstr ""
+msgstr "`sos116-123.hu <https://sos116-123.hu/>`_"
 
 #: ../../partners.rst:16
 msgid "Telefono Amico"
-msgstr ""
+msgstr "Telefono Amico"
 
 #: ../../partners.rst:16
 msgid "Italy"
@@ -423,11 +420,11 @@ msgstr "Italia"
 
 #: ../../partners.rst:16
 msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
-msgstr ""
+msgstr "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
 
 #: ../../partners.rst:18
 msgid "SOS Amitié"
-msgstr ""
+msgstr "SOS Amitié"
 
 #: ../../partners.rst:18
 msgid "France"
@@ -455,7 +452,7 @@ msgstr "De Luisterlijn"
 
 #: ../../partners.rst:22
 msgid "The Netherlands"
-msgstr "I Paesi Bassi"
+msgstr "Paesi Bassi"
 
 #: ../../partners.rst:22
 msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
@@ -477,11 +474,10 @@ msgid ""
 "data, and whom to contact if you have any questions, we’ve put together "
 "all the relevant information on this page."
 msgstr ""
-"Il tema della protezione dei dati è ampiamente regolato dal Regolamento "
-"generale sulla protezione dei dati dell'UE (GDPR). Per aiutarti a capire "
-"quali dati raccogliamo da te, come li trattiamo, cosa facciamo per "
-"proteggere i tuoi dati e chi contattare in caso di domande, abbiamo "
-"raccolto tutte le informazioni rilevanti in questa pagina."
+"Il tema della protezione dei dati è normato dal Regolamento generale sulla "
+"protezione dei dati dell'UE (GDPR). Per capire quali dati raccogliamo, come "
+"li trattiamo, cosa facciamo per proteggereli e chi contattare in caso di "
+"domande, abbiamo raccolto tutte le informazioni rilevanti in questa pagina."
 
 #: ../../privacy.rst:9
 msgid "Person responsible and scope"
@@ -501,7 +497,7 @@ msgid ""
 "as to our documentation page ``docs.listening-skills.eu``."
 msgstr ""
 "Questa politica sulla privacy si applica al nostro strumento ``listening-"
-"skills.eu`` e alla nostra pagina di documentazione ``docs.listening-"
+"skills.eu`` così come alla nostra pagina di documentazione ``docs.listening-"
 "skills.eu``."
 
 #: ../../privacy.rst:24
@@ -535,18 +531,17 @@ msgid ""
 "deleted as soon as the purpose of the processing has been achieved and no"
 " legally required retention requirements have to be maintained."
 msgstr ""
-"I dati personali sono tutte le informazioni che si riferiscono a una "
-"persona fisica identificata o identificabile. Questo include, per "
-"esempio, informazioni come il vostro nome, età, indirizzo, numero di "
-"telefono, data di nascita, indirizzo e-mail, indirizzo IP o comportamento"
-" dell'utente. Le informazioni che non possiamo collegare alla vostra "
-"persona (o solo con uno sforzo sproporzionato), ad esempio anonimizzando "
-"le informazioni, non sono informazioni personali. L'elaborazione dei dati"
-" personali (ad es. raccolta, interrogazione, utilizzo, memorizzazione o "
-"trasmissione) richiede sempre una base legale o il vostro consenso. I "
-"dati personali elaborati vengono cancellati non appena lo scopo "
-"dell'elaborazione è stato raggiunto e non è necessario mantenere alcun "
-"obbligo di conservazione previsto dalla legge."
+"I dati personali sono tutte le informazioni che si riferiscono a una persona "
+"fisica identificata o identificabile. Questo include, per esempio, "
+"informazioni come nome, età, indirizzo, numero di telefono, data di nascita, "
+"indirizzo e-mail, indirizzo IP o comportamento dell'utente. Le informazioni "
+"che non possiamo collegare alla vostra persona (o solo con uno sforzo "
+"sproporzionato), ad esempio rendendo anonime le informazioni, non sono "
+"informazioni personali. L'elaborazione dei dati personali (ad es. raccolta, "
+"indagine, utilizzo, memorizzazione o trasmissione) richiede sempre una base "
+"legale o il vostro consenso. I dati personali elaborati vengono cancellati "
+"non appena lo scopo dell'elaborazione è stato raggiunto e non è necessario "
+"mantenere alcun obbligo di conservazione previsto dalla legge."
 
 #: ../../privacy.rst:31
 msgid ""
@@ -555,14 +550,14 @@ msgid ""
 " scope and purpose of the data processing, the legal basis for the "
 "processing and the respective retention period."
 msgstr ""
-"Se elaboriamo i vostri dati personali allo scopo di fornire determinate "
-"offerte, vi informeremo successivamente sulle transazioni specifiche, "
-"sull'ambito e sullo scopo dell'elaborazione dei dati, sulla base "
-"giuridica dell'elaborazione e sul rispettivo periodo di conservazione."
+"Se elaboriamo i dati personali allo scopo di fornire determinate offerte, "
+"informeremo successivamente sulle transazioni specifiche, sull'ambito e "
+"sullo scopo dell'elaborazione dei dati, sulla base giuridica "
+"dell'elaborazione e sul rispettivo periodo di conservazione."
 
 #: ../../privacy.rst:34
 msgid "Use of our website"
-msgstr "Uso del nostro sito web"
+msgstr "Utilizzo del nostro sito web"
 
 #: ../../privacy.rst:35
 msgid ""
@@ -571,11 +566,11 @@ msgid ""
 "the browser used; However, we anonymise your IP address using IP masking,"
 " so that we do not collect any personal data."
 msgstr ""
-"Quando si utilizzano i nostri siti web, possiamo creare registri del "
-"server web che contengono la data e l'ora, il percorso dell'URL "
-"recuperato, il referrer (se applicabile) e il browser utilizzato; "
-"tuttavia, rendiamo anonimo il vostro indirizzo IP utilizzando il "
-"mascheramento IP, in modo da non raccogliere alcun dato personale."
+"Quando si utilizzano i nostri siti web, possiamo creare registri del server "
+"web che contengono la data e l'ora, il percorso dell'URL recuperato, il "
+"referrer (se applicabile) e il browser utilizzato; tuttavia, rendiamo "
+"anonimo l'indirizzo IP utilizzando il mascheramento IP, in modo da non "
+"raccogliere alcun dato personale."
 
 #: ../../privacy.rst:38
 msgid "Use of cookies"
@@ -588,11 +583,10 @@ msgid ""
 "from the one we recognized from your first visit, we can present you the "
 "tool in the same language on the next visit."
 msgstr ""
-"Impostiamo solo un cookie relativo alla lingua dello strumento: ad "
-"esempio ``lang=en`` per un periodo di un anno. Quindi, se cambiate la "
-"lingua rispetto a quella che abbiamo riconosciuto dalla vostra prima "
-"visita, possiamo presentarvi lo strumento nella stessa lingua alla visita"
-" successiva."
+"Impostiamo solo un cookie relativo alla lingua dello strumento: ad esempio "
+"``lang=en`` per un periodo di un anno. Quindi, se cambi la lingua rispetto a "
+"quella che abbiamo riconosciuto dalla tua prima visita, possiamo presentarti "
+"lo strumento nella stessa lingua alla visita successiva."
 
 #: ../../privacy.rst:41
 msgid ""
@@ -602,19 +596,19 @@ msgid ""
 "persistently, but is automatically deleted when the browser window is "
 "closed."
 msgstr ""
-"Quando ti registri o accedi, impostiamo un cookie che porta un ID di "
-"sessione. Questo è tecnicamente obbligatorio per mantenere il tuo stato "
-"di accesso, e quindi non richiede un consenso separato. Il cookie non "
-"viene memorizzato in modo persistente, ma viene automaticamente "
-"cancellato quando la finestra del browser viene chiusa."
+"Quando ci si registra o si accede, impostiamo un cookie che porta un ID di "
+"sessione. Questo è tecnicamente obbligatorio per mantenere il tuo stato di "
+"accesso, e quindi non richiede un consenso separato. Il cookie non viene "
+"memorizzato in modo persistente, ma viene automaticamente cancellato quando "
+"la finestra del browser viene chiusa."
 
 #: ../../privacy.rst:44
 msgid "Tracking and analysis tools"
-msgstr "Strumenti di monitoraggio e analisi"
+msgstr "Strumenti di tracciamento e analisi"
 
 #: ../../privacy.rst:45
 msgid "We do not use any external tracking and analysis tools."
-msgstr "Non utilizziamo strumenti esterni di monitoraggio e analisi."
+msgstr "Non utilizziamo strumenti esterni di tracciamento e analisi."
 
 #: ../../privacy.rst:49
 msgid "Social network plugins"
@@ -640,15 +634,15 @@ msgid ""
 "obvious, because that’s how the Internet works, but our lawyers thought "
 "we should write it down.)"
 msgstr ""
-"Sul nostro sito web potete occasionalmente trovare dei link ad altri siti"
-" web. Attivando questi link sarete reindirizzati al sito web di un altro "
-"operatore, che potete riconoscere dall'URL cambiato nel browser. Non "
-"abbiamo alcun controllo sul loro contenuto e quindi non abbiamo alcuna "
-"responsabilità per il modo in cui questi altri siti web gestiscono le "
-"vostre informazioni personali. Non abbiamo controllato se gli operatori "
-"di quei siti web sono conformi al GDPR. Vi preghiamo di informarvi al "
-"riguardo. (Speriamo che questo sia ovvio, perché è così che funziona "
-"Internet, ma i nostri avvocati hanno pensato che dovremmo scriverlo)."
+"Sul nostro sito web potete occasionalmente trovare dei link ad altri siti "
+"web. Attivando questi link sarete reindirizzati al sito web di un altro "
+"operatore, che potete riconoscere dall'URL cambiato nel browser. Non abbiamo "
+"alcun controllo sul loro contenuto e quindi non abbiamo alcuna "
+"responsabilità per il modo in cui questi altri siti web gestiscono le vostre "
+"informazioni personali. Non abbiamo controllato se gli operatori di quei "
+"siti web sono conformi al GDPR. Vi preghiamo di informarvi al riguardo. ("
+"Speriamo che questo sia ovvio, perché è così che funziona Internet, ma i "
+"nostri avvocati hanno pensato che dovremmo scriverlo)"
 
 #: ../../privacy.rst:57
 msgid "Data subject rights"
@@ -804,25 +798,24 @@ msgid ""
 "this. It is your responsibility to protect the data provided by you "
 "against misuse, e. g. by utilizing encryption technology."
 msgstr ""
-"Ci impegniamo a proteggere la vostra privacy e a mantenere la "
-"riservatezza dei vostri dati personali. Al fine di evitare la "
-"manipolazione, la perdita o l'uso improprio dei suoi dati memorizzati da "
-"noi, prendiamo ampie precauzioni di sicurezza tecniche e organizzative, "
-"che vengono regolarmente controllate e adattate al progresso tecnologico."
-" Questo include, tra l'altro, l'uso di procedure di crittografia "
-"riconosciute. Tuttavia, desideriamo sottolineare che, a causa della "
-"natura di Internet, è possibile che le regole di protezione dei dati e le"
-" misure di sicurezza di cui sopra non siano seguite da altre persone o "
-"istituzioni al di fuori della nostra area di responsabilità. In "
-"particolare, i dati non criptati possono essere letti da terzi - ad "
-"esempio se inviati via e-mail. Non abbiamo alcuna influenza tecnica su "
-"questo. È vostra responsabilità proteggere i dati da voi forniti contro "
-"l'uso improprio, ad esempio utilizzando una tecnologia di crittografia."
+"Ci impegniamo a proteggere la vostra privacy e a mantenere la riservatezza "
+"dei vostri dati personali. Al fine di evitare la manipolazione, la perdita o "
+"l'uso improprio dei suoi dati da noi memorizzati, prendiamo ampie "
+"precauzioni di sicurezza tecniche e organizzative, che vengono regolarmente "
+"controllate e adattate al progresso tecnologico. Questo include, tra "
+"l'altro, l'uso di procedure di crittografia riconosciute. Tuttavia, "
+"desideriamo sottolineare che, a causa della natura di Internet, è possibile "
+"che le regole di protezione dei dati e le misure di sicurezza di cui sopra "
+"non siano seguite da altre persone o istituzioni al di fuori della nostra "
+"area di responsabilità. In particolare, i dati non criptati possono essere "
+"letti da terzi - ad esempio se inviati via e-mail. Non abbiamo alcuna "
+"influenza tecnica su questo. È vostra responsabilità proteggere i dati da "
+"voi forniti contro l'uso improprio, ad esempio utilizzando una tecnologia di "
+"crittografia."
 
 #: ../../trainers.rst:2
-#, fuzzy
 msgid "Trainers"
-msgstr "Partner"
+msgstr "Allenatori"
 
 #: ../../trainers.rst:5
 msgid ""
@@ -830,9 +823,9 @@ msgid ""
 "can use this web-application to individually assess the training success "
 "of your trainees and improve it through training."
 msgstr ""
-"Se sei un formatore e qualifichi persone nel campo dell'ascolto, puoi "
-"usare questa applicazione web per valutare individualmente il successo "
-"formativo dei tuoi apprendisti e migliorarlo attraverso la formazione."
+"Se siete formatori e formate persone nell'ambito dell'ascolto, potete usare "
+"questa applicazione per valutare individualmente i risultati formativi dei "
+"vostri allievi e supportarli nell'apprendimento attraverso la formazione."
 
 #: ../../trainers.rst:7
 msgid ""
@@ -840,7 +833,7 @@ msgid ""
 "at the beginning and end of a training session to monitor changes in "
 "self-assessment."
 msgstr ""
-"Potete chiedere ai partecipanti di completare il modulo di "
+"Potete chiedere ai partecipanti di svolgere il questionario di "
 "autovalutazione, per esempio, all'inizio e alla fine di una sessione di "
 "formazione per monitorare i cambiamenti nell'autovalutazione."
 
@@ -850,10 +843,9 @@ msgid ""
 "which trainees feel confident or insecure, enabling you, to track and "
 "target your training according to individual needs of trainees."
 msgstr ""
-"L'autovalutazione fornisce informazioni sulle aree di ascolto in cui i "
-"tirocinanti si sentono sicuri o insicuri, permettendovi di tracciare e "
-"indirizzare la vostra formazione in base alle esigenze individuali dei "
-"tirocinanti."
+"L'autovalutazione fornisce informazioni sulle aree di ascolto in cui gli "
+"allievi si sentono più o meno sicuri, permettendovi di monitorare e "
+"indirizzare la vostra formazione in base alle esigenze individuali."
 
 #: ../../trainers.rst:9
 msgid ""
@@ -862,15 +854,15 @@ msgid ""
 " the response options and their effect in the group. Furthermore, "
 "additional, and more complex case studies can be unlocked."
 msgstr ""
-"Si può chiedere ai partecipanti a un training di abilità di ascolto di "
-"esercitarsi con casi di studio specifici su aree di ascolto selezionate, "
-"discutere e riflettere sulle opzioni di risposta e sul loro effetto nel "
-"gruppo. Inoltre, possono essere sbloccati ulteriori e più complessi casi "
-"di studio."
+"Si può chiedere ai partecipanti ad un corso di formazione sulle abilità di "
+"ascolto di esercitarsi con casi di studio specifici su aree di ascolto "
+"selezionate, discutere e riflettere sulle opzioni di risposta e sul loro "
+"effetto nel gruppo. Inoltre, potranno essere sbloccati ulteriori e più "
+"complessi casi di studio."
 
 #: ../../trainers.rst:12
 msgid "How do I use the web application in training?"
-msgstr "Come si usa l'applicazione web nella formazione?"
+msgstr "Come usare l'applicazione web all'interno della formazione?"
 
 #: ../../trainers.rst:14
 msgid ""
@@ -883,13 +875,12 @@ msgid ""
 "make suggestions for targeted practice."
 msgstr ""
 "Chiedete ai partecipanti del vostro gruppo di formazione di salvare il "
-"loro profilo dopo aver completato il test di autovalutazione e di farselo"
-" inviare per e-mail o di scattare una foto del codice QR. Chiedi ai tuoi "
-"partecipanti di inviarti il codice e inseriscilo all'inizio "
-"dell'applicazione nel campo codice. Poi potrete visualizzare il risultato"
-" del questionario di ogni partecipante al gruppo e usarlo per "
-"l'adattamento di una formazione individuale o dare suggerimenti per una "
-"pratica mirata."
+"proprio profilo dopo aver completato il questionario di autovalutazione e "
+"inviarlo alla propria e-mail o di scattare una foto del codice QR. Chiedete "
+"ai vostri partecipanti di inviarvi il codice e inseritelo all'inizio "
+"dell'applicazione nel campo \"codice\". In questo modo potrete visualizzare "
+"il risultato del questionario di ogni partecipante e usarlo per adattare la "
+"formazione individualmente o dare suggerimenti per una pratica mirata."
 
 #: ../../trainers.rst:16
 msgid ""
@@ -900,13 +891,12 @@ msgid ""
 "moment on, additional case studies will be displayed in the training "
 "section. (Example for the code: ``fz3mp`` and the extension: ``afz3mp``)"
 msgstr ""
-"Avete anche la possibilità di sbloccare ulteriori casi di studio per i "
-"vostri partecipanti di un corso, che sono più impegnativi dei tre esempi "
-"di base. Per fare questo, chiedete ai vostri corsisti di mettere una "
-"``a`` minuscola davanti al codice del loro profilo (``a`` sta per "
-"\"advanced\"). Da quel momento in poi, altri casi di studio saranno "
-"visualizzati nella sezione di formazione. (Esempio per il codice: "
-"``fz3mp`` e l'estensione: ``afz3mp``)"
+"Avete anche la possibilità di sbloccare per i vostri partecipanti ulteriori "
+"casi di studio più impegnativi dei tre esempi di base. Per farlo, chiedete "
+"ai vostri allievi di mettere una ``a`` minuscola davanti al codice del loro "
+"profilo (``a`` sta per \"advanced\"). Da quel momento in poi, altri casi di "
+"studio saranno visualizzati nella sezione di formazione. (Esempio per il "
+"codice: ``fz3mp`` e l'estensione: ``afz3mp``)"
 
 #~ msgid "Not yet released. * Initial release"
 #~ msgstr ""
