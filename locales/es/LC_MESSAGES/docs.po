@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-03 11:51+0100\n"
-"PO-Revision-Date: 2022-03-03 10:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-03-30 07:39+0000\n"
+"Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
 "Language-Team: Spanish <https://trans.westcode.de/projects/monalisa/"
 "documentation/es/>\n"
 "Language: es\n"
@@ -29,21 +29,18 @@ msgid "MonaLiSa 1.0.0"
 msgstr "MonaLiSa 1.0.0"
 
 #: ../../changes.rst:7
-#, fuzzy
 msgid "Not yet released."
-msgstr "Todavía no se ha liberado. * Lanzamiento inicial"
+msgstr "Todavía no se ha liberado."
 
 #: ../../changes.rst:9
 msgid "Initial release"
 msgstr "Primera publicación"
 
 #: ../../contribution.rst:2
-#, fuzzy
 msgid "Contribution"
-msgstr "Introducción"
+msgstr "Contribución"
 
 #: ../../contribution.rst:4
-#, fuzzy
 msgid ""
 "The MonaLiSa/Listeningskills project is open for contribution of content "
 "in other languages."
@@ -94,9 +91,8 @@ msgid "Embed the application as a simple iFrame:"
 msgstr "Incrustar la aplicación como un simple iFrame:"
 
 #: ../../embed.rst:18
-#, fuzzy
 msgid "oEmbed"
-msgstr "Incrustar"
+msgstr "oEmbed"
 
 #: ../../embed.rst:20
 msgid ""
@@ -172,14 +168,12 @@ msgid "Register entry"
 msgstr "Registro de entrada"
 
 #: ../../imprint.rst:23
-#, fuzzy
 msgid "Entry in the German `Vereinsregister`."
-msgstr "Inscripción en el Vereinsregister."
+msgstr "Inscripción en el `Vereinsregister` alemán."
 
 #: ../../imprint.rst:24
-#, fuzzy
 msgid "Registering court: `Vereinsregister des AG Hagen`"
-msgstr "Tribunal de registro: Vereinsregister des AG Hagen"
+msgstr "Tribunal de registro: `Vereinsregister des AG Hagen`"
 
 #: ../../imprint.rst:25
 msgid "Registration number: VR 2737"
@@ -354,7 +348,7 @@ msgstr "Socios"
 
 #: ../../partners.rst:6
 msgid "IFOTES Europe"
-msgstr ""
+msgstr "IFOTES Europe"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12 ../../privacy.rst:16
@@ -363,18 +357,16 @@ msgstr "Alemania"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12
-#, fuzzy
 msgid "Lead Partner"
-msgstr "Socios"
+msgstr "Socio principal"
 
 #: ../../partners.rst:6
 msgid "`ifotes.org <https://ifotes.org/>`_"
-msgstr ""
+msgstr "`ifotes.org <https://ifotes.org/>`_"
 
 #: ../../partners.rst:8
-#, fuzzy
 msgid "Universitätsklinikum Heidelberg"
-msgstr "Universitätsklinikum Heidelberg, Alemania"
+msgstr "Hospital Universitario Heidelberg"
 
 #: ../../partners.rst:8
 msgid ""
@@ -385,45 +377,41 @@ msgstr ""
 "heidelberg.de/>`_"
 
 #: ../../partners.rst:10
-#, fuzzy
 msgid "Studio Rucli"
-msgstr "Estudio Rucli, Italia"
+msgstr "Studio Rucli"
 
 #: ../../partners.rst:10
 msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
-msgstr ""
+msgstr "`www.studiorucli.it <http://www.studiorucli.it/>`_"
 
 #: ../../partners.rst:12
 msgid "Westcode GmbH"
-msgstr ""
+msgstr "Westcode GmbH"
 
 #: ../../partners.rst:12
 msgid "`westcode.de <https://www.westcode.de/>`_"
-msgstr ""
+msgstr "`westcode.de <https://www.westcode.de/>`_"
 
 #: ../../partners.rst:14
 msgid "LESZ"
-msgstr ""
+msgstr "LESZ"
 
 #: ../../partners.rst:14
-#, fuzzy
 msgid "Hungary"
-msgstr "LESZ, Hungría"
+msgstr "Hungría"
 
 #: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
 #: ../../partners.rst:20 ../../partners.rst:22
-#, fuzzy
 msgid "Partner"
-msgstr "Socios"
+msgstr "Socio"
 
 #: ../../partners.rst:14
 msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
-msgstr ""
+msgstr "`sos116-123.hu <https://sos116-123.hu/>`_"
 
 #: ../../partners.rst:16
-#, fuzzy
 msgid "Telefono Amico"
-msgstr "Teléfono Amico, Italia"
+msgstr "Telefono Amico"
 
 #: ../../partners.rst:16
 msgid "Italy"
@@ -431,11 +419,11 @@ msgstr "Italia"
 
 #: ../../partners.rst:16
 msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
-msgstr ""
+msgstr "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
 
 #: ../../partners.rst:18
 msgid "SOS Amitié"
-msgstr ""
+msgstr "SOS Amitié"
 
 #: ../../partners.rst:18
 msgid "France"
@@ -462,9 +450,8 @@ msgid "De Luisterlijn"
 msgstr "De Luisterlijn"
 
 #: ../../partners.rst:22
-#, fuzzy
 msgid "The Netherlands"
-msgstr "De Luisterlijn, Países Bajos"
+msgstr "Países Bajos"
 
 #: ../../partners.rst:22
 msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
@@ -501,7 +488,6 @@ msgid "The person responsible according to the GDPR is:"
 msgstr "La persona responsable según el GDPR es:"
 
 #: ../../privacy.rst:18
-#, fuzzy
 msgid "Telephone: +49 2331 17773"
 msgstr "Teléfono: tel:+49233117773"
 
@@ -650,15 +636,15 @@ msgid ""
 "obvious, because that’s how the Internet works, but our lawyers thought "
 "we should write it down.)"
 msgstr ""
-"Es posible que en nuestro sitio web encuentre ocasionalmente enlaces a "
-"otros sitios web. Al activar estos enlaces será redirigido a la página "
-"web de otro operador, que podrá reconocer por el cambio de URL en el "
-"navegador. No tenemos ningún control sobre su contenido y, por tanto, no "
-"tenemos ninguna responsabilidad sobre el modo en que esos otros sitios "
-"web tratan su información personal. No hemos comprobado si los operadores"
-" de esos sitios web cumplen con el GDPR. Le rogamos que se informe al "
-"respecto. (Esperemos que esto sea obvio, porque así es como funciona "
-"Internet, pero nuestros abogados pensaron que debíamos escribirlo)."
+"Es posible que en nuestro sitio web encuentre ocasionalmente enlaces a otros "
+"sitios web. Al activar estos enlaces será redirigido a la página web de otro "
+"operador, que podrá reconocer por el cambio de URL en el navegador. No "
+"tenemos ningún control sobre su contenido y, por tanto, no tenemos ninguna "
+"responsabilidad sobre el modo en que esos otros sitios web tratan su "
+"información personal. No hemos comprobado si los operadores de esos sitios "
+"web cumplen con el GDPR. Le rogamos que se informe al respecto. (Esperemos "
+"que esto sea obvio, porque así es como funciona Internet, pero nuestros "
+"abogados pensaron que debíamos escribirlo)"
 
 #: ../../privacy.rst:57
 msgid "Data subject rights"
@@ -832,9 +818,8 @@ msgstr ""
 "tecnología de encriptación."
 
 #: ../../trainers.rst:2
-#, fuzzy
 msgid "Trainers"
-msgstr "Socios"
+msgstr "Entrenadores"
 
 #: ../../trainers.rst:5
 msgid ""
