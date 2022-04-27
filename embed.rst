@@ -24,9 +24,3 @@ We support the `oEmbed <https://oembed.com/>`_ standard, so you can just copy th
     https://listening-skills.eu
 
 Your system should automatically recognize the link and embed the tool onto your page.
-
-
-Custom Element
---------------
-
-TBA

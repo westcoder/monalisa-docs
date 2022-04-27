@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-27 07:57+0200\n"
+"POT-Creation-Date: 2022-04-27 07:59+0200\n"
 "PO-Revision-Date: 2022-03-30 07:39+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
 "Language: fr\n"
@@ -109,14 +109,6 @@ msgid ""
 msgstr ""
 "Votre système devrait reconnaître automatiquement le lien et intégrer "
 "l'outil à votre page."
-
-#: ../../embed.rst:30
-msgid "Custom Element"
-msgstr "Élément personnalisé"
-
-#: ../../embed.rst:32
-msgid "TBA"
-msgstr "TBA"
 
 #: ../../empowering.rst:2
 msgid "Empowerment Listening Skills Training"
@@ -1087,4 +1079,10 @@ msgstr ""
 #~ "l'orientation professionnelle (IT) et d'un "
 #~ "développeur de solutions de plateformes "
 #~ "numériques (DE)."
+
+#~ msgid "Custom Element"
+#~ msgstr "Élément personnalisé"
+
+#~ msgid "TBA"
+#~ msgstr "TBA"
 

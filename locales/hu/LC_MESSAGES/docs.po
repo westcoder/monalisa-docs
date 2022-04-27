@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-27 07:57+0200\n"
+"POT-Creation-Date: 2022-04-27 07:59+0200\n"
 "PO-Revision-Date: 2022-03-03 10:56+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: hu\n"
@@ -112,14 +112,6 @@ msgid ""
 msgstr ""
 "A rendszernek automatikusan fel kell ismernie a linket, és be kell "
 "ágyaznia az eszközt az oldalára."
-
-#: ../../embed.rst:30
-msgid "Custom Element"
-msgstr "Egyedi elem"
-
-#: ../../embed.rst:32
-msgid "TBA"
-msgstr "TBA"
 
 #: ../../empowering.rst:2
 msgid "Empowerment Listening Skills Training"
@@ -1075,4 +1067,10 @@ msgstr ""
 #~ "készségértékelés és szakmai tanácsadás "
 #~ "területén (IT), valamint egy digitális "
 #~ "platformmegoldások fejlesztője (DE)."
+
+#~ msgid "Custom Element"
+#~ msgstr "Egyedi elem"
+
+#~ msgid "TBA"
+#~ msgstr "TBA"
 
