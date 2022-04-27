@@ -5,19 +5,18 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: MonaLiSa\n"
+"Project-Id-Version:  MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-03 11:51+0100\n"
+"POT-Creation-Date: 2022-04-27 07:57+0200\n"
 "PO-Revision-Date: 2022-03-30 07:39+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
-"Language-Team: Spanish <https://trans.westcode.de/projects/monalisa/"
-"documentation/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://trans.westcode.de/projects/monalisa/documentation/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -119,6 +118,30 @@ msgstr "Elemento personalizado"
 msgid "TBA"
 msgstr "TBA"
 
+#: ../../empowering.rst:2
+msgid "Empowerment Listening Skills Training"
+msgstr ""
+
+#: ../../empowering.rst:4
+msgid "The Listening Skills and Emotional Wellbeing Training Program"
+msgstr ""
+
+#: ../../empowering.rst:6
+msgid "https://empowering.listening-skills.eu/"
+msgstr ""
+
+#: ../../empowering.rst:8
+msgid ""
+"The website presents MonaLisa's predecessor project with organizations in"
+" the field of emotional support and crisis intervention in collaboration "
+"with research institutes from four different countries. The aim of this "
+"project was to use the valuable treasure of listening skills in the field"
+" of Listening Centers in Europe to collect best practice experiences "
+"under scientific criteria and to create a 120-hour training program to "
+"train basic listening skills for everyone. The effectiveness of the "
+"training was measured with scientifically based assessments."
+msgstr ""
+
 #: ../../imprint.rst:2
 msgid "Imprint"
 msgstr "Pie de imprenta"
@@ -219,19 +242,19 @@ msgstr "Contenido:"
 msgid "Welcome to the documentation of the MonaLiSa/Listeningskills project"
 msgstr "Bienvenido a la documentación del proyecto MonaLiSa/Listeningskills"
 
-#: ../../index.rst:28
+#: ../../index.rst:29
 msgid "Indices and tables"
 msgstr "Índices y tablas"
 
-#: ../../index.rst:30
+#: ../../index.rst:31
 msgid ":ref:`genindex`"
 msgstr ":ref:`genindex`"
 
-#: ../../index.rst:31
+#: ../../index.rst:32
 msgid ":ref:`modindex`"
 msgstr ":ref:`modindex`"
 
-#: ../../index.rst:32
+#: ../../index.rst:33
 msgid ":ref:`search`"
 msgstr ":ref:`búsqueda`"
 
@@ -636,15 +659,15 @@ msgid ""
 "obvious, because that’s how the Internet works, but our lawyers thought "
 "we should write it down.)"
 msgstr ""
-"Es posible que en nuestro sitio web encuentre ocasionalmente enlaces a otros "
-"sitios web. Al activar estos enlaces será redirigido a la página web de otro "
-"operador, que podrá reconocer por el cambio de URL en el navegador. No "
-"tenemos ningún control sobre su contenido y, por tanto, no tenemos ninguna "
-"responsabilidad sobre el modo en que esos otros sitios web tratan su "
-"información personal. No hemos comprobado si los operadores de esos sitios "
-"web cumplen con el GDPR. Le rogamos que se informe al respecto. (Esperemos "
-"que esto sea obvio, porque así es como funciona Internet, pero nuestros "
-"abogados pensaron que debíamos escribirlo)"
+"Es posible que en nuestro sitio web encuentre ocasionalmente enlaces a "
+"otros sitios web. Al activar estos enlaces será redirigido a la página "
+"web de otro operador, que podrá reconocer por el cambio de URL en el "
+"navegador. No tenemos ningún control sobre su contenido y, por tanto, no "
+"tenemos ninguna responsabilidad sobre el modo en que esos otros sitios "
+"web tratan su información personal. No hemos comprobado si los operadores"
+" de esos sitios web cumplen con el GDPR. Le rogamos que se informe al "
+"respecto. (Esperemos que esto sea obvio, porque así es como funciona "
+"Internet, pero nuestros abogados pensaron que debíamos escribirlo)"
 
 #: ../../privacy.rst:57
 msgid "Data subject rights"
@@ -1051,3 +1074,4 @@ msgstr ""
 #~ "orientación profesional (IT) y un "
 #~ "desarrollador de soluciones de plataformas "
 #~ "digitales (DE)."
+

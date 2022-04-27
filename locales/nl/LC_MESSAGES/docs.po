@@ -5,19 +5,18 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: MonaLiSa\n"
+"Project-Id-Version:  MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-03 11:51+0100\n"
+"POT-Creation-Date: 2022-04-27 07:57+0200\n"
 "PO-Revision-Date: 2022-03-30 07:39+0000\n"
 "Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
-"Language-Team: Dutch <https://trans.westcode.de/projects/monalisa/"
-"documentation/nl/>\n"
 "Language: nl\n"
+"Language-Team: Dutch "
+"<https://trans.westcode.de/projects/monalisa/documentation/nl/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -45,8 +44,8 @@ msgid ""
 "The MonaLiSa/Listeningskills project is open for contribution of content "
 "in other languages."
 msgstr ""
-"Het MonaLiSa/Listeningskills project staat open voor bijdragen van inhoud in "
-"andere talen."
+"Het MonaLiSa/Listeningskills project staat open voor bijdragen van inhoud"
+" in andere talen."
 
 #: ../../contribution.rst:7
 msgid "More information coming"
@@ -118,6 +117,30 @@ msgstr "Aangepast element"
 #: ../../embed.rst:32
 msgid "TBA"
 msgstr "TBA"
+
+#: ../../empowering.rst:2
+msgid "Empowerment Listening Skills Training"
+msgstr ""
+
+#: ../../empowering.rst:4
+msgid "The Listening Skills and Emotional Wellbeing Training Program"
+msgstr ""
+
+#: ../../empowering.rst:6
+msgid "https://empowering.listening-skills.eu/"
+msgstr ""
+
+#: ../../empowering.rst:8
+msgid ""
+"The website presents MonaLisa's predecessor project with organizations in"
+" the field of emotional support and crisis intervention in collaboration "
+"with research institutes from four different countries. The aim of this "
+"project was to use the valuable treasure of listening skills in the field"
+" of Listening Centers in Europe to collect best practice experiences "
+"under scientific criteria and to create a 120-hour training program to "
+"train basic listening skills for everyone. The effectiveness of the "
+"training was measured with scientifically based assessments."
+msgstr ""
 
 #: ../../imprint.rst:2
 msgid "Imprint"
@@ -219,19 +242,19 @@ msgstr ""
 "Welkom bij de documentatie van het MonaLiSa/Luisteringsvaardigheden "
 "project"
 
-#: ../../index.rst:28
+#: ../../index.rst:29
 msgid "Indices and tables"
 msgstr "Indexen en tabellen"
 
-#: ../../index.rst:30
+#: ../../index.rst:31
 msgid ":ref:`genindex`"
 msgstr "ref:`genindex`"
 
-#: ../../index.rst:31
+#: ../../index.rst:32
 msgid ":ref:`modindex`"
 msgstr "ref:`modindex`"
 
-#: ../../index.rst:32
+#: ../../index.rst:33
 msgid ":ref:`search`"
 msgstr "ref:`zoeken`"
 
@@ -634,12 +657,12 @@ msgid ""
 "obvious, because that’s how the Internet works, but our lawyers thought "
 "we should write it down.)"
 msgstr ""
-"Het kan voorkomen dat u op onze website links aantreft naar andere websites. "
-"Door het activeren van deze links wordt u doorgestuurd naar de website van "
-"een andere aanbieder, die u kunt herkennen aan de gewijzigde URL in de "
-"browser. Wij hebben geen controle over de inhoud ervan en zijn daarom niet "
-"verantwoordelijk voor de manier waarop die andere websites met uw "
-"persoonlijke gegevens omgaan. Wij hebben niet gecontroleerd of de "
+"Het kan voorkomen dat u op onze website links aantreft naar andere "
+"websites. Door het activeren van deze links wordt u doorgestuurd naar de "
+"website van een andere aanbieder, die u kunt herkennen aan de gewijzigde "
+"URL in de browser. Wij hebben geen controle over de inhoud ervan en zijn "
+"daarom niet verantwoordelijk voor de manier waarop die andere websites "
+"met uw persoonlijke gegevens omgaan. Wij hebben niet gecontroleerd of de "
 "exploitanten van die websites voldoen aan de GDPR. Gelieve u daarover te "
 "informeren. (Hopelijk is dat duidelijk, want zo werkt het internet, maar "
 "onze advocaten vonden dat we het moesten opschrijven)"
@@ -1062,3 +1085,4 @@ msgstr ""
 #~ "vaardigheidsbeoordeling en beroepskeuzebegeleiding "
 #~ "(IT) en een ontwikkelaar van digitale"
 #~ " platformoplossingen (DE)."
+
