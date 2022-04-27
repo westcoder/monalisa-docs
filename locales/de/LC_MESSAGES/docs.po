@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  MonaLiSa\n"
+"Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-27 07:59+0200\n"
 "PO-Revision-Date: 2022-03-03 10:55+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://trans.westcode.de/projects/monalisa/"
+"documentation/de/>\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://trans.westcode.de/projects/monalisa/documentation/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -113,15 +114,15 @@ msgstr ""
 
 #: ../../empowering.rst:2
 msgid "Empowerment Listening Skills Training"
-msgstr ""
+msgstr "Empowerment-Training für Zuhörfähigkeiten"
 
 #: ../../empowering.rst:4
 msgid "The Listening Skills and Emotional Wellbeing Training Program"
-msgstr ""
+msgstr "Das Trainingsprogramm für Zuhörfähigkeiten und emotionales Wohlbefinden"
 
 #: ../../empowering.rst:6
 msgid "https://empowering.listening-skills.eu/"
-msgstr ""
+msgstr "https://empowering.listening-skills.eu/"
 
 #: ../../empowering.rst:8
 msgid ""
@@ -134,6 +135,15 @@ msgid ""
 "train basic listening skills for everyone. The effectiveness of the "
 "training was measured with scientifically based assessments."
 msgstr ""
+"Die Website präsentiert MonaLisa's Vorgängerprojekt mit Organisationen im "
+"Bereich der emotionalen Unterstützung und Krisenintervention in "
+"Zusammenarbeit mit Forschungsinstituten aus vier verschiedenen Ländern. Ziel "
+"dieses Projekts war es, den wertvollen Schatz an Zuhörfähigkeiten im Bereich "
+"der Listening Centers in Europa zu nutzen, um Best-Practice-Erfahrungen "
+"unter wissenschaftlichen Kriterien zu sammeln und ein 120-stündiges "
+"Trainingsprogramm zu erstellen, das grundlegende Zuhörfähigkeiten für "
+"jedermann trainiert. Die Wirksamkeit des Trainings wurde mit "
+"wissenschaftlich fundierten Beurteilungen gemessen."
 
 #: ../../imprint.rst:2
 msgid "Imprint"
