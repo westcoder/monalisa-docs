@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  MonaLiSa\n"
+"Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-27 07:57+0200\n"
-"PO-Revision-Date: 2022-03-03 10:56+0000\n"
+"PO-Revision-Date: 2022-04-27 05:58+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Hungarian <https://trans.westcode.de/projects/monalisa/"
+"documentation/hu/>\n"
 "Language: hu\n"
-"Language-Team: Hungarian "
-"<https://trans.westcode.de/projects/monalisa/documentation/hu/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -123,15 +124,15 @@ msgstr "TBA"
 
 #: ../../empowering.rst:2
 msgid "Empowerment Listening Skills Training"
-msgstr ""
+msgstr "Empowerment hallgatási készségek tréning"
 
 #: ../../empowering.rst:4
 msgid "The Listening Skills and Emotional Wellbeing Training Program"
-msgstr ""
+msgstr "A Hallgatási készség és érzelmi jólét képzési program"
 
 #: ../../empowering.rst:6
 msgid "https://empowering.listening-skills.eu/"
-msgstr ""
+msgstr "https://empowering.listening-skills.eu/"
 
 #: ../../empowering.rst:8
 msgid ""
@@ -144,6 +145,15 @@ msgid ""
 "train basic listening skills for everyone. The effectiveness of the "
 "training was measured with scientifically based assessments."
 msgstr ""
+"A weboldal bemutatja a MonaLisa'elődprojektjét, amely az érzelmi támogatás "
+"és a krízisintervenció területén működő szervezetekkel, valamint négy "
+"különböző ország kutatóintézeteivel együttműködve valósult meg. A projekt "
+"célja az volt, hogy a hallgatói készségek értékes kincsét felhasználva az "
+"európai hallgatói központok területén tudományos kritériumok alapján "
+"összegyűjtsék a legjobb gyakorlati tapasztalatokat, és létrehozzanak egy 120 "
+"órás képzési programot, amely mindenki számára elérhetővé teszi az alapvető "
+"hallgatási készségeket. A képzés hatékonyságát tudományosan megalapozott "
+"értékelésekkel mértük."
 
 #: ../../imprint.rst:2
 msgid "Imprint"
@@ -1075,4 +1085,3 @@ msgstr ""
 #~ "készségértékelés és szakmai tanácsadás "
 #~ "területén (IT), valamint egy digitális "
 #~ "platformmegoldások fejlesztője (DE)."
-
