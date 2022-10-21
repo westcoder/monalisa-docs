@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-27 07:59+0200\n"
-"PO-Revision-Date: 2022-03-30 07:20+0000\n"
-"Last-Translator: Moritz Pietzschk <moritz.pietzschke@westcode.de>\n"
+"PO-Revision-Date: 2022-10-21 14:17+0000\n"
+"Last-Translator: Giorgia Pontoni <giorgia.pontoni@art-ess.org>\n"
+"Language-Team: Italian <https://trans.westcode.de/projects/monalisa/"
+"documentation/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11\n"
+"X-Generator: Weblate 4.12.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -64,7 +66,7 @@ msgstr ""
 
 #: ../../embed.rst:2
 msgid "Embed"
-msgstr "Collocare"
+msgstr "Embed"
 
 #: ../../embed.rst:5
 msgid "Linking"
@@ -111,7 +113,7 @@ msgstr ""
 
 #: ../../empowering.rst:2
 msgid "Empowerment Listening Skills Training"
-msgstr "Formazione sulle abilità di ascolto di empowerment"
+msgstr "La formazione Empowering Listening Skills"
 
 #: ../../empowering.rst:4
 msgid "The Listening Skills and Emotional Wellbeing Training Program"
@@ -1099,4 +1101,3 @@ msgstr ""
 
 #~ msgid "TBA"
 #~ msgstr "TBA"
-
