@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-27 07:59+0200\n"
-"PO-Revision-Date: 2022-10-21 14:17+0000\n"
+"PO-Revision-Date: 2022-11-03 14:26+0000\n"
 "Last-Translator: Giorgia Pontoni <giorgia.pontoni@art-ess.org>\n"
 "Language-Team: Italian <https://trans.westcode.de/projects/monalisa/"
 "documentation/it/>\n"
@@ -38,7 +38,7 @@ msgstr "Rilascio iniziale"
 
 #: ../../contribution.rst:2
 msgid "Contribution"
-msgstr "Contributo"
+msgstr "Contributi"
 
 #: ../../contribution.rst:4
 msgid ""
@@ -117,7 +117,9 @@ msgstr "La formazione Empowering Listening Skills"
 
 #: ../../empowering.rst:4
 msgid "The Listening Skills and Emotional Wellbeing Training Program"
-msgstr "Il programma di formazione in abilità di ascolto e benessere emotivo"
+msgstr ""
+"Il programma di formazione per le abilità di ascolto e il benessere "
+"emozionale"
 
 #: ../../empowering.rst:6
 msgid "https://empowering.listening-skills.eu/"
@@ -134,14 +136,15 @@ msgid ""
 "train basic listening skills for everyone. The effectiveness of the "
 "training was measured with scientifically based assessments."
 msgstr ""
-"Il sito web presenta il progetto precedente di MonaLisa con organizzazioni "
-"nel campo del supporto emotivo e dell'intervento in caso di crisi in "
-"collaborazione con istituti di ricerca di quattro paesi diversi. Lo scopo di "
-"questo progetto era quello di utilizzare il prezioso tesoro delle capacità "
-"di ascolto nel campo dei Centri di Ascolto in Europa per raccogliere le "
-"esperienze di buone pratiche sotto criteri scientifici e creare un programma "
-"di formazione di 120 ore per allenare le capacità di ascolto di base per "
-"tutti. L'efficacia della formazione è stata misurata con valutazioni su base "
+"Il sito presenta il progetto che ha preceduto “MonaLisa”, sviluppato insieme "
+"ad organizzazioni che operano nel capo del supporto emozionale e degli "
+"interventi in caso di crisi, e in collaborazione con istituti di ricerca "
+"provenienti da quattro paesi diversi.\n"
+"L’obiettivo del progetto era fare tesoro delle conoscenze dei Centri di "
+"Ascolto Europei sulle abilità di ascolto al fine di raggruppare le migliori "
+"pratiche seguendo criteri scientifici, e creare un programma di formazione "
+"da 120 ore, rivolto a tutti, per allenare le abilità di ascolto di base.\n"
+"L’efficacia della formazione è stata misurata attraverso valutazioni su base "
 "scientifica."
 
 #: ../../imprint.rst:2
@@ -845,7 +848,7 @@ msgstr ""
 
 #: ../../trainers.rst:2
 msgid "Trainers"
-msgstr "Allenatori"
+msgstr "Formatori"
 
 #: ../../trainers.rst:5
 msgid ""
