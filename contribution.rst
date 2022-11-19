@@ -4,7 +4,7 @@ Contribution
 The MonaLiSa/Listeningskills project is open for contribution of content in other languages.
 
 
-.. admonition:: More information coming
+.. admonition:: More information coming soon
    :class: note
 
    In the future we will provide more information on the process.
