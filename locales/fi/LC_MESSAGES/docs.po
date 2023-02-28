@@ -4,67 +4,72 @@
 # This file is distributed under the same license as the MonaLiSa package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MonaLiSa \n"
+"Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-28 10:42+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-02-28 10:26+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Finnish <https://trans.westcode.de/projects/monalisa/"
+"documentation/fi/>\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
 msgid "Changes"
-msgstr ""
+msgstr "Muutokset"
 
 #: ../../changes.rst:5
 msgid "MonaLiSa 1.0.0"
-msgstr ""
+msgstr "MonaLiSa 1.0.0"
 
 #: ../../changes.rst:7
 msgid "Not yet released."
-msgstr ""
+msgstr "Ei vielä julkaistu."
 
 #: ../../changes.rst:9
 msgid "Initial release"
-msgstr ""
+msgstr "Ensimmäinen julkaisu"
 
 #: ../../contribution.rst:2
 msgid "Contribution"
-msgstr ""
+msgstr "Osallistuminen"
 
 #: ../../contribution.rst:4
 msgid ""
 "The MonaLiSa/Listeningskills project is open for contribution of content "
 "in other languages."
-msgstr ""
+msgstr "MonaLiSa/Listeningskills-hanke on avoin muille kielille."
 
 #: ../../contribution.rst:7
 msgid "More information coming soon"
-msgstr ""
+msgstr "Lisää tietoa tulossa pian"
 
 #: ../../contribution.rst:10
 msgid "In the future we will provide more information on the process."
-msgstr ""
+msgstr "Tulevaisuudessa annamme lisää tietoa prosessista."
 
 #: ../../contribution.rst:12
 msgid ""
 "For more information please contact IFOTES. Have a look at the contact "
 "information on the :doc:`Imprint <../imprint>` page."
 msgstr ""
+"Lisätietoja saa IFOTESilta. Katso yhteystiedot :doc:`Imprint "
+"<../imprint>`-sivulta."
 
 #: ../../embed.rst:2
 msgid "Embed"
-msgstr ""
+msgstr "Upota"
 
 #: ../../embed.rst:5
 msgid "Linking"
-msgstr ""
+msgstr "Linkittäminen"
 
 #: ../../embed.rst:6
 msgid ""
@@ -72,42 +77,49 @@ msgid ""
 "://listening-skills.eu>`_ Page. So place a link to the page on your site "
 "or documents."
 msgstr ""
+"Voit käyttää MonaLiSa-työkalua suoraan `listening-skills.eu <https"
+"://listening-skills.eu>`_ -sivulta. Laita siis linkki sivulle sivustollesi "
+"tai asiakirjoihisi."
 
 #: ../../embed.rst:9
 msgid "iFrame"
-msgstr ""
+msgstr "iFrame"
 
 #: ../../embed.rst:11
 msgid "Embed the application as a simple iFrame:"
-msgstr ""
+msgstr "Upota sovellus yksinkertaisena iFrame-kehyksenä:"
 
 #: ../../embed.rst:18
 msgid "oEmbed"
-msgstr ""
+msgstr "oEmbed"
 
 #: ../../embed.rst:20
 msgid ""
 "We support the `oEmbed <https://oembed.com/>`_ standard, so you can just "
 "copy the application link into your blog or content management system:"
 msgstr ""
+"Tuemme `oEmbed <https://oembed.com/>`_ -standardia, joten voit vain kopioida "
+"sovelluslinkin blogiisi tai sisällönhallintajärjestelmääsi:"
 
 #: ../../embed.rst:26
 msgid ""
 "The system should automatically recognize the link and embed the tool "
 "onto your page."
 msgstr ""
+"Järjestelmän pitäisi tunnistaa linkki automaattisesti ja upottaa työkalu "
+"sivullesi."
 
 #: ../../empowering.rst:2
 msgid "Empowerment Listening Skills Training"
-msgstr ""
+msgstr "Voimaantumisen kuuntelutaitojen koulutus"
 
 #: ../../empowering.rst:4
 msgid "The Listening Skills and Emotional Wellbeing Training Program"
-msgstr ""
+msgstr "Kuuntelemisen taidot ja emotionaalinen hyvinvointi -koulutusohjelma"
 
 #: ../../empowering.rst:6
 msgid "https://empowering.listening-skills.eu/"
-msgstr ""
+msgstr "https://empowering.listening-skills.eu/"
 
 #: ../../empowering.rst:8
 msgid ""
@@ -120,118 +132,132 @@ msgid ""
 "program to train basic listening skills for everyone. The effectiveness "
 "of the training was measured with scientifically based assessments."
 msgstr ""
+"Verkkosivustolla esitellään MonaLisa'n aiempaa hanketta, joka on toteutettu "
+"emotionaalisen tuen ja kriisiavun alalla toimivien organisaatioiden kanssa "
+"yhteistyössä tutkimuslaitosten kanssa neljässä eri maassa. Hankkeen "
+"tavoitteena oli hyödyntää kuuntelutaitojen arvokasta aarretta "
+"kuuntelukeskusten alalla Euroopassa, kerätä parhaita käytäntöjä koskevia "
+"kokemuksia tieteellisten kriteerien mukaisesti ja luoda 120 tunnin "
+"koulutusohjelma, jonka avulla voidaan kouluttaa kuuntelemisen perustaitoja "
+"kaikille. Koulutuksen tehokkuutta mitattiin tieteellisesti perustelluilla "
+"arvioinneilla."
 
 #: ../../imprint.rst:2
 msgid "Imprint"
-msgstr ""
+msgstr "Jälki"
 
 #: ../../imprint.rst:5
 msgid "Information provided according to Sec. 5 German Telemedia Act (TMG)"
-msgstr ""
+msgstr "Saksan telemedialain (TMG) 5 §:n mukaiset tiedot."
 
 #: ../../imprint.rst:6
 msgid "IFOTES Europe e.V.,"
-msgstr ""
+msgstr "IFOTES Europe e.V.,"
 
 #: ../../imprint.rst:7 ../../imprint.rst:31 ../../privacy.rst:14
 msgid "Dödterstraße 10"
-msgstr ""
+msgstr "Dödterstraße 10"
 
 #: ../../imprint.rst:8 ../../imprint.rst:32 ../../privacy.rst:15
 msgid "58095 Hagen"
-msgstr ""
+msgstr "58095 Hagen"
 
 #: ../../imprint.rst:11
 msgid "Represented by"
-msgstr ""
+msgstr "Edustajana"
 
 #: ../../imprint.rst:12
 msgid "IFOTES Europe e.V. represented by Dr. Stefan Schumacher (Board Member)"
 msgstr ""
+"IFOTES Europe e.V., jota edustaa Dr. Stefan Schumacher (hallituksen jäsen)"
 
 #: ../../imprint.rst:15
 msgid "Contact"
-msgstr ""
+msgstr "Ota yhteyttä"
 
 #: ../../imprint.rst:16
 msgid "Telephone: tel:+49233117773"
-msgstr ""
+msgstr "Puhelin: puh:+49233117773"
 
 #: ../../imprint.rst:18 ../../privacy.rst:19
 msgid "Email: s.schumacher@ifotes.org"
-msgstr ""
+msgstr "Sähköposti: s.schumacher@ifotes.org"
 
 #: ../../imprint.rst:22
 msgid "Register entry"
-msgstr ""
+msgstr "Rekisterimerkintä"
 
 #: ../../imprint.rst:23
 msgid "Entry in the German `Vereinsregister`."
-msgstr ""
+msgstr "Merkintä saksalaisessa `Vereinsregister` -rekisterissä."
 
 #: ../../imprint.rst:24
 msgid "Registering court: `Vereinsregister des AG Hagen`"
-msgstr ""
+msgstr "Rekisteröivä tuomioistuin: \"Vereinsregister des AG Hagen\"."
 
 #: ../../imprint.rst:25
 msgid "Registration number: VR 2737"
-msgstr ""
+msgstr "Rekisterinumero: VR 2737"
 
 #: ../../imprint.rst:28
 msgid ""
 "Responsible for contents acc. to Sec. 55, para. 2 German Federal "
 "Broadcasting Agreement (RstV)"
 msgstr ""
+"Sisällöstä vastaava Saksan liittovaltion yleisradiosopimuksen 55 §:n 2 "
+"momentin mukaisesti (RstV)."
 
 #: ../../imprint.rst:29 ../../privacy.rst:12
 msgid "Dr. Stefan Schumacher"
-msgstr ""
+msgstr "Tohtori Stefan Schumacher"
 
 #: ../../imprint.rst:30 ../../privacy.rst:13
 msgid "IFOTES Europe e.V."
-msgstr ""
+msgstr "IFOTES Europe e.V."
 
 #: ../../imprint.rst:35
 msgid "Dispute resolution"
-msgstr ""
+msgstr "Riitojen ratkaiseminen"
 
 #: ../../imprint.rst:36
 msgid ""
 "We do not take part in online dispute resolutions at consumer arbitration"
 " boards."
 msgstr ""
+"Emme osallistu verkkovälitteisiin riidanratkaisuihin "
+"kuluttajasovittelulautakunnissa."
 
 #: ../../index.rst:11
 msgid "To the App"
-msgstr ""
+msgstr "Sovellukseen"
 
 #: ../../index.rst:11
 msgid "Contents:"
-msgstr ""
+msgstr "Sisältö:"
 
 #: ../../index.rst:7
 msgid "Welcome to the documentation of the MonaLiSa/Listeningskills project"
-msgstr ""
+msgstr "Tervetuloa MonaLiSa/Listeningskills-projektin dokumentaatioon."
 
 #: ../../index.rst:29
 msgid "Indices and tables"
-msgstr ""
+msgstr "Indeksit ja taulukot"
 
 #: ../../index.rst:31
 msgid ":ref:`genindex`"
-msgstr ""
+msgstr ":ref:`genindex`"
 
 #: ../../index.rst:32
 msgid ":ref:`modindex`"
-msgstr ""
+msgstr ":ref:`modindex`"
 
 #: ../../index.rst:33
 msgid ":ref:`search`"
-msgstr ""
+msgstr ":ref:`haku`"
 
 #: ../../introduction.rst:2
 msgid "Introduction"
-msgstr ""
+msgstr "Johdanto"
 
 #: ../../introduction.rst:3
 msgid ""
@@ -244,6 +270,14 @@ msgid ""
 "services work with volunteers who are carefully trained over a period of "
 "several months for this responsible activity."
 msgstr ""
+"Monissa Euroopan unionin jäsenvaltioissa on puhelin- tai Internet-pohjaisia "
+"kriisipalveluja hädässä oleville ihmisille, joilla on itsemurha-aikomus, "
+"erilaisia mielenterveysongelmia ja monia elämää rajoittavia ongelmia. "
+"Kriisipalvelujen tehtävänä on olla näiden ihmisten tukena, tarjota heille "
+"kontakti tai ihmissuhde, tukea heitä emotionaalisesti, antaa ohjausta ja "
+"tarvittaessa rajoittaa itsemurhariskiä. Useimmat kriisipalvelut "
+"työskentelevät vapaaehtoisten kanssa, jotka koulutetaan huolellisesti "
+"useiden kuukausien ajan tähän vastuulliseen toimintaan."
 
 #: ../../introduction.rst:5
 msgid ""
@@ -256,6 +290,14 @@ msgid ""
 " and ongoing training is required. The core competency for crisis "
 "response is listening."
 msgstr ""
+"Kansainvälisen puhelinhätäpalveluiden yhdistyksen (IFOTES) mukaan Euroopassa "
+"on noin 350 kriisikeskusta, joissa yli 20 000 vapaaehtoista tarjoaa päivällä "
+"ja yöllä hätäapua, ja niihin on soitettu yli 4 miljoonaa puhelua ja otettu "
+"yhteyttä internetissä yli 100 000 kertaa. Joka vuosi on koulutettava 2-3 "
+"tuhatta vapaaehtoista, jotta hätäpalvelu voidaan ylläpitää ympäri "
+"vuorokauden. Vapaaehtoisten rekrytointi on monimutkaista ja kallista, ja "
+"tarvitaan jatkuvaa koulutusta. Kriisinhallinnan ydinosaaminen on "
+"kuunteleminen."
 
 #: ../../introduction.rst:7
 msgid ""
@@ -266,6 +308,12 @@ msgid ""
 "provide new attitudes towards the technique and art of competent "
 "listening."
 msgstr ""
+"Tätä taustaa vasten kahdeksan kumppania viidestä EU:n jäsenvaltiosta liittyi "
+"monitieteiseen yhteenliittymään, jonka tarkoituksena oli laajentaa "
+"kuuntelutaitoja koskevaa nykyistä tietoa yksilöllisemmin, tutkia "
+"kuuntelemisen arkkitehtuuria, mitata ihmisten taitoja ja kykyä kuunnella "
+"sydämellään sekä luoda uusia asenteita pätevän kuuntelemisen tekniikkaa ja "
+"taidetta kohtaan."
 
 #: ../../introduction.rst:9
 msgid ""
@@ -277,6 +325,13 @@ msgid ""
 "social skills, competence assessment and career guidance (IT), and a "
 "digital platform solutions developer (DE)."
 msgstr ""
+"Erasmus+-ohjelman \"MonaLisa\" (Measurement of nowadays advanced Listening-"
+"Skills attitudes) strateginen kumppanuus rahoitettiin EU:n varoista, ja "
+"siihen kuului kuusi puhelinpalvelua (TES) Saksasta, Italiasta, Unkarista, "
+"Ranskasta ja Espanjasta, tunne- ja mielenterveyteen erikoistunut "
+"tutkimuskeskus (Saksa), sosiaalisten taitojen, osaamisen arvioinnin ja "
+"uraohjauksen alan koulutuksen tarjoaja ja konsultti (Italia) sekä "
+"digitaalisten alustaratkaisujen kehittäjä (Saksa)."
 
 #: ../../introduction.rst:11
 msgid ""
@@ -285,6 +340,10 @@ msgid ""
 "dimension of listening, and an exercise program that uses case studies to"
 " train listening sensitivity within the eight dimensions."
 msgstr ""
+"Hankkeen tuloksena on kyselylomake kuuntelutaitojen itsearviointia varten, "
+"tulosten esittäminen kahdeksan eri kuuntelemisen ulottuvuuden osalta sekä "
+"harjoitusohjelma, jossa käytetään tapaustutkimuksia kuuntelemisen herkkyyden "
+"harjoittelemiseksi kahdeksan ulottuvuuden osalta."
 
 #: ../../introduction.rst:13
 msgid ""
@@ -295,127 +354,134 @@ msgid ""
 "stimulate an intensive learning-based examination of one's own listening "
 "skills."
 msgstr ""
+"Verkkotyökalu on saatavilla ilmaiseksi, ja se voidaan helposti integroida "
+"olemassa oleviin verkkosivustoihin. Kumppanuuden tavoitteena on korostaa eri "
+"kielillä eri puolilla Eurooppaa kuuntelutaitojen merkitystä sosiaalisessa "
+"kanssakäymisessä eri kielillä ja kannustaa intensiiviseen oppimiseen "
+"perustuvaan omien kuuntelutaitojen tarkasteluun."
 
 #: ../../partners.rst:2
 msgid "Partners"
-msgstr ""
+msgstr "Kumppanit"
 
 #: ../../partners.rst:6
 msgid "IFOTES Europe"
-msgstr ""
+msgstr "IFOTES Eurooppa"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12 ../../privacy.rst:16
 msgid "Germany"
-msgstr ""
+msgstr "Saksa"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12
 msgid "Lead Partner"
-msgstr ""
+msgstr "Johtava kumppani"
 
 #: ../../partners.rst:6
 msgid "`ifotes.org <https://ifotes.org/>`_"
-msgstr ""
+msgstr "`ifotes.org <https://ifotes.org/>`_"
 
 #: ../../partners.rst:8
 msgid "Universitätsklinikum Heidelberg"
-msgstr ""
+msgstr "Universitätsklinikum Heidelberg"
 
 #: ../../partners.rst:8
 msgid ""
 "`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-"
 "heidelberg.de/>`_"
 msgstr ""
+"`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-heidelberg.de/>`_"
 
 #: ../../partners.rst:10
 msgid "Studio Rucli"
-msgstr ""
+msgstr "Studio Rucli"
 
 #: ../../partners.rst:10
 msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
-msgstr ""
+msgstr "`www.studiorucli.it <http://www.studiorucli.it/>`_"
 
 #: ../../partners.rst:12
 msgid "Westcode GmbH"
-msgstr ""
+msgstr "Westcode GmbH"
 
 #: ../../partners.rst:12
 msgid "`westcode.de <https://www.westcode.de/>`_"
-msgstr ""
+msgstr "`westcode.de <https://www.westcode.de/>`_"
 
 #: ../../partners.rst:14
 msgid "LESZ"
-msgstr ""
+msgstr "LESZ"
 
 #: ../../partners.rst:14
 msgid "Hungary"
-msgstr ""
+msgstr "Unkari"
 
 #: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
 #: ../../partners.rst:20 ../../partners.rst:22
 msgid "Partner"
-msgstr ""
+msgstr "Kumppani"
 
 #: ../../partners.rst:14
 msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
-msgstr ""
+msgstr "`sos116-123.hu <https://sos116-123.hu/>`_"
 
 #: ../../partners.rst:16
 msgid "Telefono Amico"
-msgstr ""
+msgstr "Telefono Amico"
 
 #: ../../partners.rst:16
 msgid "Italy"
-msgstr ""
+msgstr "Italia"
 
 #: ../../partners.rst:16
 msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
-msgstr ""
+msgstr "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
 
 #: ../../partners.rst:18
 msgid "SOS Amitié"
-msgstr ""
+msgstr "SOS Amitié"
 
 #: ../../partners.rst:18
 msgid "France"
-msgstr ""
+msgstr "Ranska"
 
 #: ../../partners.rst:18
 msgid "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
-msgstr ""
+msgstr "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
 
 #: ../../partners.rst:20
 msgid "ASITES"
-msgstr ""
+msgstr "ASITES"
 
 #: ../../partners.rst:20
 msgid "Spain"
-msgstr ""
+msgstr "Espanja"
 
 #: ../../partners.rst:20
 msgid "`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
 msgstr ""
+"`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
 
 #: ../../partners.rst:22
 msgid "De Luisterlijn"
-msgstr ""
+msgstr "De Luisterlijn"
 
 #: ../../partners.rst:22
 msgid "The Netherlands"
-msgstr ""
+msgstr "Alankomaat"
 
 #: ../../partners.rst:22
 msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
-msgstr ""
+msgstr "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
 
 #: ../../privacy.rst:2
 msgid "Privacy and data protection"
-msgstr ""
+msgstr "Yksityisyys ja tietosuoja"
 
 #: ../../privacy.rst:5
 msgid "Data protection"
-msgstr ""
+msgstr "Tietosuoja"
 
 #: ../../privacy.rst:6
 msgid ""
@@ -425,24 +491,31 @@ msgid ""
 "data, and whom to contact if you have any questions, we’ve put together "
 "all the relevant information on this page."
 msgstr ""
+"Tietosuojaa säännellään kattavasti EU:n yleisessä tietosuoja-asetuksessa "
+"(GDPR). Jotta ymmärtäisit, mitä tietoja keräämme sinusta, miten käsittelemme "
+"niitä, mitä teemme tietojesi suojaamiseksi ja keneen voit ottaa yhteyttä, "
+"jos sinulla on kysyttävää, olemme koonneet kaikki olennaiset tiedot tälle "
+"sivulle."
 
 #: ../../privacy.rst:9
 msgid "Person responsible and scope"
-msgstr ""
+msgstr "Vastuuhenkilö ja soveltamisala"
 
 #: ../../privacy.rst:10
 msgid "The person responsible according to the GDPR is:"
-msgstr ""
+msgstr "GDPR:n mukainen vastuuhenkilö on:"
 
 #: ../../privacy.rst:18
 msgid "Telephone: +49 2331 17773"
-msgstr ""
+msgstr "Puhelin: +49 2331 17773"
 
 #: ../../privacy.rst:22
 msgid ""
 "This privacy policy applies to our tool ``listening-skills.eu`` as well "
 "as to our documentation page ``docs.listening-skills.eu``."
 msgstr ""
+"Tämä tietosuojakäytäntö koskee työkalua ``listening-skills.eu`` sekä "
+"dokumentointisivua ``docs.listening-skills.eu``."
 
 #: ../../privacy.rst:24
 msgid ""
@@ -452,10 +525,14 @@ msgid ""
 "<https://docs.readthedocs.io/en/latest/privacy-policy.html>`_ of Read The"
 " Docs."
 msgstr ""
+"Käytämme palvelua ``docs.listening-skills.eu`` oman ReadTheDocs-"
+"infrastruktuurimme ulkopuolella voidaksemme rakentaa ja isännöidä työkalumme "
+"dokumentaatiota. Huomaa Read The Docsin `yksityisyydensuoja <https://docs."
+"readthedocs.io/en/latest/privacy-policy.html>`_."
 
 #: ../../privacy.rst:28
 msgid "Principles of data processing"
-msgstr ""
+msgstr "Tietojenkäsittelyn periaatteet"
 
 #: ../../privacy.rst:29
 msgid ""
@@ -470,6 +547,16 @@ msgid ""
 "deleted as soon as the purpose of the processing has been achieved and no"
 " legally required retention requirements have to be maintained."
 msgstr ""
+"Henkilötiedot ovat kaikkia tietoja, jotka liittyvät tunnistettuun tai "
+"tunnistettavissa olevaan luonnolliseen henkilöön. Tällaisia tietoja ovat "
+"esimerkiksi nimi, ikä, osoite, puhelinnumero, syntymäaika, sähköpostiosoite, "
+"IP-osoite tai käyttäjän käyttäytyminen. Tiedot, joita emme voi yhdistää "
+"henkilöön (tai vain suhteettoman suurella vaivalla), esimerkiksi "
+"anonymisoimalla tiedot, eivät ole henkilötietoja. Henkilötietojen käsittely ("
+"esim. kerääminen, kysely, käyttö, tallentaminen tai lähettäminen) edellyttää "
+"aina oikeusperustaa tai suostumustasi. Käsitellyt henkilötiedot poistetaan "
+"heti, kun käsittelyn tarkoitus on saavutettu, eikä lakisääteisiä "
+"säilyttämisvaatimuksia tarvitse noudattaa."
 
 #: ../../privacy.rst:31
 msgid ""
@@ -478,10 +565,13 @@ msgid ""
 " scope and purpose of the data processing, the legal basis for the "
 "processing and the respective retention period."
 msgstr ""
+"Jos käsittelemme henkilötietojasi tiettyjen tarjousten tekemistä varten, "
+"ilmoitamme sinulle jälkikäteen erityisistä liiketoimista, tietojenkäsittelyn "
+"laajuudesta ja tarkoituksesta, käsittelyn oikeusperustasta ja säilytysajasta."
 
 #: ../../privacy.rst:34
 msgid "Use of our website"
-msgstr ""
+msgstr "Verkkosivustomme käyttö"
 
 #: ../../privacy.rst:35
 msgid ""
@@ -490,10 +580,14 @@ msgid ""
 "the browser used; However, we anonymise your IP address using IP masking,"
 " so that we do not collect any personal data."
 msgstr ""
+"Kun käytät verkkosivujamme, saatamme luoda verkkopalvelinlokeja, jotka "
+"sisältävät päivämäärän ja kellonajan, haetun URL-osoitteen polun, lähettäjän "
+"(tarvittaessa) ja käytetyn selaimen; anonymisoimme kuitenkin IP-osoitteesi "
+"IP-peitteen avulla, joten emme kerää henkilötietoja."
 
 #: ../../privacy.rst:38
 msgid "Use of cookies"
-msgstr ""
+msgstr "Evästeiden käyttö"
 
 #: ../../privacy.rst:39
 msgid ""
@@ -502,6 +596,10 @@ msgid ""
 "from the one we recognized from your first visit, we can present you the "
 "tool in the same language on the next visit."
 msgstr ""
+"Asetamme vain yhden evästeen, joka koskee työkalun kieltä: esim. ``lang=en`` "
+"yhden vuoden ajaksi. Jos siis vaihdat kielen pois siitä kielestä, jonka "
+"tunnistimme ensimmäisellä käynnilläsi, voimme esittää työkalun samalla "
+"kielellä seuraavalla käynnilläsi."
 
 #: ../../privacy.rst:41
 msgid ""
@@ -511,26 +609,31 @@ msgid ""
 "persistently, but is automatically deleted when the browser window is "
 "closed."
 msgstr ""
+"Kun rekisteröidyt tai kirjaudut sisään, asetamme evästeen, joka sisältää "
+"istuntotunnisteen. Tämä on teknisesti pakollista kirjautumistilanteen "
+"ylläpitämiseksi, eikä se siksi vaadi erillistä suostumusta. Evästettä ei "
+"tallenneta pysyvästi, vaan se poistetaan automaattisesti, kun selainikkuna "
+"suljetaan."
 
 #: ../../privacy.rst:44
 msgid "Tracking and analysis tools"
-msgstr ""
+msgstr "Seuranta- ja analysointivälineet"
 
 #: ../../privacy.rst:45
 msgid "We do not use any external tracking and analysis tools."
-msgstr ""
+msgstr "Emme käytä ulkoisia seuranta- ja analyysityökaluja."
 
 #: ../../privacy.rst:49
 msgid "Social network plugins"
-msgstr ""
+msgstr "Sosiaalisen verkoston liitännäiset"
 
 #: ../../privacy.rst:50
 msgid "We do not use any plugins of social networks."
-msgstr ""
+msgstr "Emme käytä sosiaalisten verkostojen liitännäisiä."
 
 #: ../../privacy.rst:53
 msgid "Links"
-msgstr ""
+msgstr "Linkit"
 
 #: ../../privacy.rst:54
 msgid ""
@@ -544,16 +647,28 @@ msgid ""
 "obvious, because that’s how the Internet works, but our lawyers thought "
 "we should write it down.)"
 msgstr ""
+"Verkkosivuillamme saattaa toisinaan olla linkkejä muille verkkosivustoille. "
+"Aktivoimalla nämä linkit sinut ohjataan toisen operaattorin "
+"verkkosivustolle, jonka tunnistat selaimen muuttuneesta URL-osoitteesta. "
+"Emme voi valvoa niiden sisältöä emmekä siksi ole vastuussa siitä, miten nämä "
+"muut verkkosivustot käsittelevät henkilötietojasi. Emme ole tarkistaneet, "
+"noudattavatko näiden verkkosivustojen ylläpitäjät GDPR:ää. Ole hyvä ja "
+"tiedota siitä itsellesi. (Toivottavasti tämä on itsestään selvää, koska näin "
+"internet toimii, mutta lakimiehemme ajattelivat, että meidän pitäisi "
+"kirjoittaa se ylös)."
 
 #: ../../privacy.rst:57
 msgid "Data subject rights"
-msgstr ""
+msgstr "Rekisteröidyn oikeudet"
 
 #: ../../privacy.rst:58
 msgid ""
 "As a person affected by the processing of personal data you have the "
 "following rights under GDPR, and we are obliged to point this out to you:"
 msgstr ""
+"Henkilötietojesi käsittelyn vaikutuspiiriin kuuluvana henkilönä sinulla on "
+"seuraavat GDPR:n mukaiset oikeudet, ja olemme velvollisia huomauttamaan "
+"sinulle tästä:"
 
 #: ../../privacy.rst:60
 msgid ""
@@ -569,12 +684,25 @@ msgid ""
 "automated decision-making including profiling and, if applicable, "
 "meaningful information about its details."
 msgstr ""
+"Artiklan mukaisesti. 15 GDPR:n mukaisesti voit pyytää tietoja "
+"käsittelemistämme henkilötiedoista. Voit erityisesti pyytää tietoja "
+"käsittelyn tarkoituksista, henkilötietoryhmistä, vastaanottajaryhmistä, "
+"joille tietojasi on luovutettu tai tullaan luovuttamaan, suunnitellusta "
+"säilytysajasta, oikaisu-, poistamis-, käsittelyn rajoittamis- tai "
+"vastustamisoikeudesta, valitusoikeudesta, tietojesi alkuperästä, jos niitä "
+"ei ole kerätty meiltä, niiden siirrosta kolmansiin maihin tai "
+"kansainvälisille järjestöille sekä automaattisen päätöksenteon "
+"olemassaolosta, mukaan lukien profilointi, ja tarvittaessa mielekkäitä "
+"tietoja sen yksityiskohdista."
 
 #: ../../privacy.rst:61
 msgid ""
 "Pursuant to Art. 16 GDPR you may request the correction of incorrect "
 "personal data or the completion of your personal data stored by us."
 msgstr ""
+"Artiklan mukaisesti. 16 GDPR:n mukaisesti voit pyytää virheellisten "
+"henkilötietojen korjaamista tai tallentamiemme henkilötietojesi "
+"täydentämistä."
 
 #: ../../privacy.rst:62
 msgid ""
@@ -584,6 +712,11 @@ msgid ""
 " of a legal obligation, for reasons of public interest or for the "
 "assertion, exercise or defence of legal claims."
 msgstr ""
+"Artiklan mukaisesti. 17 GDPR:n mukaisesti voit pyytää poistamaan "
+"tallentamamme henkilötietosi, paitsi jos käsittely on tarpeen sananvapautta "
+"ja tiedonvälityksen vapautta koskevan oikeuden käyttämiseksi, lakisääteisen "
+"velvoitteen täyttämiseksi, yleisen edun vuoksi tai oikeudellisen vaateen "
+"esittämistä, esittämistä tai puolustamista varten."
 
 #: ../../privacy.rst:63
 msgid ""
@@ -594,6 +727,13 @@ msgid ""
 "claims. You may also exercise the right under Art. 18 GDPR if you have "
 "objected to the processing. (Art. 21 GDPR)"
 msgstr ""
+"Artiklan mukaisesti. 18 GDPR:n mukaan voit vaatia henkilötietojesi "
+"käsittelyn rajoittamista, jos kiistät tietojen oikeellisuuden, käsittely on "
+"lainvastaista, emme enää tarvitse tietoja ja kieltäydyt niiden "
+"poistamisesta, koska tarvitset niitä oikeudellisten vaatimusten "
+"esittämiseen, esittämiseen tai puolustamiseen. Voit myös käyttää oikeutta, "
+"joka perustuu art. 18 GDPR, jos olet vastustanut käsittelyä. (Yleisen "
+"tietosuoja-asetuksen 21 artikla)"
 
 #: ../../privacy.rst:64
 msgid ""
@@ -601,6 +741,9 @@ msgid ""
 "that you have provided to us in a structured, common and machine-readable"
 " format or you can request it be transferred to a third party."
 msgstr ""
+"Artiklan mukaisesti. 20 GDPR:n mukaisesti voit pyytää saada meille antamasi "
+"henkilötiedot jäsennellyssä, yleisessä ja koneellisesti luettavassa muodossa "
+"tai voit pyytää niiden siirtämistä kolmannelle osapuolelle."
 
 #: ../../privacy.rst:65
 msgid ""
@@ -608,6 +751,9 @@ msgid ""
 " any time. As a result, we may no longer process personal data based on "
 "this consent in the future."
 msgstr ""
+"Artiklan mukaisesti. 7 (3) GDPR:n mukaan voit peruuttaa meille antamasi "
+"suostumuksen milloin tahansa. Tämän seurauksena emme voi enää "
+"tulevaisuudessa käsitellä henkilötietoja tämän suostumuksen perusteella."
 
 #: ../../privacy.rst:66
 msgid ""
@@ -616,10 +762,14 @@ msgid ""
 "authority for your usual place of residence, your workplace or our "
 "company headquarters."
 msgstr ""
+"Artiklan mukaisesti. 77 GDPR:n mukaan sinulla on oikeus tehdä valitus "
+"valvontaviranomaiselle. Pääsääntöisesti voit ottaa yhteyttä tavanomaisen "
+"asuinpaikkasi, työpaikkasi tai yrityksemme pääkonttorin "
+"valvontaviranomaiseen."
 
 #: ../../privacy.rst:69
 msgid "Right to object"
-msgstr ""
+msgstr "Oikeus vastustaa"
 
 #: ../../privacy.rst:70
 msgid ""
@@ -630,10 +780,17 @@ msgid ""
 "directed against direct marketing, you have a general right of objection,"
 " which is followed by us without you having to state a particular reason."
 msgstr ""
+"Kun henkilötietojasi käsitellään oikeutettujen etujen perusteella art. 6 (1) "
+"f GDPR:n mukaisesti, sinulla on oikeus, artiklan 1 kohdan f alakohdan "
+"mukaisesti. 21 GDPR:n mukaisesti vastustaa henkilötietojesi käsittelyä "
+"erityisestä tilanteestasi johtuvin perustein. Vaihtoehtoisesti, jos "
+"vastustaminen kohdistuu suoramarkkinointiin, sinulla on yleinen "
+"vastustamisoikeus, jota me noudatamme ilman, että sinun tarvitsee esittää "
+"erityistä syytä."
 
 #: ../../privacy.rst:73
 msgid "Data security and security measures"
-msgstr ""
+msgstr "Tietoturva ja turvatoimet"
 
 #: ../../privacy.rst:74
 msgid ""
@@ -651,10 +808,22 @@ msgid ""
 "this. It is your responsibility to protect the data provided by you "
 "against misuse, e. g. by utilizing encryption technology."
 msgstr ""
+"Olemme sitoutuneet suojelemaan yksityisyyttäsi ja pitämään henkilötietosi "
+"luottamuksellisina. Välttääksemme tallentamiemme tietojesi manipuloinnin, "
+"katoamisen tai väärinkäytön, käytämme laajoja teknisiä ja organisatorisia "
+"turvatoimia, jotka tarkistetaan säännöllisesti ja mukautetaan tekniikan "
+"kehitykseen. Tähän kuuluu muun muassa tunnustettujen salausmenetelmien "
+"käyttö. Haluamme kuitenkin huomauttaa, että Internetin luonteen vuoksi on "
+"mahdollista, että muut henkilöt tai laitokset vastuualueemme ulkopuolella "
+"eivät noudata tietosuojasääntöjä ja edellä mainittuja turvatoimia. Kolmannet "
+"osapuolet voivat lukea salaamattomia tietoja - esimerkiksi jos ne lähetetään "
+"sähköpostitse. Meillä ei ole tähän teknistä vaikutusvaltaa. On sinun "
+"vastuullasi suojata antamasi tiedot väärinkäytöksiltä, esimerkiksi "
+"käyttämällä salaustekniikkaa."
 
 #: ../../trainers.rst:2
 msgid "Trainers"
-msgstr ""
+msgstr "Kouluttajat"
 
 #: ../../trainers.rst:5
 msgid ""
@@ -662,6 +831,9 @@ msgid ""
 "can use this web-application to individually assess the training success "
 "of your trainees and improve it through training."
 msgstr ""
+"Jos olet kouluttaja ja koulutat ihmisiä kuuntelun alalla, voit käyttää tätä "
+"verkkosovellusta arvioidaksesi yksilöllisesti koulutettavien "
+"koulutustuloksia ja parantaaksesi niitä koulutuksen avulla."
 
 #: ../../trainers.rst:7
 msgid ""
@@ -669,6 +841,9 @@ msgid ""
 "at the beginning and end of a training session to monitor changes in "
 "self-assessment."
 msgstr ""
+"Voit pyytää osallistujia täyttämään itsearviointilomakkeen esimerkiksi "
+"koulutustilaisuuden alussa ja lopussa, jotta voit seurata muutoksia "
+"itsearvioinnissa."
 
 #: ../../trainers.rst:8
 msgid ""
@@ -676,6 +851,9 @@ msgid ""
 "which trainees feel confident or insecure, enabling you, to track and "
 "target your training according to individual needs of trainees."
 msgstr ""
+"Itsearviointi antaa tietoa siitä, millä kuuntelualueilla harjoittelijat "
+"tuntevat itsensä varmoiksi tai epävarmoiksi, jolloin voit seurata ja "
+"kohdentaa koulutusta harjoittelijoiden yksilöllisten tarpeiden mukaan."
 
 #: ../../trainers.rst:9
 msgid ""
@@ -684,10 +862,14 @@ msgid ""
 " the response options and their effect in the group. Furthermore, "
 "additional, and more complex case studies can be unlocked."
 msgstr ""
+"Voit pyytää kuuntelutaitokoulutuksen osallistujia harjoittelemaan tiettyjä "
+"tapaustutkimuksia valituista kuuntelemisen osa-alueista, keskustelemaan ja "
+"pohtimaan vastausvaihtoehtoja ja niiden vaikutusta ryhmässä. Lisäksi voidaan "
+"avata lisää ja monimutkaisempia tapaustutkimuksia."
 
 #: ../../trainers.rst:12
 msgid "How do I use the web application in training?"
-msgstr ""
+msgstr "Miten käytän verkkosovellusta koulutuksessa?"
 
 #: ../../trainers.rst:14
 msgid ""
@@ -699,6 +881,13 @@ msgid ""
 "participant and use it for the adaptation of an individual training or "
 "make suggestions for targeted practice."
 msgstr ""
+"Pyydä koulutusryhmäsi osallistujia tallentamaan profiilinsa "
+"itsearviointitestin suorittamisen jälkeen ja lähettämään se heille "
+"sähköpostitse tai ottamaan kuva QR-koodista. Pyydä osallistujia lähettämään "
+"koodi sinulle ja lisää koodi hakemuksen alussa olevaan koodikenttään. Sen "
+"jälkeen voit tarkastella kunkin ryhmän osallistujan kyselylomakkeen tulosta "
+"ja käyttää sitä yksilöllisen koulutuksen mukauttamiseen tai tehdä ehdotuksia "
+"kohdennettua harjoittelua varten."
 
 #: ../../trainers.rst:16
 msgid ""
@@ -709,4 +898,9 @@ msgid ""
 "moment on, additional case studies will be displayed in the training "
 "section. (Example for the code: ``fz3mp`` and the extension: ``afz3mp``)"
 msgstr ""
-
+"Sinulla on myös mahdollisuus avata kurssin osallistujille lisää "
+"tapausesimerkkejä, jotka ovat haastavampia kuin kolme perusesimerkkiä. Voit "
+"tehdä tämän pyytämällä koulutettavia laittamaan profiilikoodinsa eteen "
+"pienen \"a\"-merkin (\"a\" tarkoittaa \"advanced\"). Siitä hetkestä lähtien "
+"koulutusosiossa näytetään lisää tapausesimerkkejä. (Esimerkki koodista: "
+"``fz3mp`` ja laajennuksesta: ``afz3mp``)."
