@@ -36,7 +36,7 @@ def setup(app):
 # -- Project information -----------------------------------------------------
 
 project = "MonaLiSa"
-copyright = "2022, MonaLiSa Project Group. This work is licensed under a CC BY 4.0 license."
+copyright = "2023, MonaLiSa Project Group. This work is licensed under a CC BY 4.0 license."
 author = "MonaLiSa Project Group"
 
 # The full version, including alpha/beta/rc tags

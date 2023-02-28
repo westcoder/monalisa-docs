@@ -1,0 +1,712 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, MonaLiSa Project Group. This work is licensed under a
+# CC BY 4.0 license.
+# This file is distributed under the same license as the MonaLiSa package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MonaLiSa \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-28 10:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../changes.rst:2
+msgid "Changes"
+msgstr ""
+
+#: ../../changes.rst:5
+msgid "MonaLiSa 1.0.0"
+msgstr ""
+
+#: ../../changes.rst:7
+msgid "Not yet released."
+msgstr ""
+
+#: ../../changes.rst:9
+msgid "Initial release"
+msgstr ""
+
+#: ../../contribution.rst:2
+msgid "Contribution"
+msgstr ""
+
+#: ../../contribution.rst:4
+msgid ""
+"The MonaLiSa/Listeningskills project is open for contribution of content "
+"in other languages."
+msgstr ""
+
+#: ../../contribution.rst:7
+msgid "More information coming soon"
+msgstr ""
+
+#: ../../contribution.rst:10
+msgid "In the future we will provide more information on the process."
+msgstr ""
+
+#: ../../contribution.rst:12
+msgid ""
+"For more information please contact IFOTES. Have a look at the contact "
+"information on the :doc:`Imprint <../imprint>` page."
+msgstr ""
+
+#: ../../embed.rst:2
+msgid "Embed"
+msgstr ""
+
+#: ../../embed.rst:5
+msgid "Linking"
+msgstr ""
+
+#: ../../embed.rst:6
+msgid ""
+"You can use the MonaLiSa Tool right from the `listening-skills.eu <https"
+"://listening-skills.eu>`_ Page. So place a link to the page on your site "
+"or documents."
+msgstr ""
+
+#: ../../embed.rst:9
+msgid "iFrame"
+msgstr ""
+
+#: ../../embed.rst:11
+msgid "Embed the application as a simple iFrame:"
+msgstr ""
+
+#: ../../embed.rst:18
+msgid "oEmbed"
+msgstr ""
+
+#: ../../embed.rst:20
+msgid ""
+"We support the `oEmbed <https://oembed.com/>`_ standard, so you can just "
+"copy the application link into your blog or content management system:"
+msgstr ""
+
+#: ../../embed.rst:26
+msgid ""
+"The system should automatically recognize the link and embed the tool "
+"onto your page."
+msgstr ""
+
+#: ../../empowering.rst:2
+msgid "Empowerment Listening Skills Training"
+msgstr ""
+
+#: ../../empowering.rst:4
+msgid "The Listening Skills and Emotional Wellbeing Training Program"
+msgstr ""
+
+#: ../../empowering.rst:6
+msgid "https://empowering.listening-skills.eu/"
+msgstr ""
+
+#: ../../empowering.rst:8
+msgid ""
+"The website presents MonaLisa's previous project with organizations in "
+"the field of emotional support and crisis intervention in collaboration "
+"with research institutes in four different countries. The aim of this "
+"project was to use the valuable treasure of listening skills in the field"
+" of Listening Centers in Europe to collect best practice experiences "
+"according to scientific criteria and to create a 120-hour training "
+"program to train basic listening skills for everyone. The effectiveness "
+"of the training was measured with scientifically based assessments."
+msgstr ""
+
+#: ../../imprint.rst:2
+msgid "Imprint"
+msgstr ""
+
+#: ../../imprint.rst:5
+msgid "Information provided according to Sec. 5 German Telemedia Act (TMG)"
+msgstr ""
+
+#: ../../imprint.rst:6
+msgid "IFOTES Europe e.V.,"
+msgstr ""
+
+#: ../../imprint.rst:7 ../../imprint.rst:31 ../../privacy.rst:14
+msgid "Dödterstraße 10"
+msgstr ""
+
+#: ../../imprint.rst:8 ../../imprint.rst:32 ../../privacy.rst:15
+msgid "58095 Hagen"
+msgstr ""
+
+#: ../../imprint.rst:11
+msgid "Represented by"
+msgstr ""
+
+#: ../../imprint.rst:12
+msgid "IFOTES Europe e.V. represented by Dr. Stefan Schumacher (Board Member)"
+msgstr ""
+
+#: ../../imprint.rst:15
+msgid "Contact"
+msgstr ""
+
+#: ../../imprint.rst:16
+msgid "Telephone: tel:+49233117773"
+msgstr ""
+
+#: ../../imprint.rst:18 ../../privacy.rst:19
+msgid "Email: s.schumacher@ifotes.org"
+msgstr ""
+
+#: ../../imprint.rst:22
+msgid "Register entry"
+msgstr ""
+
+#: ../../imprint.rst:23
+msgid "Entry in the German `Vereinsregister`."
+msgstr ""
+
+#: ../../imprint.rst:24
+msgid "Registering court: `Vereinsregister des AG Hagen`"
+msgstr ""
+
+#: ../../imprint.rst:25
+msgid "Registration number: VR 2737"
+msgstr ""
+
+#: ../../imprint.rst:28
+msgid ""
+"Responsible for contents acc. to Sec. 55, para. 2 German Federal "
+"Broadcasting Agreement (RstV)"
+msgstr ""
+
+#: ../../imprint.rst:29 ../../privacy.rst:12
+msgid "Dr. Stefan Schumacher"
+msgstr ""
+
+#: ../../imprint.rst:30 ../../privacy.rst:13
+msgid "IFOTES Europe e.V."
+msgstr ""
+
+#: ../../imprint.rst:35
+msgid "Dispute resolution"
+msgstr ""
+
+#: ../../imprint.rst:36
+msgid ""
+"We do not take part in online dispute resolutions at consumer arbitration"
+" boards."
+msgstr ""
+
+#: ../../index.rst:11
+msgid "To the App"
+msgstr ""
+
+#: ../../index.rst:11
+msgid "Contents:"
+msgstr ""
+
+#: ../../index.rst:7
+msgid "Welcome to the documentation of the MonaLiSa/Listeningskills project"
+msgstr ""
+
+#: ../../index.rst:29
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:31
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:32
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:33
+msgid ":ref:`search`"
+msgstr ""
+
+#: ../../introduction.rst:2
+msgid "Introduction"
+msgstr ""
+
+#: ../../introduction.rst:3
+msgid ""
+"In many European member states, there are telephone or Internet-based "
+"crisis services for people in distress, with suicidal intent, various "
+"mental health problems and many life-limiting problems. The task of the "
+"crisis services is to accompany these people, to provide them with "
+"contact or a relationship, to support them emotionally, to provide "
+"guidance and, if necessary, to limit the risk of suicide. Most crisis "
+"services work with volunteers who are carefully trained over a period of "
+"several months for this responsible activity."
+msgstr ""
+
+#: ../../introduction.rst:5
+msgid ""
+"According to the International Association of Telephone Emergency "
+"Services (IFOTES), there are about 350 crisis centers in Europe with over"
+" 20,000 volunteers providing day and night emerygency assistance, with "
+"over 4 million phone calls and over 100,000 internet contacts. Every year"
+" 2-3 thousand volunteers must be trained to maintain the emergency "
+"service around the clock. Recruiting volunteers is complex and expensive,"
+" and ongoing training is required. The core competency for crisis "
+"response is listening."
+msgstr ""
+
+#: ../../introduction.rst:7
+msgid ""
+"Against this background, 8 partners from 5 EU Member States joined an "
+"interdisciplinary consortium to expand existing knowledge on listening "
+"skills more individually, to study listening architecture, to measure "
+"people's skills and their ability to listen with their hearts, and to "
+"provide new attitudes towards the technique and art of competent "
+"listening."
+msgstr ""
+
+#: ../../introduction.rst:9
+msgid ""
+"The strategic partnership of the Erasmus+ program \"MonaLisa\" "
+"(Measurement of nowadays advanced Listening-Skills attitudes) was funded "
+"by EU funds and consisted of six Telephone Emergency Services (TES) from "
+"DE, IT, HU, FR, and ES, a research center specialized in emotional and "
+"mental health (DE), a training provider and consultant in the field of "
+"social skills, competence assessment and career guidance (IT), and a "
+"digital platform solutions developer (DE)."
+msgstr ""
+
+#: ../../introduction.rst:11
+msgid ""
+"The outcome of the project is a questionnaire for self-assessment of "
+"listening skills, the presentation of the result across eight different "
+"dimension of listening, and an exercise program that uses case studies to"
+" train listening sensitivity within the eight dimensions."
+msgstr ""
+
+#: ../../introduction.rst:13
+msgid ""
+"The online tool is available for free and can be easily integrated into "
+"existing websites. The aim of the partnershipis to highlight, across "
+"Europe in different languages, the importance oflistening skills for "
+"social interaction throughout Europe in different languages and to "
+"stimulate an intensive learning-based examination of one's own listening "
+"skills."
+msgstr ""
+
+#: ../../partners.rst:2
+msgid "Partners"
+msgstr ""
+
+#: ../../partners.rst:6
+msgid "IFOTES Europe"
+msgstr ""
+
+#: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
+#: ../../partners.rst:12 ../../privacy.rst:16
+msgid "Germany"
+msgstr ""
+
+#: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
+#: ../../partners.rst:12
+msgid "Lead Partner"
+msgstr ""
+
+#: ../../partners.rst:6
+msgid "`ifotes.org <https://ifotes.org/>`_"
+msgstr ""
+
+#: ../../partners.rst:8
+msgid "Universitätsklinikum Heidelberg"
+msgstr ""
+
+#: ../../partners.rst:8
+msgid ""
+"`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-"
+"heidelberg.de/>`_"
+msgstr ""
+
+#: ../../partners.rst:10
+msgid "Studio Rucli"
+msgstr ""
+
+#: ../../partners.rst:10
+msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
+msgstr ""
+
+#: ../../partners.rst:12
+msgid "Westcode GmbH"
+msgstr ""
+
+#: ../../partners.rst:12
+msgid "`westcode.de <https://www.westcode.de/>`_"
+msgstr ""
+
+#: ../../partners.rst:14
+msgid "LESZ"
+msgstr ""
+
+#: ../../partners.rst:14
+msgid "Hungary"
+msgstr ""
+
+#: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
+#: ../../partners.rst:20 ../../partners.rst:22
+msgid "Partner"
+msgstr ""
+
+#: ../../partners.rst:14
+msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
+msgstr ""
+
+#: ../../partners.rst:16
+msgid "Telefono Amico"
+msgstr ""
+
+#: ../../partners.rst:16
+msgid "Italy"
+msgstr ""
+
+#: ../../partners.rst:16
+msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "SOS Amitié"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "France"
+msgstr ""
+
+#: ../../partners.rst:18
+msgid "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "ASITES"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "Spain"
+msgstr ""
+
+#: ../../partners.rst:20
+msgid "`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
+msgstr ""
+
+#: ../../partners.rst:22
+msgid "De Luisterlijn"
+msgstr ""
+
+#: ../../partners.rst:22
+msgid "The Netherlands"
+msgstr ""
+
+#: ../../partners.rst:22
+msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
+msgstr ""
+
+#: ../../privacy.rst:2
+msgid "Privacy and data protection"
+msgstr ""
+
+#: ../../privacy.rst:5
+msgid "Data protection"
+msgstr ""
+
+#: ../../privacy.rst:6
+msgid ""
+"The topic of data protection is comprehensively regulated by the EU "
+"General Data Protection Regulation (GDPR). To help you understand which "
+"data we collect from you, how we process it, what we do to protect your "
+"data, and whom to contact if you have any questions, we’ve put together "
+"all the relevant information on this page."
+msgstr ""
+
+#: ../../privacy.rst:9
+msgid "Person responsible and scope"
+msgstr ""
+
+#: ../../privacy.rst:10
+msgid "The person responsible according to the GDPR is:"
+msgstr ""
+
+#: ../../privacy.rst:18
+msgid "Telephone: +49 2331 17773"
+msgstr ""
+
+#: ../../privacy.rst:22
+msgid ""
+"This privacy policy applies to our tool ``listening-skills.eu`` as well "
+"as to our documentation page ``docs.listening-skills.eu``."
+msgstr ""
+
+#: ../../privacy.rst:24
+msgid ""
+"We operate the service ``docs.listening-skills.eu`` outside of our own "
+"infrastructure at ReadTheDocs to be able to build and host the "
+"documentation of our tool. Please note the `privacy policy "
+"<https://docs.readthedocs.io/en/latest/privacy-policy.html>`_ of Read The"
+" Docs."
+msgstr ""
+
+#: ../../privacy.rst:28
+msgid "Principles of data processing"
+msgstr ""
+
+#: ../../privacy.rst:29
+msgid ""
+"Personal data is any information that relates to an identified or "
+"identifiable natural person. This includes, for example, information such"
+" as your name, age, address, phone number, date of birth, e-mail address,"
+" IP address, or user behavior. Information that we can not relate to your"
+" person (or only with disproportionate effort), e.g. by anonymizing the "
+"information, are not personal information. The processing of personal "
+"data (eg. collecting, querying, using, storing or transmitting) always "
+"requires a legal basis or your consent. Processed personal data will be "
+"deleted as soon as the purpose of the processing has been achieved and no"
+" legally required retention requirements have to be maintained."
+msgstr ""
+
+#: ../../privacy.rst:31
+msgid ""
+"If we process your personal data for the purpose of providing certain "
+"offers, we will subsequently inform you of the specific transactions, the"
+" scope and purpose of the data processing, the legal basis for the "
+"processing and the respective retention period."
+msgstr ""
+
+#: ../../privacy.rst:34
+msgid "Use of our website"
+msgstr ""
+
+#: ../../privacy.rst:35
+msgid ""
+"When using our websites, we may create web server logs that contain the "
+"date and time, the retrieved URL path, the referrer (if applicable) and "
+"the browser used; However, we anonymise your IP address using IP masking,"
+" so that we do not collect any personal data."
+msgstr ""
+
+#: ../../privacy.rst:38
+msgid "Use of cookies"
+msgstr ""
+
+#: ../../privacy.rst:39
+msgid ""
+"We only set one cookie regarding the language of the tool: e.g. "
+"``lang=en`` for a period of one year. So if you change the language away "
+"from the one we recognized from your first visit, we can present you the "
+"tool in the same language on the next visit."
+msgstr ""
+
+#: ../../privacy.rst:41
+msgid ""
+"When you register or log in, we set a cookie that carries a session ID. "
+"This is technically mandatory to maintain your login status, and "
+"therefore requires no separate consent. The cookie is not stored "
+"persistently, but is automatically deleted when the browser window is "
+"closed."
+msgstr ""
+
+#: ../../privacy.rst:44
+msgid "Tracking and analysis tools"
+msgstr ""
+
+#: ../../privacy.rst:45
+msgid "We do not use any external tracking and analysis tools."
+msgstr ""
+
+#: ../../privacy.rst:49
+msgid "Social network plugins"
+msgstr ""
+
+#: ../../privacy.rst:50
+msgid "We do not use any plugins of social networks."
+msgstr ""
+
+#: ../../privacy.rst:53
+msgid "Links"
+msgstr ""
+
+#: ../../privacy.rst:54
+msgid ""
+"You may occasionally find links to other websites on our website. By "
+"activating these links you will be redirected to the website of another "
+"operator, which you can recognize by the changed URL in the browser. We "
+"have no control over their content and therefore do not have any "
+"responsibility for how those other websites handle your personal "
+"information. We have not checked if the operators of those websites "
+"comply with the GDPR. Please inform yourself about it. (Hopefully that’s "
+"obvious, because that’s how the Internet works, but our lawyers thought "
+"we should write it down.)"
+msgstr ""
+
+#: ../../privacy.rst:57
+msgid "Data subject rights"
+msgstr ""
+
+#: ../../privacy.rst:58
+msgid ""
+"As a person affected by the processing of personal data you have the "
+"following rights under GDPR, and we are obliged to point this out to you:"
+msgstr ""
+
+#: ../../privacy.rst:60
+msgid ""
+"Pursuant to Art. 15 GDPR, you may request information about your personal"
+" data processed by us. In particular, you may request information about "
+"the purposes of processing, the categories of personal data, the "
+"categories of recipients to whom your data have been or will be "
+"disclosed, the planned storage period, the existence of a right of "
+"rectification, erasure, restriction of processing or objection, the "
+"existence of a right to lodge a complaint, the origin of your data, if it"
+" has not been collected from us, about its transfer to third countries or"
+" to international organisations as well as about the existence of "
+"automated decision-making including profiling and, if applicable, "
+"meaningful information about its details."
+msgstr ""
+
+#: ../../privacy.rst:61
+msgid ""
+"Pursuant to Art. 16 GDPR you may request the correction of incorrect "
+"personal data or the completion of your personal data stored by us."
+msgstr ""
+
+#: ../../privacy.rst:62
+msgid ""
+"Pursuant to Art. 17 GDPR, you may request the deletion of your personal "
+"data stored by us, unless such processing is necessary for the exercise "
+"of the right to freedom of expression and information, for the fulfilment"
+" of a legal obligation, for reasons of public interest or for the "
+"assertion, exercise or defence of legal claims."
+msgstr ""
+
+#: ../../privacy.rst:63
+msgid ""
+"Pursuant to Art. 18 GDPR you can demand the restriction of the processing"
+" of your personal data if the accuracy of the data is disputed by you, "
+"the processing is unlawful, we no longer require the data and you refuse "
+"its deletion because you need it to assert, exercise or defend legal "
+"claims. You may also exercise the right under Art. 18 GDPR if you have "
+"objected to the processing. (Art. 21 GDPR)"
+msgstr ""
+
+#: ../../privacy.rst:64
+msgid ""
+"Pursuant to Art. 20 GDPR, you can request to receive your personal data "
+"that you have provided to us in a structured, common and machine-readable"
+" format or you can request it be transferred to a third party."
+msgstr ""
+
+#: ../../privacy.rst:65
+msgid ""
+"Pursuant to Art. 7 (3) GDPR, you can withdraw your consent given to us at"
+" any time. As a result, we may no longer process personal data based on "
+"this consent in the future."
+msgstr ""
+
+#: ../../privacy.rst:66
+msgid ""
+"Pursuant to Art. 77 GDPR, you have the right to lodge a complaint with a "
+"supervisory authority. As a rule, you can contact the supervisory "
+"authority for your usual place of residence, your workplace or our "
+"company headquarters."
+msgstr ""
+
+#: ../../privacy.rst:69
+msgid "Right to object"
+msgstr ""
+
+#: ../../privacy.rst:70
+msgid ""
+"When processing your personal data based on legitimate interests "
+"according to Art. 6 (1) f GDPR, you have the right, pursuant to Art. 21 "
+"GDPR, to object to the processing of your personal data on grounds that "
+"arise from your particular situation. Alternatively, if the objection is "
+"directed against direct marketing, you have a general right of objection,"
+" which is followed by us without you having to state a particular reason."
+msgstr ""
+
+#: ../../privacy.rst:73
+msgid "Data security and security measures"
+msgstr ""
+
+#: ../../privacy.rst:74
+msgid ""
+"We are committed to protecting your privacy and keeping your personal "
+"information confidential. In order to avoid manipulation, loss or misuse "
+"of your data stored by us, we take extensive technical and organizational"
+" security precautions, which are regularly checked and adapted to "
+"technological progress. This includes, among other things, the use of "
+"recognized encryption procedures. However, we would like to point out "
+"that, due to the nature of the Internet, it is possible that the rules of"
+" data protection and the above-mentioned security measures may not be "
+"followed by other persons or institutions outside our area of "
+"responsibility. In particular, unencrypted data can be read by third "
+"parties - e.g. if sent via e-mail. We have no technical influence on "
+"this. It is your responsibility to protect the data provided by you "
+"against misuse, e. g. by utilizing encryption technology."
+msgstr ""
+
+#: ../../trainers.rst:2
+msgid "Trainers"
+msgstr ""
+
+#: ../../trainers.rst:5
+msgid ""
+"If you are a trainer and qualify people in the field of listening, you "
+"can use this web-application to individually assess the training success "
+"of your trainees and improve it through training."
+msgstr ""
+
+#: ../../trainers.rst:7
+msgid ""
+"You can ask participants complete the self-assessment form, for example, "
+"at the beginning and end of a training session to monitor changes in "
+"self-assessment."
+msgstr ""
+
+#: ../../trainers.rst:8
+msgid ""
+"The self-assessment provides information about the listening areas in "
+"which trainees feel confident or insecure, enabling you, to track and "
+"target your training according to individual needs of trainees."
+msgstr ""
+
+#: ../../trainers.rst:9
+msgid ""
+"You can ask participants in a listening-skill training to practice "
+"specific case studies on selected listening areas, discuss and reflect on"
+" the response options and their effect in the group. Furthermore, "
+"additional, and more complex case studies can be unlocked."
+msgstr ""
+
+#: ../../trainers.rst:12
+msgid "How do I use the web application in training?"
+msgstr ""
+
+#: ../../trainers.rst:14
+msgid ""
+"Ask the participants in your training group to save their profile after "
+"completing the self-assessment test and have it emailed to them or take a"
+" photo of the QR code. Ask your participants to send you the code, and "
+"insert the code at the beginning of the application in the code-field. "
+"Then you can view the result of the questionnaire of each group "
+"participant and use it for the adaptation of an individual training or "
+"make suggestions for targeted practice."
+msgstr ""
+
+#: ../../trainers.rst:16
+msgid ""
+"You also have the possibility to unlock additional case studies for your "
+"participants of a course, which are more challenging than the three basic"
+" examples. To do this, ask your trainees to place a lowercase ``a`` in "
+"front of their profile code (``a`` stands for \"advanced\"). From that "
+"moment on, additional case studies will be displayed in the training "
+"section. (Example for the code: ``fz3mp`` and the extension: ``afz3mp``)"
+msgstr ""
+
