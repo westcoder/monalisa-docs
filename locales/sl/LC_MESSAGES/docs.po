@@ -4,67 +4,75 @@
 # This file is distributed under the same license as the MonaLiSa package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MonaLiSa \n"
+"Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-28 10:42+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-02-28 10:26+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Slovenian <https://trans.westcode.de/projects/monalisa/"
+"documentation/sl/>\n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 4.12.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
 msgid "Changes"
-msgstr ""
+msgstr "Spremembe"
 
 #: ../../changes.rst:5
 msgid "MonaLiSa 1.0.0"
-msgstr ""
+msgstr "MonaLiSa 1.0.0"
 
 #: ../../changes.rst:7
 msgid "Not yet released."
-msgstr ""
+msgstr "Še ni izdan."
 
 #: ../../changes.rst:9
 msgid "Initial release"
-msgstr ""
+msgstr "Prva izdaja"
 
 #: ../../contribution.rst:2
 msgid "Contribution"
-msgstr ""
+msgstr "Prispevek"
 
 #: ../../contribution.rst:4
 msgid ""
 "The MonaLiSa/Listeningskills project is open for contribution of content "
 "in other languages."
 msgstr ""
+"Projekt MonaLiSa/Listeningskills je odprt za dodajanje vsebin v drugih "
+"jezikih."
 
 #: ../../contribution.rst:7
 msgid "More information coming soon"
-msgstr ""
+msgstr "Več informacij bo kmalu na voljo"
 
 #: ../../contribution.rst:10
 msgid "In the future we will provide more information on the process."
-msgstr ""
+msgstr "V prihodnosti bomo zagotovili več informacij o tem postopku."
 
 #: ../../contribution.rst:12
 msgid ""
 "For more information please contact IFOTES. Have a look at the contact "
 "information on the :doc:`Imprint <../imprint>` page."
 msgstr ""
+"Za več informacij se obrnite na IFOTES. Oglejte si kontaktne informacije na "
+"strani :doc:`Imprint <../imprint>`."
 
 #: ../../embed.rst:2
 msgid "Embed"
-msgstr ""
+msgstr "Vstavite"
 
 #: ../../embed.rst:5
 msgid "Linking"
-msgstr ""
+msgstr "Povezovanje"
 
 #: ../../embed.rst:6
 msgid ""
@@ -72,42 +80,48 @@ msgid ""
 "://listening-skills.eu>`_ Page. So place a link to the page on your site "
 "or documents."
 msgstr ""
+"Orodje MonaLiSa lahko uporabite kar na strani `listening-skills.eu <https"
+"://listening-skills.eu>`_. Zato na svoje spletno mesto ali v svoje dokumente "
+"postavite povezavo na to stran."
 
 #: ../../embed.rst:9
 msgid "iFrame"
-msgstr ""
+msgstr "iFrame"
 
 #: ../../embed.rst:11
 msgid "Embed the application as a simple iFrame:"
-msgstr ""
+msgstr "Vgradite aplikacijo kot preprost okvir iFrame:"
 
 #: ../../embed.rst:18
 msgid "oEmbed"
-msgstr ""
+msgstr "oEmbed"
 
 #: ../../embed.rst:20
 msgid ""
 "We support the `oEmbed <https://oembed.com/>`_ standard, so you can just "
 "copy the application link into your blog or content management system:"
 msgstr ""
+"Podpiramo standard `oEmbed <https://oembed.com/>`_, zato lahko povezavo do "
+"aplikacije preprosto kopirate v svoj blog ali sistem za upravljanje vsebine:"
 
 #: ../../embed.rst:26
 msgid ""
 "The system should automatically recognize the link and embed the tool "
 "onto your page."
 msgstr ""
+"Sistem mora samodejno prepoznati povezavo in orodje vgraditi na vašo stran."
 
 #: ../../empowering.rst:2
 msgid "Empowerment Listening Skills Training"
-msgstr ""
+msgstr "Usposabljanje veščin poslušanja za opolnomočenje"
 
 #: ../../empowering.rst:4
 msgid "The Listening Skills and Emotional Wellbeing Training Program"
-msgstr ""
+msgstr "Program usposabljanja o veščinah poslušanja in čustvenem blagostanju"
 
 #: ../../empowering.rst:6
 msgid "https://empowering.listening-skills.eu/"
-msgstr ""
+msgstr "https://empowering.listening-skills.eu/"
 
 #: ../../empowering.rst:8
 msgid ""
@@ -120,118 +134,132 @@ msgid ""
 "program to train basic listening skills for everyone. The effectiveness "
 "of the training was measured with scientifically based assessments."
 msgstr ""
+"Na spletni strani je predstavljen prejšnji projekt MonaLisa, ki je potekal z "
+"organizacijami na področju čustvene podpore in kriznega posredovanja v "
+"sodelovanju z raziskovalnimi inštituti v štirih različnih državah. Cilj tega "
+"projekta je bil uporabiti dragoceni zaklad veščin poslušanja na področju "
+"centrov za poslušanje v Evropi, da bi zbrali izkušnje najboljših praks v "
+"skladu z znanstvenimi merili in oblikovali 120-urni program usposabljanja za "
+"urjenje osnovnih veščin poslušanja za vsakogar. Učinkovitost usposabljanja "
+"je bila izmerjena z znanstveno utemeljenimi ocenami."
 
 #: ../../imprint.rst:2
 msgid "Imprint"
-msgstr ""
+msgstr "Odtis"
 
 #: ../../imprint.rst:5
 msgid "Information provided according to Sec. 5 German Telemedia Act (TMG)"
-msgstr ""
+msgstr "Informacije v skladu s členom 5 nemškega zakona o telemedijih (TMG)"
 
 #: ../../imprint.rst:6
 msgid "IFOTES Europe e.V.,"
-msgstr ""
+msgstr "IFOTES Europe e.V.,"
 
 #: ../../imprint.rst:7 ../../imprint.rst:31 ../../privacy.rst:14
 msgid "Dödterstraße 10"
-msgstr ""
+msgstr "Dödterstraße 10"
 
 #: ../../imprint.rst:8 ../../imprint.rst:32 ../../privacy.rst:15
 msgid "58095 Hagen"
-msgstr ""
+msgstr "58095 Hagen"
 
 #: ../../imprint.rst:11
 msgid "Represented by"
-msgstr ""
+msgstr "Zastopnik:"
 
 #: ../../imprint.rst:12
 msgid "IFOTES Europe e.V. represented by Dr. Stefan Schumacher (Board Member)"
 msgstr ""
+"IFOTES Europe e.V., ki ga zastopa Dr. Stefan Schumacher (član upravnega "
+"odbora)"
 
 #: ../../imprint.rst:15
 msgid "Contact"
-msgstr ""
+msgstr "Pišite na"
 
 #: ../../imprint.rst:16
 msgid "Telephone: tel:+49233117773"
-msgstr ""
+msgstr "Telefon: +49233117773"
 
 #: ../../imprint.rst:18 ../../privacy.rst:19
 msgid "Email: s.schumacher@ifotes.org"
-msgstr ""
+msgstr "E-naslov: s.schumacher@ifotes.org"
 
 #: ../../imprint.rst:22
 msgid "Register entry"
-msgstr ""
+msgstr "Vnos v register"
 
 #: ../../imprint.rst:23
 msgid "Entry in the German `Vereinsregister`."
-msgstr ""
+msgstr "Vpis v nemški `Vereinsregister`."
 
 #: ../../imprint.rst:24
 msgid "Registering court: `Vereinsregister des AG Hagen`"
-msgstr ""
+msgstr "Registracijsko sodišče: Vereinsregister des AG Hagen"
 
 #: ../../imprint.rst:25
 msgid "Registration number: VR 2737"
-msgstr ""
+msgstr "Registracijska številka: VR 2737"
 
 #: ../../imprint.rst:28
 msgid ""
 "Responsible for contents acc. to Sec. 55, para. 2 German Federal "
 "Broadcasting Agreement (RstV)"
 msgstr ""
+"Odgovoren za vsebino v skladu s členom 55(2) nemškega zveznega sporazuma o "
+"radiodifuziji (RstV)"
 
 #: ../../imprint.rst:29 ../../privacy.rst:12
 msgid "Dr. Stefan Schumacher"
-msgstr ""
+msgstr "Dr. Stefan Schumacher"
 
 #: ../../imprint.rst:30 ../../privacy.rst:13
 msgid "IFOTES Europe e.V."
-msgstr ""
+msgstr "IFOTES Europe e.V."
 
 #: ../../imprint.rst:35
 msgid "Dispute resolution"
-msgstr ""
+msgstr "Reševanje sporov"
 
 #: ../../imprint.rst:36
 msgid ""
 "We do not take part in online dispute resolutions at consumer arbitration"
 " boards."
 msgstr ""
+"Ne sodelujemo pri spletnem reševanju sporov pri potrošniških arbitražnih "
+"komisijah."
 
 #: ../../index.rst:11
 msgid "To the App"
-msgstr ""
+msgstr "Za aplikacijo"
 
 #: ../../index.rst:11
 msgid "Contents:"
-msgstr ""
+msgstr "Vsebina:"
 
 #: ../../index.rst:7
 msgid "Welcome to the documentation of the MonaLiSa/Listeningskills project"
-msgstr ""
+msgstr "Dobrodošli v dokumentaciji projekta MonaLiSa/Listeningskills"
 
 #: ../../index.rst:29
 msgid "Indices and tables"
-msgstr ""
+msgstr "Indeksi in preglednice"
 
 #: ../../index.rst:31
 msgid ":ref:`genindex`"
-msgstr ""
+msgstr ":ref:`genindex`"
 
 #: ../../index.rst:32
 msgid ":ref:`modindex`"
-msgstr ""
+msgstr ":ref:`modindex`"
 
 #: ../../index.rst:33
 msgid ":ref:`search`"
-msgstr ""
+msgstr ":ref:`search`"
 
 #: ../../introduction.rst:2
 msgid "Introduction"
-msgstr ""
+msgstr "Uvod"
 
 #: ../../introduction.rst:3
 msgid ""
@@ -244,6 +272,13 @@ msgid ""
 "services work with volunteers who are carefully trained over a period of "
 "several months for this responsible activity."
 msgstr ""
+"V številnih evropskih državah članicah obstajajo telefonske ali internetne "
+"krizne službe za ljudi v stiski, s samomorilnimi namerami, različnimi "
+"težavami v duševnem zdravju in številnimi težavami, ki omejujejo življenje. "
+"Naloga kriznih služb je spremljati te ljudi, jim zagotoviti stik ali odnos, "
+"jih čustveno podpreti, usmerjati in po potrebi omejiti tveganje za samomor. "
+"Večina kriznih služb sodeluje s prostovoljci, ki se za to odgovorno "
+"dejavnost skrbno usposabljajo več mesecev."
 
 #: ../../introduction.rst:5
 msgid ""
@@ -256,6 +291,14 @@ msgid ""
 " and ongoing training is required. The core competency for crisis "
 "response is listening."
 msgstr ""
+"Po podatkih Mednarodnega združenja telefonskih služb za pomoč v sili (IFOTES)"
+" je v Evropi približno 350 kriznih centrov z več kot 20 000 prostovoljci, ki "
+"nudijo dnevno in nočno pomoč v nujnih primerih in opravijo več kot 4 "
+"milijone telefonskih klicev ter več kot 100 000 spletnih stikov. Vsako leto "
+"je treba usposobiti 2 do 3 tisoč prostovoljcev, da lahko ohranijo službo za "
+"pomoč v stiski 24 ur na dan. Zaposlovanje prostovoljcev je zapleteno in "
+"drago, potrebno pa je tudi stalno usposabljanje. Ključna kompetenca za "
+"odzivanje na krize je poslušanje."
 
 #: ../../introduction.rst:7
 msgid ""
@@ -266,6 +309,11 @@ msgid ""
 "provide new attitudes towards the technique and art of competent "
 "listening."
 msgstr ""
+"Zato se je 8 partnerjev iz 5 držav članic EU pridružilo interdisciplinarnemu "
+"konzorciju, da bi bolj individualno razširili obstoječe znanje o veščinah "
+"poslušanja, preučili arhitekturo poslušanja, izmerili veščine ljudi in "
+"njihovo sposobnost poslušanja s srcem ter oblikovali nova stališča do "
+"tehnike in umetnosti kompetentnega poslušanja."
 
 #: ../../introduction.rst:9
 msgid ""
@@ -277,6 +325,13 @@ msgid ""
 "social skills, competence assessment and career guidance (IT), and a "
 "digital platform solutions developer (DE)."
 msgstr ""
+"Strateško partnerstvo programa Erasmus+ \"MonaLisa\" (Measurement of "
+"nowadays advanced Listening-Skills attitudes) je bilo financirano iz "
+"sredstev EU in je vključevalo šest telefonskih reševalnih služb iz DE, IT, "
+"HU, FR in ES, raziskovalni center, specializiran za čustveno in duševno "
+"zdravje (DE), izvajalca usposabljanja in svetovalca na področju socialnih "
+"veščin, ocenjevanja kompetenc in poklicnega usmerjanja (IT) ter razvijalca "
+"rešitev digitalnih platform (DE)."
 
 #: ../../introduction.rst:11
 msgid ""
@@ -285,6 +340,10 @@ msgid ""
 "dimension of listening, and an exercise program that uses case studies to"
 " train listening sensitivity within the eight dimensions."
 msgstr ""
+"Rezultat projekta je vprašalnik za samoocenjevanje spretnosti poslušanja, "
+"predstavitev rezultatov v osmih različnih dimenzijah poslušanja in program "
+"vaj, ki s pomočjo študij primerov usposablja za poslušanje v osmih "
+"dimenzijah."
 
 #: ../../introduction.rst:13
 msgid ""
@@ -295,127 +354,134 @@ msgid ""
 "stimulate an intensive learning-based examination of one's own listening "
 "skills."
 msgstr ""
+"Spletno orodje je na voljo brezplačno in ga je mogoče preprosto vključiti v "
+"obstoječa spletna mesta. Cilj partnerstva je po vsej Evropi v različnih "
+"jezikih poudariti pomen slušnih spretnosti za socialno interakcijo v Evropi "
+"v različnih jezikih in spodbuditi intenzivno preverjanje lastnih slušnih "
+"spretnosti na podlagi učenja."
 
 #: ../../partners.rst:2
 msgid "Partners"
-msgstr ""
+msgstr "Partnerji"
 
 #: ../../partners.rst:6
 msgid "IFOTES Europe"
-msgstr ""
+msgstr "IFOTES Evropa"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12 ../../privacy.rst:16
 msgid "Germany"
-msgstr ""
+msgstr "Nemčija"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12
 msgid "Lead Partner"
-msgstr ""
+msgstr "Vodilni partner"
 
 #: ../../partners.rst:6
 msgid "`ifotes.org <https://ifotes.org/>`_"
-msgstr ""
+msgstr "`ifotes.org <https://ifotes.org/>`_"
 
 #: ../../partners.rst:8
 msgid "Universitätsklinikum Heidelberg"
-msgstr ""
+msgstr "Universitätsklinikum Heidelberg"
 
 #: ../../partners.rst:8
 msgid ""
 "`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-"
 "heidelberg.de/>`_"
 msgstr ""
+"`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-heidelberg.de/>`_"
 
 #: ../../partners.rst:10
 msgid "Studio Rucli"
-msgstr ""
+msgstr "Studio Rucli"
 
 #: ../../partners.rst:10
 msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
-msgstr ""
+msgstr "`www.studiorucli.it <http://www.studiorucli.it/>`_"
 
 #: ../../partners.rst:12
 msgid "Westcode GmbH"
-msgstr ""
+msgstr "Westcode GmbH"
 
 #: ../../partners.rst:12
 msgid "`westcode.de <https://www.westcode.de/>`_"
-msgstr ""
+msgstr "`westcode.de <https://www.westcode.de/>`_"
 
 #: ../../partners.rst:14
 msgid "LESZ"
-msgstr ""
+msgstr "LESZ"
 
 #: ../../partners.rst:14
 msgid "Hungary"
-msgstr ""
+msgstr "Madžarska"
 
 #: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
 #: ../../partners.rst:20 ../../partners.rst:22
 msgid "Partner"
-msgstr ""
+msgstr "Partner"
 
 #: ../../partners.rst:14
 msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
-msgstr ""
+msgstr "`sos116-123.hu <https://sos116-123.hu/>`_"
 
 #: ../../partners.rst:16
 msgid "Telefono Amico"
-msgstr ""
+msgstr "Telefono Amico"
 
 #: ../../partners.rst:16
 msgid "Italy"
-msgstr ""
+msgstr "Italija"
 
 #: ../../partners.rst:16
 msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
-msgstr ""
+msgstr "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
 
 #: ../../partners.rst:18
 msgid "SOS Amitié"
-msgstr ""
+msgstr "SOS Amitié"
 
 #: ../../partners.rst:18
 msgid "France"
-msgstr ""
+msgstr "Francija"
 
 #: ../../partners.rst:18
 msgid "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
-msgstr ""
+msgstr "`www.sos-amitie.com <https://www.sos-amitie.com/>`_"
 
 #: ../../partners.rst:20
 msgid "ASITES"
-msgstr ""
+msgstr "ASITES"
 
 #: ../../partners.rst:20
 msgid "Spain"
-msgstr ""
+msgstr "Španija"
 
 #: ../../partners.rst:20
 msgid "`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
 msgstr ""
+"`www.telefonodelaesperanza.org <https://www.telefonodelaesperanza.org/>`_"
 
 #: ../../partners.rst:22
 msgid "De Luisterlijn"
-msgstr ""
+msgstr "De Luisterlijn"
 
 #: ../../partners.rst:22
 msgid "The Netherlands"
-msgstr ""
+msgstr "Nizozemska"
 
 #: ../../partners.rst:22
 msgid "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
-msgstr ""
+msgstr "`www.deluisterlijn.nl <https://www.deluisterlijn.nl/>`_"
 
 #: ../../privacy.rst:2
 msgid "Privacy and data protection"
-msgstr ""
+msgstr "Zasebnost in varstvo podatkov"
 
 #: ../../privacy.rst:5
 msgid "Data protection"
-msgstr ""
+msgstr "Varstvo podatkov"
 
 #: ../../privacy.rst:6
 msgid ""
@@ -425,24 +491,31 @@ msgid ""
 "data, and whom to contact if you have any questions, we’ve put together "
 "all the relevant information on this page."
 msgstr ""
+"Področje varstva podatkov celovito ureja Splošna uredba EU o varstvu "
+"podatkov (GDPR). Da bi lažje razumeli, katere podatke zbiramo od vas, kako "
+"jih obdelujemo, kaj počnemo za zaščito vaših podatkov in na koga se lahko "
+"obrnete, če imate vprašanja, smo na tej strani zbrali vse pomembne "
+"informacije."
 
 #: ../../privacy.rst:9
 msgid "Person responsible and scope"
-msgstr ""
+msgstr "Odgovorna oseba in področje uporabe"
 
 #: ../../privacy.rst:10
 msgid "The person responsible according to the GDPR is:"
-msgstr ""
+msgstr "Odgovorna oseba v skladu z GDPR je:"
 
 #: ../../privacy.rst:18
 msgid "Telephone: +49 2331 17773"
-msgstr ""
+msgstr "Telefon: +49 2331 17773"
 
 #: ../../privacy.rst:22
 msgid ""
 "This privacy policy applies to our tool ``listening-skills.eu`` as well "
 "as to our documentation page ``docs.listening-skills.eu``."
 msgstr ""
+"Ta pravilnik o zasebnosti velja za naše orodje ``listening-skills.eu`` in "
+"našo dokumentacijsko stran ``docs.listening-skills.eu``."
 
 #: ../../privacy.rst:24
 msgid ""
@@ -452,10 +525,14 @@ msgid ""
 "<https://docs.readthedocs.io/en/latest/privacy-policy.html>`_ of Read The"
 " Docs."
 msgstr ""
+"Storitev ``docs.listening-skills.eu`` uporabljamo zunaj lastne "
+"infrastrukture ReadTheDocs, da lahko gradimo in gostimo dokumentacijo našega "
+"orodja. Upoštevajte `politiko zasebnosti <https://docs.readthedocs.io/en/"
+"latest/privacy-policy.html>`_ podjetja Read The Docs."
 
 #: ../../privacy.rst:28
 msgid "Principles of data processing"
-msgstr ""
+msgstr "Načela obdelave podatkov"
 
 #: ../../privacy.rst:29
 msgid ""
@@ -470,6 +547,16 @@ msgid ""
 "deleted as soon as the purpose of the processing has been achieved and no"
 " legally required retention requirements have to be maintained."
 msgstr ""
+"Osebni podatki so vse informacije, ki se nanašajo na določeno ali določljivo "
+"fizično osebo. To so na primer podatki, kot so vaše ime, starost, naslov, "
+"telefonska številka, datum rojstva, e-poštni naslov, naslov IP ali vedenje "
+"uporabnika. Informacije, ki jih ne moremo povezati z vašo osebo (ali le z "
+"nesorazmernim naporom), npr. z anonimizacijo podatkov, niso osebni podatki. "
+"Za obdelavo osebnih podatkov (npr. zbiranje, poizvedovanje, uporaba, "
+"shranjevanje ali posredovanje) je vedno potrebna pravna podlaga ali vaša "
+"privolitev. Obdelani osebni podatki bodo izbrisani takoj, ko bo dosežen "
+"namen obdelave in ne bo treba ohranjati zakonsko predpisanih zahtev glede "
+"hrambe."
 
 #: ../../privacy.rst:31
 msgid ""
@@ -478,10 +565,13 @@ msgid ""
 " scope and purpose of the data processing, the legal basis for the "
 "processing and the respective retention period."
 msgstr ""
+"Če vaše osebne podatke obdelujemo za namen zagotavljanja določenih ponudb, "
+"vas bomo naknadno obvestili o posebnih transakcijah, obsegu in namenu "
+"obdelave podatkov, pravni podlagi za obdelavo in ustreznem obdobju hrambe."
 
 #: ../../privacy.rst:34
 msgid "Use of our website"
-msgstr ""
+msgstr "Uporaba našega spletnega mesta"
 
 #: ../../privacy.rst:35
 msgid ""
@@ -490,10 +580,14 @@ msgid ""
 "the browser used; However, we anonymise your IP address using IP masking,"
 " so that we do not collect any personal data."
 msgstr ""
+"Pri uporabi naših spletnih mest lahko ustvarimo dnevnike spletnega "
+"strežnika, ki vsebujejo datum in čas, prebrano pot URL, napotitev (če je "
+"primerno) in uporabljeni brskalnik; vendar vaš naslov IP anonimiziramo z "
+"maskiranjem IP, tako da ne zbiramo nobenih osebnih podatkov."
 
 #: ../../privacy.rst:38
 msgid "Use of cookies"
-msgstr ""
+msgstr "Uporaba piškotkov"
 
 #: ../../privacy.rst:39
 msgid ""
@@ -502,6 +596,10 @@ msgid ""
 "from the one we recognized from your first visit, we can present you the "
 "tool in the same language on the next visit."
 msgstr ""
+"V zvezi z jezikom orodja nastavimo samo en piškotek: npr. ``lang=en`` za "
+"obdobje enega leta. Če torej spremenite jezik in ne izberete tistega, ki smo "
+"ga prepoznali ob vašem prvem obisku, vam lahko ob naslednjem obisku orodje "
+"predstavimo v istem jeziku."
 
 #: ../../privacy.rst:41
 msgid ""
@@ -511,26 +609,30 @@ msgid ""
 "persistently, but is automatically deleted when the browser window is "
 "closed."
 msgstr ""
+"Ko se registrirate ali prijavite, nastavimo piškotek, ki vsebuje ID seje. To "
+"je tehnično obvezno za ohranjanje vašega statusa prijave in zato ne zahteva "
+"ločene privolitve. Piškotek se ne shranjuje trajno, temveč se samodejno "
+"izbriše ob zaprtju okna brskalnika."
 
 #: ../../privacy.rst:44
 msgid "Tracking and analysis tools"
-msgstr ""
+msgstr "Orodja za sledenje in analizo"
 
 #: ../../privacy.rst:45
 msgid "We do not use any external tracking and analysis tools."
-msgstr ""
+msgstr "Ne uporabljamo zunanjih orodij za sledenje in analizo."
 
 #: ../../privacy.rst:49
 msgid "Social network plugins"
-msgstr ""
+msgstr "Vtičniki družabnih omrežij"
 
 #: ../../privacy.rst:50
 msgid "We do not use any plugins of social networks."
-msgstr ""
+msgstr "Ne uporabljamo vtičnikov družabnih omrežij."
 
 #: ../../privacy.rst:53
 msgid "Links"
-msgstr ""
+msgstr "Povezave"
 
 #: ../../privacy.rst:54
 msgid ""
@@ -544,16 +646,26 @@ msgid ""
 "obvious, because that’s how the Internet works, but our lawyers thought "
 "we should write it down.)"
 msgstr ""
+"Na našem spletnem mestu lahko občasno najdete povezave do drugih spletnih "
+"mest. Z aktiviranjem teh povezav boste preusmerjeni na spletno mesto drugega "
+"operaterja, ki ga lahko prepoznate po spremenjenem naslovu URL v brskalniku. "
+"Nimamo nadzora nad njihovo vsebino in zato nismo odgovorni za to, kako ta "
+"druga spletna mesta ravnajo z vašimi osebnimi podatki. Nismo preverili, ali "
+"upravljavci teh spletnih mest spoštujejo uredbo GDPR. Prosimo, da se o tem "
+"obvestite sami. (Upamo, da je to očitno, saj tako deluje internet, vendar so "
+"naši pravniki menili, da moramo to zapisati)."
 
 #: ../../privacy.rst:57
 msgid "Data subject rights"
-msgstr ""
+msgstr "Pravice posameznika, na katerega se nanašajo osebni podatki"
 
 #: ../../privacy.rst:58
 msgid ""
 "As a person affected by the processing of personal data you have the "
 "following rights under GDPR, and we are obliged to point this out to you:"
 msgstr ""
+"Kot oseba, ki jo zadeva obdelava osebnih podatkov, imate v skladu z GDPR "
+"naslednje pravice, na katere vas moramo opozoriti:"
 
 #: ../../privacy.rst:60
 msgid ""
@@ -569,12 +681,24 @@ msgid ""
 "automated decision-making including profiling and, if applicable, "
 "meaningful information about its details."
 msgstr ""
+"V skladu s členom. 15 GDPR lahko zahtevate informacije o vaših osebnih "
+"podatkih, ki jih obdelujemo. Zlasti lahko zahtevate informacije o namenih "
+"obdelave, kategorijah osebnih podatkov, kategorijah prejemnikov, katerim so "
+"bili ali bodo vaši podatki razkriti, načrtovanem obdobju hrambe, obstoju "
+"pravice do popravka, izbrisa, omejitve obdelave ali ugovora, obstoju pravice "
+"do vložitve pritožbe, izvoru vaših podatkov, če niso bili zbrani pri nas, o "
+"njihovem prenosu v tretje države ali mednarodne organizacije, pa tudi o "
+"obstoju avtomatiziranega sprejemanja odločitev, vključno s profiliranjem, in "
+"po potrebi smiselne informacije o njegovih podrobnostih."
 
 #: ../../privacy.rst:61
 msgid ""
 "Pursuant to Art. 16 GDPR you may request the correction of incorrect "
 "personal data or the completion of your personal data stored by us."
 msgstr ""
+"V skladu s členom. 16 Splošne uredbe o varstvu podatkov lahko zahtevate "
+"popravek nepravilnih osebnih podatkov ali dopolnitev vaših osebnih podatkov, "
+"ki jih hranimo."
 
 #: ../../privacy.rst:62
 msgid ""
@@ -584,6 +708,11 @@ msgid ""
 " of a legal obligation, for reasons of public interest or for the "
 "assertion, exercise or defence of legal claims."
 msgstr ""
+"V skladu s členom. 17 GDPR lahko zahtevate izbris svojih osebnih podatkov, "
+"ki jih hranimo, razen če je takšna obdelava potrebna za uresničevanje "
+"pravice do svobode izražanja in obveščanja, za izpolnitev zakonske "
+"obveznosti, iz razlogov javnega interesa ali za uveljavljanje, izvajanje ali "
+"obrambo pravnih zahtevkov."
 
 #: ../../privacy.rst:63
 msgid ""
@@ -594,6 +723,12 @@ msgid ""
 "claims. You may also exercise the right under Art. 18 GDPR if you have "
 "objected to the processing. (Art. 21 GDPR)"
 msgstr ""
+"V skladu s členom. 18 GDPR lahko zahtevate omejitev obdelave svojih osebnih "
+"podatkov, če izpodbijate točnost podatkov, če je obdelava nezakonita, če "
+"podatkov ne potrebujemo več in če zavračate njihov izbris, ker jih "
+"potrebujete za uveljavljanje, izvajanje ali obrambo pravnih zahtevkov. Prav "
+"tako lahko uveljavljate pravico v skladu s čl. 18 GDPR, če ste ugovarjali "
+"obdelavi. (21. člen GDPR)"
 
 #: ../../privacy.rst:64
 msgid ""
@@ -601,6 +736,9 @@ msgid ""
 "that you have provided to us in a structured, common and machine-readable"
 " format or you can request it be transferred to a third party."
 msgstr ""
+"V skladu s členom. 20 GDPR lahko zahtevate, da vaše osebne podatke, ki ste "
+"nam jih posredovali, prejmemo v strukturirani, običajni in strojno berljivi "
+"obliki, lahko pa zahtevate, da se prenesejo tretji osebi."
 
 #: ../../privacy.rst:65
 msgid ""
@@ -608,6 +746,9 @@ msgid ""
 " any time. As a result, we may no longer process personal data based on "
 "this consent in the future."
 msgstr ""
+"V skladu s členom. 7(3) GDPR lahko kadar koli prekličete svoje soglasje, ki "
+"ste nam ga dali. Zaradi tega v prihodnosti ne bomo več obdelovali osebnih "
+"podatkov na podlagi te privolitve."
 
 #: ../../privacy.rst:66
 msgid ""
@@ -616,10 +757,14 @@ msgid ""
 "authority for your usual place of residence, your workplace or our "
 "company headquarters."
 msgstr ""
+"V skladu s členom. 77 Splošne uredbe o varstvu podatkov imate pravico "
+"vložiti pritožbo pri nadzornem organu. Praviloma se lahko obrnete na "
+"nadzorni organ v kraju vašega stalnega prebivališča, na vašem delovnem mestu "
+"ali na sedežu našega podjetja."
 
 #: ../../privacy.rst:69
 msgid "Right to object"
-msgstr ""
+msgstr "Pravica do ugovora"
 
 #: ../../privacy.rst:70
 msgid ""
@@ -630,10 +775,17 @@ msgid ""
 "directed against direct marketing, you have a general right of objection,"
 " which is followed by us without you having to state a particular reason."
 msgstr ""
+"Pri obdelavi vaših osebnih podatkov na podlagi zakonitih interesov v skladu "
+"s čl. 6(1) f Splošne uredbe o varstvu podatkov imate pravico, da v skladu s "
+"členom 6(1) f Splošne uredbe o varstvu podatkov. 21 Splošne uredbe o varstvu "
+"podatkov lahko ugovarjate obdelavi svojih osebnih podatkov iz razlogov, ki "
+"izhajajo iz vašega posebnega položaja. Če je ugovor usmerjen proti "
+"neposrednemu trženju, imate tudi splošno pravico do ugovora, ki ji sledimo, "
+"ne da bi vam bilo treba navesti poseben razlog."
 
 #: ../../privacy.rst:73
 msgid "Data security and security measures"
-msgstr ""
+msgstr "Varnost podatkov in varnostni ukrepi"
 
 #: ../../privacy.rst:74
 msgid ""
@@ -651,10 +803,22 @@ msgid ""
 "this. It is your responsibility to protect the data provided by you "
 "against misuse, e. g. by utilizing encryption technology."
 msgstr ""
+"Zavezujemo se, da bomo varovali vašo zasebnost in ohranjali zaupnost vaših "
+"osebnih podatkov. Da bi preprečili manipulacijo, izgubo ali zlorabo vaših "
+"podatkov, ki jih hranimo, izvajamo obsežne tehnične in organizacijske "
+"varnostne ukrepe, ki jih redno preverjamo in prilagajamo tehnološkemu "
+"napredku. To med drugim vključuje uporabo priznanih postopkov šifriranja. "
+"Vendar pa želimo opozoriti, da je zaradi narave interneta mogoče, da pravil "
+"o varstvu podatkov in zgoraj navedenih varnostnih ukrepov ne bodo upoštevale "
+"druge osebe ali ustanove zunaj našega področja odgovornosti. Zlasti "
+"nešifrirane podatke lahko preberejo tretje osebe - npr. če so poslani po "
+"elektronski pošti. Na to nimamo tehničnega vpliva. Vaša odgovornost je, da "
+"podatke, ki jih posredujete, zaščitite pred zlorabo, npr. z uporabo "
+"tehnologije šifriranja."
 
 #: ../../trainers.rst:2
 msgid "Trainers"
-msgstr ""
+msgstr "Trenerji"
 
 #: ../../trainers.rst:5
 msgid ""
@@ -662,6 +826,9 @@ msgid ""
 "can use this web-application to individually assess the training success "
 "of your trainees and improve it through training."
 msgstr ""
+"Če ste trener in usposabljate ljudi na področju poslušanja, lahko s to "
+"spletno aplikacijo individualno ocenite uspešnost usposabljanja svojih "
+"udeležencev in jo izboljšate z usposabljanjem."
 
 #: ../../trainers.rst:7
 msgid ""
@@ -669,6 +836,8 @@ msgid ""
 "at the beginning and end of a training session to monitor changes in "
 "self-assessment."
 msgstr ""
+"Od udeležencev lahko zahtevate, da izpolnijo obrazec za samooceno, na primer "
+"na začetku in na koncu usposabljanja, da bi spremljali spremembe v samooceni."
 
 #: ../../trainers.rst:8
 msgid ""
@@ -676,6 +845,10 @@ msgid ""
 "which trainees feel confident or insecure, enabling you, to track and "
 "target your training according to individual needs of trainees."
 msgstr ""
+"Samoocena zagotavlja informacije o področjih poslušanja, na katerih se "
+"pripravniki počutijo samozavestno ali negotovo, kar vam omogoča, da "
+"spremljate in usmerjate svoje usposabljanje glede na individualne potrebe "
+"pripravnikov."
 
 #: ../../trainers.rst:9
 msgid ""
@@ -684,10 +857,14 @@ msgid ""
 " the response options and their effect in the group. Furthermore, "
 "additional, and more complex case studies can be unlocked."
 msgstr ""
+"Udeležence usposabljanja o veščinah poslušanja lahko prosite, naj vadijo "
+"določene študije primerov na izbranih področjih poslušanja, razpravljajo in "
+"razmišljajo o možnostih odzivanja in njihovem učinku v skupini. Poleg tega "
+"lahko odklenete dodatne in bolj zapletene študije primerov."
 
 #: ../../trainers.rst:12
 msgid "How do I use the web application in training?"
-msgstr ""
+msgstr "Kako lahko spletno aplikacijo uporabljam pri usposabljanju?"
 
 #: ../../trainers.rst:14
 msgid ""
@@ -699,6 +876,13 @@ msgid ""
 "participant and use it for the adaptation of an individual training or "
 "make suggestions for targeted practice."
 msgstr ""
+"Udeležence v skupini za usposabljanje prosite, naj po opravljenem testu za "
+"samoocenjevanje shranijo svoj profil in ga pošljejo po e-pošti ali "
+"fotografirajo kodo QR. Udeležence prosite, naj vam pošljejo kodo, in jo "
+"vstavite na začetku aplikacije v polje za kodo. Nato si lahko ogledate "
+"rezultate vprašalnika vsakega udeleženca skupine in jih uporabite za "
+"prilagoditev individualnega usposabljanja ali podate predloge za ciljno "
+"usmerjeno vadbo."
 
 #: ../../trainers.rst:16
 msgid ""
@@ -709,4 +893,9 @@ msgid ""
 "moment on, additional case studies will be displayed in the training "
 "section. (Example for the code: ``fz3mp`` and the extension: ``afz3mp``)"
 msgstr ""
-
+"Za udeležence tečaja lahko odklenete tudi dodatne študije primerov, ki so "
+"zahtevnejše od treh osnovnih primerov. To storite tako, da od udeležencev "
+"usposabljanja zahtevate, da pred svojo profilno kodo zapišejo malo črko ``a``"
+" (``a`` pomeni \"advanced\"). Od tega trenutka naprej bodo v razdelku za "
+"usposabljanje prikazani dodatni primeri. (Primer za kodo: ``fz3mp`` in "
+"razširitev: ``afz3mp``)"
