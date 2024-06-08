@@ -7,7 +7,7 @@ Partners
 +-------------------------------+---------------+------------+----------------------------------------------------------------------------+
 |Universitätsklinikum Heidelberg|Germany        |Lead Partner|`www.klinikum.uni-heidelberg.de <https://www.klinikum.uni-heidelberg.de/>`_ |
 +-------------------------------+---------------+------------+----------------------------------------------------------------------------+
-|Studio Rucli                   |Germany        |Lead Partner|`www.studiorucli.it <http://www.studiorucli.it/>`_                          |
+|Studio Rucli                   |Italy          |Lead Partner|`www.studiorucli.it <http://www.studiorucli.it/>`_                          |
 +-------------------------------+---------------+------------+----------------------------------------------------------------------------+
 |Westcode GmbH                  |Germany        |Lead Partner|`westcode.de <https://www.westcode.de/>`_                                   |
 +-------------------------------+---------------+------------+----------------------------------------------------------------------------+
