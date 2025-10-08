@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MonaLiSa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-27 07:59+0200\n"
-"PO-Revision-Date: 2022-03-03 10:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-10-09 06:37+0000\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Hungarian <https://trans.westcode.de/projects/monalisa/"
 "documentation/hu/>\n"
 "Language: hu\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../changes.rst:2
@@ -157,11 +157,11 @@ msgstr "A német telemédiatörvény (TMG) 5. szakasza szerinti tájékoztatás"
 
 #: ../../imprint.rst:6
 msgid "IFOTES Europe e.V.,"
-msgstr ""
+msgstr "IFOTES Europe e.V.,"
 
 #: ../../imprint.rst:7 ../../imprint.rst:31 ../../privacy.rst:14
 msgid "Dödterstraße 10"
-msgstr ""
+msgstr "Dödterstraße 10"
 
 #: ../../imprint.rst:8 ../../imprint.rst:32 ../../privacy.rst:15
 msgid "58095 Hagen"
@@ -213,11 +213,11 @@ msgstr ""
 
 #: ../../imprint.rst:29 ../../privacy.rst:12
 msgid "Dr. Stefan Schumacher"
-msgstr ""
+msgstr "Dr. Stefan Schumacher"
 
 #: ../../imprint.rst:30 ../../privacy.rst:13
 msgid "IFOTES Europe e.V."
-msgstr ""
+msgstr "IFOTES Europe e.V."
 
 #: ../../imprint.rst:35
 msgid "Dispute resolution"
@@ -370,7 +370,7 @@ msgstr "Partnerek"
 
 #: ../../partners.rst:6
 msgid "IFOTES Europe"
-msgstr ""
+msgstr "IFOTES Europe"
 
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12 ../../privacy.rst:16
@@ -380,15 +380,15 @@ msgstr "Németország"
 #: ../../partners.rst:6 ../../partners.rst:8 ../../partners.rst:10
 #: ../../partners.rst:12
 msgid "Lead Partner"
-msgstr ""
+msgstr "Lead Partner"
 
 #: ../../partners.rst:6
 msgid "`ifotes.org <https://ifotes.org/>`_"
-msgstr ""
+msgstr "`ifotes.org <https://ifotes.org/>`_"
 
 #: ../../partners.rst:8
 msgid "Universitätsklinikum Heidelberg"
-msgstr ""
+msgstr "Universitätsklinikum Heidelberg"
 
 #: ../../partners.rst:8
 msgid ""
@@ -400,23 +400,23 @@ msgstr ""
 
 #: ../../partners.rst:10
 msgid "Studio Rucli"
-msgstr ""
+msgstr "Studio Rucli"
 
 #: ../../partners.rst:10
 msgid "`www.studiorucli.it <http://www.studiorucli.it/>`_"
-msgstr ""
+msgstr "`www.studiorucli.it <http://www.studiorucli.it/>`_"
 
 #: ../../partners.rst:12
 msgid "Westcode GmbH"
-msgstr ""
+msgstr "Westcode GmbH"
 
 #: ../../partners.rst:12
 msgid "`westcode.de <https://www.westcode.de/>`_"
-msgstr ""
+msgstr "`westcode.de <https://www.westcode.de/>`_"
 
 #: ../../partners.rst:14
 msgid "LESZ"
-msgstr ""
+msgstr "LESZ"
 
 #: ../../partners.rst:14
 msgid "Hungary"
@@ -425,15 +425,15 @@ msgstr "Magyarország"
 #: ../../partners.rst:14 ../../partners.rst:16 ../../partners.rst:18
 #: ../../partners.rst:20 ../../partners.rst:22
 msgid "Partner"
-msgstr ""
+msgstr "Partner"
 
 #: ../../partners.rst:14
 msgid "`sos116-123.hu <https://sos116-123.hu/>`_"
-msgstr ""
+msgstr "`sos116-123.hu <https://sos116-123.hu/>`_"
 
 #: ../../partners.rst:16
 msgid "Telefono Amico"
-msgstr ""
+msgstr "Telefono Amico"
 
 #: ../../partners.rst:16
 msgid "Italy"
@@ -441,11 +441,11 @@ msgstr "Olaszország"
 
 #: ../../partners.rst:16
 msgid "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
-msgstr ""
+msgstr "`www2.telefonoamico.it <http://www2.telefonoamico.it/>`_"
 
 #: ../../partners.rst:18
 msgid "SOS Amitié"
-msgstr ""
+msgstr "SOS Amitié"
 
 #: ../../partners.rst:18
 msgid "France"
@@ -1083,4 +1083,3 @@ msgstr ""
 
 #~ msgid "TBA"
 #~ msgstr "TBA"
-
